@@ -1,0 +1,46 @@
+MEDECIN: bonjour madame
+PATIENT: oui bonjour
+MEDECIN: bonjour je suis le docteur ABAZ de du SAMU donc on m'a dit que vous appeliez pour votre collègue de quarante sept ans qui avait des problèmes pour respirer c'est bien cela?
+PATIENT: oui heu c'est bien ça moi je trouve qu'il est gêné pour respirer heu bah pour être honnête heu moi j'ai eu un COVID assez long heu et en fait je l'ai eu y a deux ans maintenant
+MEDECIN: ok
+PATIENT: c'était au début du COVID en fait c'était en 2019 et
+MEDECIN: la la la gêne respiratoire a commencé quand exactement?
+PATIENT: ma gêne respiratoire à moi?
+MEDECIN: non de de votre collègue de votre collègue
+PATIENT: elle a commen- alors heu elle a commencé là aujourd'hui heu je je la trouve heu
+MEDECIN: à quelle heure exactement?
+PATIENT: respirer elle tousse après moi je pense c'est un peu un COVID parce que le quand j'ai eu mon COVID moi j'ai
+MEDECIN: depuis quand depuis quelle heure exactement elle se sent gênée pour respirer
+PATIENT: depuis heu pff je dirais trois quatre heures heu trois quatre heures
+MEDECIN: c'est la première fois que ça lui arrive au travail?
+PATIENT: bah ça fait un petit m- ça fait une semaine qu'elle est un peu gênée pour respirer quand même
+MEDECIN: ok
+PATIENT: ça fait une semaine et en fait le le
+MEDECIN: est ce que vous pouvez me la passer est ce que p- passez la moi au téléphone pardon
+PATIENT: parce que si m- enfin elle
+MEDECIN: passez la moi au téléphone s'il vous plait
+PATIENT: côté ok heu elle est à côté hein bon je vous la passe
+PATIENT: oui allo?
+MEDECIN: oui bonjour je suis le docteur ABAZ du SAMU heu on m'a dit que vous aviez des problèmes pour respirer
+PATIENT: oui c'est ça oui oui
+MEDECIN: depuis combien de temps vous avez cette gêne respiratoire?
+PATIENT: bah ça fait une semaine que je suis gênée pour respirer heu c'est heu
+MEDECIN: vous avez consulté pour ça ou pas?
+PATIENT: j'ai pas consulté non non parce que je suis pas inquiète après heu mon collègue elle elle ma collègue elle pense que c'est le COVID après moi j'en sais rien mais c'est vrai qu'elle est traumatisée donc heu
+MEDECIN: est ce que vous avez des des problèmes de santé habituellement?
+PATIENT: heu non j'ai pas de j'ai je prends juste un un ou deux traitements
+MEDECIN: vous prenez quoi comme traitement?
+PATIENT: je fais une hypothyroïdie et heu et heu l'autre c'est pour la constipation
+MEDECIN: est ce que vous avez d'autre symptômes à part la gêne respiratoire?
+PATIENT: heu non j'ai pas d'autre j'ai pas d'autre symptôme non
+MEDECIN: ok madame pour pour votre problème là il faudra aller voir un médecin hum il faut aller voir un médecin heu je vous laisse prendre contact avec votre médecin traitant pour le pour le voir heu dans la journée ou dans la semaine
+PATIENT: ok mais on est lundi là c'est pas grave si je le vois samedi?
+MEDECIN: heu y a aucun soucis si la situation s'aggrave entre temps vous pouvez consulter heu soit une maison médicale ou aux urgences
+PATIENT: d'accord ok
+MEDECIN: nous on reste dispo-
+PATIENT: je vous repasse mon collègue parce que je pense qu'il a d'autres choses à vous dire heu
+MEDECIN: c'est pas la peine c'est pas la peine
+PATIENT: d'accord
+MEDECIN: bonne journée au revoir
+PATIENT: au revoir merci docteur
+MEDECIN: au revoir

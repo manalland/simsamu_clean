@@ -1,0 +1,43 @@
+MEDECIN: bonjour docteur DETOURY au SAMU
+PATIENT: oui bonjour bonjour je je oui?
+MEDECIN: vous appelez pour votre grand mère c'est ça?
+PATIENT: oui c'est mamie elle va pas bien du tout
+MEDECIN: elle a vomi du sang c'est ce qu'on m'a dit?
+PATIENT: oui elle a vomi là elle vomit je je vois le vomi et il y a il y a du vo- il y a un peu de sang là partout là je
+MEDECIN: ah il y a un peu de sang il y a un peu de sang mélangé au vomi
+PATIENT: oui
+MEDECIN: d'accord et heu est ce que hum ça fait ça dure depuis aujourd'hui ou c'était déjà les jours précédents?
+PATIENT: c'est c'est aujourd'hui là les vomi- les les vomissements
+MEDECIN: c'est la première fois que ça arrive?
+PATIENT: non mais après elle vomit là hein depuis plusieurs jours hein
+MEDECIN: depuis plusieurs jours elle vomit
+PATIENT: va pas bien du tout elle va pas bien
+MEDECIN: depuis plusieurs jours elle vomit et là aujourd'hui apparaissent des traces de sang mélangées au vomi c'est bien ça que vous me dites?
+PATIENT: oui c'est ça
+MEDECIN: et est ce que ces derniers jours elle a vu un médecin pour ses vomissements?
+PATIENT: non ma mamie elle est toute seule hein et là je passe la voir moi tous les jours mais elle est toute seule la chouchoute
+MEDECIN: elle a pas de médecin traitant?
+PATIENT: bah pff il est dé- il est lui il est à la retraite hein son médecin
+MEDECIN: il est à la retraite
+MEDECIN: hum est ce que votre grand mère elle a des problèmes de santé connus?
+PATIENT: ah elle est hypertendue elle a du diabète heu et heu et elle a une cataracte aussi elle a eu une fracture du col du fémur en 1999
+PATIENT: heu elle a fait un AIT en 86 suivi maintenant à hum à ROTSCHILD heu quand elle était petite elle est tombée de la piscine
+MEDECIN: dans ses médicaments dans ses mé- dans ses médicaments est ce qu'il y a hum des anticoagulants est ce que vous pouvez me dire ce qu'il y a dans ses médicaments peut être il y a KARDEGIC ou XA- non XARELTO APIXABAN ce genre de choses?
+PATIENT: non il y a pas il y a pas
+MEDECIN: il y a pas d'accord hum votre grand mère il faudrait qu'elle voit un médecin il faudra qu'elle voit un médecin
+PATIENT: oui oui oui
+MEDECIN: heu je peux vous faire passer un médecin à domicile si heu elle a pas de médecin traitant je vais juste voir avec mes collègues un peu quels sont les délais et quels sont les médecins disponibles
+PATIENT: vous pensez que c'est grave?
+MEDECIN: ça n'en a pas l'air
+PATIENT: ma petite chouchoute
+MEDECIN: heu ça n'en a pas l'air cependant c'est important heu je pense de voir un médecin dans les vingt quatre heures je vais voir si j'ai des médecins disponibles pour passer à domicile et sinon je vous orienterai vers la maison médicale de garde
+PATIENT: ok ok
+MEDECIN: il y a pas mal de délai madame pour les médecins à domicile en revanche je vois je vois sur la carte que vous habitez juste à côté de la maison médicale de garde je vais vous donner l'adresse
+MEDECIN: et je vais vous laisser
+PATIENT: et là on va faire comment là tout seule parce que
+MEDECIN: vous présenter avec elle à la maison médicale de garde vous emportez avec vous le traitem- heu ses ordonnances heu les la le dernier dossier médical que vous ayez pour elle et vous l'emmenez voir le médecin généraliste de la maison médicale voici l'adresse bla bla bla l'adresse
+PATIENT: on va pas aux urgences là avec des vomissements de sang non?
+MEDECIN: ce sera mieux d'aller voir un médecin généraliste à la maison médicale de garde
+PATIENT: bon d'accord ok
+MEDECIN: très bien au revoir madame
+PATIENT: au revoir merci

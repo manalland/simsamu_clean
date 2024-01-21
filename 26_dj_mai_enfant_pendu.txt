@@ -1,0 +1,19 @@
+PATIENT: allo allo?
+MEDECIN: oui bonjour
+PATIENT: oui a- allo allo oui j- je ​suis j- je suis je suis à la maison là mon fils il s'est pendu j'ai besoin d'un d'un d'un médecin tout de suite tout de suite il me faut m'envoyer un médecin
+MEDECIN: les les secours partent tout de suite là monsieur ils partent tout de suite d'accord?
+PATIENT: ok ok
+MEDECIN: vous êtes a- vous êtes arrivé à quelle heure là à la maison?
+PATIENT: ​je suis arrivé il y a la en fait j'étais à la maison et j'arrive il y a quinze minutes et je le vois heu heu pendu au toboggan heu il était tout bleu heu j'ai besoin d'un médecin tout de suite là
+MEDECIN: il y a le il y a le les médecins qui arrivent aussi hein également ils arrivent tout de suite aussi là il votre enfant il est il est où là il est dans le jardin?
+PATIENT: non non non il est
+MEDECIN: il est au sol?
+PATIENT: il est à côt- non il est à côté de moi là mais il était devenu tout bleu et tout
+MEDECIN: il respire?
+PATIENT: oui il respire un un peu difficilement là mais ça va il respire et et et et il s'est détaché au fait il s'est bloqué avec heu avec le
+MEDECIN: i- i- il est conscient là il est conscient?
+PATIENT: oui oui il est conscient il respire il est conscient là
+MEDECIN: d'accord vous vous vous mettez à côté de lui vous l'allongez et heu et les médecins et les pompiers arrivent tout de suite
+PATIENT: ok d'accord bah merci et les il y aura un médecin il y aura un médecin avec le les pompiers?
+MEDECIN: oui il y aura le médecin avec les pompiers également
+PATIENT: merci beaucoup

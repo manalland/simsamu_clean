@@ -1,0 +1,50 @@
+MEDECIN: oui bonjour madame FABRICE DAMAS je suis médecin de la régulation heu du coup vous me confirmez vous m'appelez pour heu pour vous appelez pour votre grand père c'est ça qui a quatre vingt cinq ans qui se plaint d'une douleur au ventre
+PATIENT: oui oui oui c'est ça oui bah là il faut il faut qu'on l'emmène à l'hôpital c'est le médecin traitant qui l'a dit mais heu mais on a rien pour l'emmener quoi on a rien moi je j'ai pas de voiture heu ma soeur elle veut pas venir et heu le médecin traitant il nous dit de passer donc là pff là je sais pas quoi faire hein
+MEDECIN: il a il a mal au ventre est ce qu'il a d'autres symptômes madame est ce qu'il a des vomissements?
+PATIENT: non non non on a juste juste on sait pas comment l'emmener à l'hôpital donc heu je suis très embêtée et le médecin traitant nous a dit de vous appeler pour qu'on ait une ambulance pour l'emmener à l'hôpital
+MEDECIN: oui j'entends bien madame que vous soyez donc embêtée je vais refaire un petit peu le point avec vous il a des heu diarrhées aussi ce monsieur?
+PATIENT: non non non juste heu juste mal au ventre
+MEDECIN: est ce qu'il a des problèmes de santé madame?
+PATIENT: heu pff il a de la tension depuis longtemps et heu et la prostate il a des problèmes à la prostate mais heu
+PATIENT: là je vous je vous avoue que je commence à en avoir un petit peu marre parce que ça fait quatre fois que je répète la même chose ​à vos collègues et heu et on a toujours pas de solution et là bah mon pa- mon grand père il a il a mal quoi il a super mal on a pas de traitement et ma soeur elle veut pas venir j'ai essayé de la faire venir en voiture elle veut pas venir
+MEDECIN: est ce qu'il prend des médicaments tous les jours le monsieur?
+PATIENT: en ce moment
+MEDECIN: est ce qu'il prend des médicaments?
+PATIENT: pardon?
+MEDECIN: est ce qu'il prend des médicaments tous les jours?
+PATIENT: heu pour la tension oui je crois
+MEDECIN: il prend pas d'anticoagulant madame?
+PATIENT: ah je sais pas ce que c'est
+MEDECIN: KARDEGIC PLAVIX COUMADINE il prend pas ce genre de médicament ceux que je vous ai cité
+PATIENT: non non ça me ça me dit rien ça me dit rien
+MEDECIN: et le médecin
+PATIENT: et là ma soeur elle va pas venir donc
+MEDECIN: et le médecin traitant vous dites vous dites que vous avez vu le médecin traitant madame qu'est ce qu'il a dit le médecin traitant il est toujours là?
+PATIENT: oui on a on a eu le médecin traitant au téléphone mais bon vous savez heu depuis que c'est son remplaçant c'est un peu compliqué donc heu il nous a dit d'appeler le 15 donc heu c'est ce que j'ai fait mais il est pas très aidant hein il nous a dit qu'il fallait aller à l'hôpital
+MEDECIN: monsieur est ce qu'il est conscient est ce qu'il parle avec vous?
+PATIENT: pardon?
+MEDECIN: est ce qu'il parle avec vous est ce qu'il est bien conscient est ce qu'il communique facilement le monsieur?
+PATIENT: oui oui il me parle il parle hein il il en marre hein il il est grognon quoi hein comme moi parce qu'on trouve pas de de transport hein mais oui oui il parle il est conscient comme d'habitude hein ça il a son caractère hein
+MEDECIN: donc votre grand père il a des vomisse- il a pas de vomissements pardon une douleur au ventre
+PATIENT: non oui
+MEDECIN: voilà on est d'accord heu du coup madame je vais vous envoyer une ambulance pour heu transporter votre grand père vers les urgences
+PATIENT: d'accord et il y en a pour longtemps? parce que ça fait pff ça fait au moins deux heures là qu'on essaye d'avoir quelqu'un
+MEDECIN: alors je vous envoie l'ambulance madame dans un délai d'une heure
+PATIENT: une heure? oh la la comment on fait nous?
+MEDECIN: madame je vous l'envoie l'ambulance
+PATIENT: en plus heu
+MEDECIN: moi je vous envoie l'ambulance parce que
+PATIENT: y a pas d'autre solution? on peut pas avoir un médecin très rapidement?
+MEDECIN: la solution madame c'est de vous envoyer l'ambulance pour que votre grand père aille aux urgences
+PATIENT: d'accord d'accord donc là j'attends l'ambulance?
+MEDECIN: c'est ça madame vous attendez l'ambulance pour que votre grand père aille aux urgences
+PATIENT: d'accord ok
+MEDECIN: voilà madame vous me rappelez si y a des vomissements avec du sang dans les vomissements d'accord?
+PATIENT: du sang? ah non non mais il y a pas de sang hein par contre
+MEDECIN: si c'est le cas madame
+PATIENT: ça fait quelques jours qu'il man- qu'il mange du riz depuis quelques jours là et j'ai l'impression qu'il va moins aux toilettes
+MEDECIN: d'accord madame on va en- j'envoie l'ambulance hein
+PATIENT: d'accord d'accord donc je lui donne rien en en attendant
+MEDECIN: non madame donnez rien j'envoie l'ambulance elle vient vous chercher elle vient chercher votre grand père
+PATIENT: d'accord d'accord
+MEDECIN: au revoir madame

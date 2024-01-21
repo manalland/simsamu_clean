@@ -1,0 +1,38 @@
+MEDECIN: bonjour monsieur DIANE DOUPLE je suis médecin du SAMU heu vous appelez parce que vous avez heu des symptômes d'AVC c'est ça?
+PATIENT: de d'a- d'AVC je je sais pas je suis désolé d'appeler hein désolé de déranger là je sais que vous avez du travail hein
+MEDECIN: il y a pas de problème expliquez moi ce qui vous arrive comme symptômes
+PATIENT: bah bah oui mon bras il il est bizarre
+MEDECIN: d'accord c'est lequel?
+PATIENT: c'est le bras gauche
+MEDECIN: et ça a commencé quand?
+PATIENT: j'ai j'ai fait une sieste et ça a commencé après
+MEDECIN: c'était à quelle heure que vous vous êtes réveillé?
+PATIENT: je me suis réveillé à treize heures trente
+MEDECIN: treize heures trente vous avez des problèmes de santé?
+PATIENT: heu oui j'ai des problèmes de santé
+MEDECIN: vous pouvez me dire lesquels?
+PATIENT: heu j'ai j'ai du diabète je crois et la tension aussi
+MEDECIN: les médicaments que vous prenez vous les connaissez?
+PATIENT: non je connais pas le le nom
+MEDECIN: faudrait faut que vous récupériez l'ordonnance heu chez vous et que vous me donniez les les noms des médicaments
+PATIENT: d'accord
+MEDECIN: je vous laisse y aller?
+PATIENT: heu là je
+PATIENT: et je j'y vais hein mais heu je crois que je l'ai perdue je je sais pas où elle est je je la trouve pas
+MEDECIN: et votre bras gauche il bouge plus là?
+PATIENT: et heu le b- non la main bouge plus
+MEDECIN: et par contre si vous prenez la la main droite et que vous touchez le la main gauche vous sentez bien?
+PATIENT: oui oui je sens je sens bien j'ai pris du paracétamol hein
+MEDECIN: vous êtes tout seul à la maison là?
+PATIENT: oui je suis seul madame
+MEDECIN: alors j'aimerais que vous vous allongiez et heu je vais envoyer les secours pour aller jusqu'à chez vous
+PATIENT: d'accord
+MEDECIN: là je je pense que
+PATIENT: c'est possible que quelqu'un faut que j'aille à l'hôpital si c'est obligé il y a pas quelqu'un qui peut venir me faire une piqûre pour la douleur?
+MEDECIN: non il faut que vous alliez à l'hôpital c'est obligatoire et je pense que vous pouvez faire un
+PATIENT: embêter à l'hôpital hein moi je veux je préfererais que quelqu'un vienne quand même pour me f- pour la douleur de mon bras
+MEDECIN: vous embêterez pas à l'hôpital monsieur moi j'ai besoin qu'il y ait un médecin qui vous évalue et là vous pouvez pas vous déplacer dans l'immédiat donc je vous envoie les secours qui vont arriver chez vous en attendant il faut que vous vous allongiez et que vous gardiez votre téléphone près de vous pour qu'ils puissent vous joindre en arrivant
+MEDECIN: d'accord?
+PATIENT: d'accord madame oui
+MEDECIN: au revoir
+PATIENT: au revoir

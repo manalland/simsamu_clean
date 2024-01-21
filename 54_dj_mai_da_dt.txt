@@ -1,0 +1,20 @@
+MEDECIN: bonjour bonjour docteur SAEB du coup vous appelez parce que vous avez mal au ventre c'est bien ça?
+PATIENT: oui bonjour oui oui c- enfin c'est ma femme qui m'a demandé d'appeler hein j'ai pff j'ai elle m'a elle m'a demandé d'appeler elle est inquiète pour moi mais en vrai moi je plutôt je me
+MEDECIN: vous avez mal au ventre depuis combien de temps?
+PATIENT: heu bah la douleur elle a commencé un peu ce matin heu elle venait elle partait heu et puis heu
+MEDECIN: vous avez des diarrhées vous êtes constipé en ce moment?
+PATIENT: non non pas du tout pas pas de diarrhée pas de constipation rien du tout
+MEDECIN: vous avez vomi?
+PATIENT: heu non pas de vomissements
+MEDECIN: de la fièvre?
+PATIENT: non pas de fièvre
+MEDECIN: vous avez des problèmes de santé particuliers?
+PATIENT: oh bah non pas trop hein heuh j'ai soixante ans mais heu oh pas pas trop de problème de santé heu
+MEDECIN: monsieur il il faut que vous alliez voir un médecin y a pas d'urgence aàce que vous alliez le voir aujourd'hui mais il faut prendre rendez vous là pour heu d'ici la fin de la semaine pour aller voir un médecin
+PATIENT: c'est c'est ce que je disais à ma femme et elle elle était très inquiète voilà elle me disait il faut absolument appeler le médecin appeler le médecin je
+MEDECIN: vous avez bien fait d'appeler le le SAMU vous avez bien fait d'appeler le SAMU et maintenant i- je vous dis qu'il faut aller voir un médecin heu dans les prochains jours vous avez du DOLIPRANE à la maison?
+PATIENT: heu oui oui du DOLIPRANE j'en ai pris mais c'est vrai que heu la ça a pas fait beaucoup effet mais quand quand je reste au reposé la douleur elle part heu quasiment toute seule heu même elle diminue franchement hein donc ça va en vrai
+MEDECIN: ok bon eh bah je vous laisse prendre rendez vous avec votre médecin traitant pour heu pour faire le point cette semaine
+PATIENT: ok pas de souci
+MEDECIN: au revoir
+PATIENT: au revoir

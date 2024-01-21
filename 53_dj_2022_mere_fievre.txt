@@ -1,0 +1,59 @@
+MEDECIN: bonjour monsieur docteur CHI-
+PATIENT: allo allo?
+MEDECIN: oui allo?
+PATIENT: allo?
+MEDECIN: bonjour monsieur docteur CHITZ
+PATIENT: bonjour
+MEDECIN: je vous appelez pour votre maman qui a de la fièvre c'est ça?
+PATIENT: ouais c'est c'est maman elle a de la fièvre ouais ouais
+MEDECIN: d'accord
+PATIENT: ouais
+MEDECIN: qu'est ce qui vous inquiète particulièrement, elle a d'autres symptômes?
+PATIENT: bah je je sais pas trop elle a de la fièvre ça chauffe quoi
+MEDECIN: ça chauffe. d'accord
+PATIENT: elle a chaud
+MEDECIN: elle a chaud. depuis combien de temps?
+PATIENT: heu bah elle m'a dit ça ce matin et après hier je sais plus hein, mais heu ce matin ça chauffe et de la fièvre
+MEDECIN: je peux lui parl-, je peux, est ce que vous pouvez me la p-, non. passez la moi
+PATIENT: ah non non, elle est pas dans la même pièce c'est chaud. non non non il faut pas je peux pas la passer
+MEDECIN: oh hum. non mais allez y, allez allez la voir et mettez là au téléphone
+PATIENT: non mais elle veut pas elle veut pas. elle est fatiguée, elle a chaud elle peut pas parler
+MEDECIN: elle peut pas parler
+PATIENT: faut l'amener à l'hôpital de toute façon parce que parce que elle a trop chaud, elle a la fièvre donc heu
+MEDECIN: elle elle a du mal à respirer?
+PATIENT: ​heu je regarde
+PATIENT: non ça va, ça va
+MEDECIN: ah donc vous êtes à côté d'elle?
+PATIENT: oui bah je suis allé la voir quoi
+MEDECIN: d'accord. donc passez la moi
+PATIENT: mais elle veut pas parler heu c'est. maman euh? non je je lui demande mais elle veut pas elle
+MEDECIN: pourquoi elle veut pas?
+PATIENT: heu bah je sais pas moi, j'en sais rien
+MEDECIN: ok hum
+MEDECIN: fièvre hum
+MEDECIN: elle a d'autre problèmes de santé?
+PATIENT: elle a deux trois trucs ouais
+MEDECIN: deux trois trucs?
+PATIENT: y a un médecin qui la suit pour ça
+MEDECIN: hum d'accord
+MEDECIN: hum je veux, je je souhaite lui parler, vous pouvez me la passer au téléphone s'il vous plait?
+PATIENT: bah je vais essayer alors
+MEDECIN: allez y
+PATIENT: non mais elle veut pas, elle veut pas. elle m'a dit casse toi heu
+MEDECIN: casse toi?
+PATIENT: elle m'a dit fout moi la paix alors après. c'est pour ça il faut l'amener à l'hôpital. là je peux pas la gérer hein
+MEDECIN: bon hum. concrètement il faut aller voir un médecin heu hum donc essayez d'aller dans la maison médicale près de vous
+PATIENT: ah non mais je faut l'emmener à l'hôpital, moi je peux pas gérer, j'ai j'ai pas le permis, je peux pas l'amener elle
+MEDECIN: ok
+PATIENT: elle est forte ma mère hein, elle est grosse heu genre je
+PATIENT: c'est compliqué hein, moi je peux pas
+MEDECIN: alors ce qu'on va faire dans ce cas c'est que je vais vous envoyer un médecin à la maison pour qu'il évalue votre mère d'accord?
+PATIENT: mais moi je peux pas gérer ma mère comme ça à la maison heu je suis désolé moi je j'arrive pas heu heu. je comprends rien à son ordonnance fin voilà, donc faut l'amener à l'hôpital je crois que c'est grave hein. elle a très très chaud, elle avait de la fièvre tout ça
+MEDECIN: oui. monsieur je comprends votre soucis on va f- heu je vais faire passer un médecin à la maison
+PATIENT: mais après il va l'amener à l'hôpital alors?
+MEDECIN: bah il va l'évaluer et on. il nous rappellera
+PATIENT: et peut être qu'on va l'amener à l'hôpital alors?
+MEDECIN: c'est lui qui décidera
+PATIENT: bon bah d'accord alors
+MEDECIN: ok. au revoir monsieur
+PATIENT: au revoir

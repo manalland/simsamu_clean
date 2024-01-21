@@ -1,0 +1,46 @@
+MEDECIN: bonjour madame
+PATIENT: allo bonjour
+MEDECIN: bonjour je suis le docteur ABAS du SAMU heu on m'a dit que vous appeliez pour votre frère de trente deux ans qui se présentait ​heu une douleur thoracique c'est bien cela?
+PATIENT: bah surtout il se sent pas bien là
+MEDECIN: c'est-à-dire dîtes m'en plus
+PATIENT: bah il se sent pas bien il fait un malaise
+MEDECIN: est ce qu'il est conscient?
+PATIENT: oui
+MEDECIN: il respire normalement?
+PATIENT: heu bah je sais pas trop heu oui oui
+MEDECIN: est ce qu'il
+PATIENT: oui oui
+MEDECIN: est ce qu'il est pâle?
+PATIENT: ah oui oui docteur il est pâle hein là mon frère
+MEDECIN: il est dans quelle position il est assis allongé?
+PATIENT: il est assis heu là sur le canapé
+MEDECIN: ok il se tient heu le le cœur il a une position particulière ou pas du tout?
+PATIENT: heu oui il a la main heu sur le côté là
+MEDECIN: ok heu donc heu si est ce que vous pouvez enfin passez le moi au téléphone s'il vous plait
+PATIENT: ah bah il parle pas français mon frère docteur
+MEDECIN: bon heu est ce qu'il a des problèmes de santé particuliers?
+PATIENT: bah là il a mal hein
+MEDECIN: mais en temps normal est ce qu'il a des problèmes de diabète il a des problèmes d'hypertension?
+PATIENT: ah non non non
+MEDECIN: il fume?
+PATIENT: il a pas ça
+PATIENT: ah oui il fume je lui ai dit qu'il fallait arrêter mais il m'écoute pas
+MEDECIN: la douleur elle est apparue quand exactement?
+PATIENT: bah là tout à l'heure il rentrait du travail heu
+MEDECIN: ça fait combien de temps une heure deux heures?
+PATIENT: oh ça fait moins d'une heure là et il se tient il est pas bien il est pale il fait un malaise
+MEDECIN: c'est la première fois qu'il heu qu'il a ce genre de douleurs?
+PATIENT: heu je crois oui
+MEDECIN: la douleur il la décrit comment est ce que ça serre ça pique?
+PATIENT: heu je lui demande
+PATIENT: il dit ça fait un point
+MEDECIN: bon ce qu'on va faire madame c'est qu'on va vous envoyer heu un médecin sur place heu avec des pompiers y a le une équipe du SAMU avec un médecin qui va arriver et les pompiers qui vont se déplacer également
+PATIENT: d'accord
+MEDECIN: voilà
+PATIENT: merci docteur
+MEDECIN: en attendant vous restez avec lui et si il heu y a un tout changement de situation de si il perd connaissance ou qu'il lui arrive quoique ce soit de nouveau vous nous rappelez
+PATIENT: d'accord donc là je reste avec lui?
+MEDECIN: vous restez avec lui oui
+PATIENT: d'accord
+PATIENT: merci docteur
+MEDECIN: au revoir

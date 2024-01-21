@@ -1,0 +1,36 @@
+MEDECIN: bonjour madame
+PATIENT: oui?
+MEDECIN: oui docteur SHITZ, hum celle du SAMU. alors votre soeur est en train d'accoucher c'est ça?
+PATIENT: bah ouais ouais ouais ouais là elle est en train je pense hein parce que y a tout le bordel partout là
+MEDECIN: hum ok
+PATIENT: faut faut venir la chercher c'est plus possible hein
+MEDECIN: madame elle est a combien de semaine là votre soeur?
+PATIENT: mais j'en sais rien. elle devait pas accoucher avant un mois et là c'est le bordel partout heu. moi c'est bon là faut venir la récupérer
+MEDECIN: y a de ok. madame ce qu'on va faire, on va vous envoyer les pompiers
+MEDECIN: allo
+PATIENT: les pompiers? mais pourquoi les pompiers?
+PATIENT: mais attendez elle je sais pas là elle a mal elle est je sais pas la perte des eaux là là tout ça là
+MEDECIN: bah justement. juste-
+PATIENT: y en a partout dans mon salon là, moi mon salon il est mort là
+MEDECIN: quoi? heu le salon oui heu
+MEDECIN: madame madame. on vous envoie les pompiers, restez avec elle
+MEDECIN: préparez du linge propre, mettez là à l'aise
+PATIENT: attendez
+MEDECIN: oui madame é- écoutez moi. mettez là au assise, vous me- vous préparez du linge propre et les pompiers arrivent
+PATIENT: mais assise?
+PATIENT: mais mais mais moi je vais pas lui donner du linge propre. bah attendez elle a laissé ses affaires chez elle. heu fallait qu'elle aille chez elle moi j'en sais rien, pourquoi elle vient chez moi?
+MEDECIN: madame, les pompiers arrivent
+MEDECIN: préparez le linge propre
+PATIENT: ah bah les pompiers arriveront tous sales hein sans linge propre hein
+MEDECIN: très bien. restez avec elle, il arrivent
+PATIENT: et je fais rien en attendant?
+MEDECIN: hum
+MEDECIN: elle saigne?
+PATIENT: bah non non bah c'est de l'eau je pense hein je sais pas
+MEDECIN: c'est de l'eau
+PATIENT: liquide transparent
+MEDECIN: voilà restez avec elle, restez avec elle, ils arrivent
+MEDECIN: ils arrivent
+PATIENT: d'accord
+MEDECIN: au revoir madame
+PATIENT: bah au revoir

@@ -1,0 +1,63 @@
+MEDECIN: bonjour madame je suis le docteur ABAZ du SAMU
+PATIENT: allo bonjour docteur il faut m'envoyer tout de suite un médecin là ma copine elle s'est brûlée moi je suis secouriste secouriste j'ai bes- j'ai reconnu les signes heu de gravité là il faut m'envoyer tout de suite un médecin ça va pas du tout
+MEDECIN: ok
+PATIENT: il faut l'envoyer en fait parce que on était en train de cuisiner
+MEDECIN: mad- madame je suis le docteur ABAZ du SAMU dites moi
+PATIENT: vous êtes le docteur
+MEDECIN: dites moi c'est votre copine de seize ans qui s'est brûlée c'est bien cela?
+PATIENT: oui c'est ça
+MEDECIN: elle s'est brûlée quand exactement?
+PATIENT: bah là là elle vient de se brûler là
+MEDECIN: elle s'est brûlée avec quoi?
+PATIENT: j'ai appris des trucs en secourisme
+MEDECIN: elle s'est brûlée avec quoi?
+PATIENT: bah on était en train de cuisiner heu c'est le la heu la poêle qui a pris feu enfin le la nourriture
+MEDECIN: elle est brûlée ​à quel niveau?
+PATIENT: elle est brûlée au niveau du bras là le tout le bras là c'est c'est complètement brûlé là monsieur heu c'est
+MEDECIN: ça va de où à où du poignet jusqu'au coude? du coude jusqu'à jusqu'à l'épaule?
+PATIENT: bah heu tout le bras heu le le poignet jusqu'au coude et un peu au dessus aussi
+MEDECIN: vous avez fait quoi jusqu'à maintenant pour la brûlure?
+PATIENT: eh bah on a éteint le feu
+MEDECIN: et pour la plaie est ce qu'il y a un pansement qui a été fait?
+PATIENT: ah bah on attend que le médecin arrive vous nous avez envoyé un médecin là?
+MEDECIN: madame est ce que la la la plaie suinte est ce que y a y a des cloques? a quoi elle ressemble?
+PATIENT: bah oui y a des cloques y a des cloques partout là
+MEDECIN: est ce que votre amie est à côté ou pas?
+PATIENT: oui elle est à côté oui
+MEDECIN: passez la moi au téléphone
+PATIENT: d'accord hum
+MEDECIN: madame?
+PATIENT: allo
+MEDECIN: bonjour je suis le docteur ABAZ du SAMU
+PATIENT: ah docteur j'ai trop mal
+MEDECIN: vous avez mal au bras c'est bien cela?
+PATIENT: oui
+MEDECIN: vous vous êtes brûlée avec la poêle de la cuisine c'est bien cela?
+PATIENT: bah oui c'est ce que ma pote elle vous a dit ouais
+MEDECIN: heu là le la brûlure elle est à quel niveau heu la localisation exactement c'est donc c'est le c'est tout le bras c'est une partie du bras?
+PATIENT: tout le bras comme elle vous a dit
+MEDECIN: ok
+MEDECIN: là vous avez pris quelque chose pour la douleur?
+PATIENT: bah non j'attends le docteur là
+MEDECIN: ce qu'on va faire madame c'est que vous allez prendre heu de l'eau froide vous allez verser cette eau froide sur votre plaie
+MEDECIN: et puis avec
+PATIENT: j'enlève mon pull ou pas? j'avais un pull
+MEDECIN: oui vous enlevez le pull vous enlevez le pull
+PATIENT: ok
+MEDECIN: vous
+PATIENT: j'enlève le pull je mets de l'eau froide
+MEDECIN: vous mettez de l'eau
+PATIENT: mais ça va faire mal ça l'eau docteur
+MEDECIN: c'est p- c'est ça va faire mal mais il faut mettre de l'eau froide pour justement diminuer heu le hum comment dire heu pour que la plaie guérisse mieux il faut mettre de l'eau froide
+PATIENT: de vous?
+MEDECIN: oui vous mettez de l'eau froide on a les pompiers qui vont qui arrivent sur place heu qui ont été déclenchés ils sont sur la route
+PATIENT: donc il y a pas de docteur là il y a que les pompiers ma pote elle est secouriste en fait et elle m'a dit là il faut un docteur
+MEDECIN: les pompiers vont arriver et si ils jugent qu'il y a besoin d'un docteur ils vont déclencher un médecin par la suite
+PATIENT: bon bah hein ok on leur dira alors heu donc là j- j'enlève mon pull et je mets sous l'eau froide
+MEDECIN: exactement
+PATIENT: ok
+MEDECIN: c'est bien clair?
+PATIENT: merc- oui vous voulez que je vous repasse ma copine secouriste?
+MEDECIN: non ça ne sera pas nécessaire
+PATIENT: d'accord
+MEDECIN: bonne journée au revoir

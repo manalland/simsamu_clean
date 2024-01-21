@@ -1,0 +1,102 @@
+MEDECIN: ok bonjour madame
+PATIENT: oui bonjour
+MEDECIN: oui b- docteur SHITZ vous appelez pour votre frère qui est qui est dans qui est rép- répond plus
+PATIENT: oui c'est ça
+MEDECIN: c'est ça?
+MEDECIN: hum ok c'est depuis quand qu'il répond plus?
+PATIENT: bah là je viens de je viens de me lever je suis allé le voir et il est en train de dormir il il il répond pas
+MEDECIN: hum et v- hum
+MEDECIN: quand vous le stimulez il répond pas du tout?
+PATIENT: bah il grogne
+MEDECIN: il grogne. il respire pas?
+PATIENT: il respire si
+MEDECIN: si
+MEDECIN: et heu quand là essayez de le secouer il vous répond pas?
+PATIENT: il grogne
+MEDECIN: oui bon mais si vous le secouez, il vous répond?
+PATIENT: il grogne heu il r- il râle, il grogne il fait et c'est tout
+MEDECIN: il a des problèmes de santé?
+PATIENT: il se réveille pas bien
+PATIENT: comment?
+MEDECIN: il a des problèmes de santé votre frère?
+PATIENT: bah non hum non je crois pas
+MEDECIN: il prend pas de médicaments?
+PATIENT: heu bah je crois qu'il a un médicament, un médecin lui a prescrit l'année dernière mais je je sais pas ce que c'est
+MEDECIN: c'est il y a pas de médicament à côté de lui sur le sur le co- sur la commode?
+PATIENT: non j'en j'en ai pas vu
+MEDECIN: il y a pas une ordonnance à côté ou vous savez les médicaments qu'il prend?
+PATIENT: heu non j'en ai pas vu heu
+PATIENT: mais je crois que c'est un médicament parce qu'il est un peu un peu stressé heu
+PATIENT: je crois que c'est pour ça
+MEDECIN: et là juste avant il était enfin c'était quand la dernière fois là que vous l'avez vu bien vous?
+PATIENT: bah on s'est fait une soirée à la maison hum on a bu. on s'est couchés je pense vers heu vers quat- trois quatre heures il était pas trop en forme
+MEDECIN: il a beaucoup co- bu?
+PATIENT: bah on a bu heu de une bouteille de vin et deux trois bières
+MEDECIN: à deux?
+PATIENT: bah oui enfin normal heu une petite soirée quoi
+MEDECIN: d'accord. vous avez et y a eu de une consommation de toxiques autres?
+PATIENT: bah heu non on a pas pris de drogue après heu peut être qu'il a pris des médicaments. c'est pas la première fois qu'il fait ça
+MEDECIN: il a déjà été à l'hôpital parce qu'il a il a il a pris beaucoup de médicaments
+PATIENT: ouais y a y a un an
+MEDECIN: y a un an. il est et il est resté à l'hôpital longtemps?
+MEDECIN: il est il est passé en réanimation?
+PATIENT: non
+MEDECIN: non
+MEDECIN: hum donc il a déjà fait une intoxication volontaire
+PATIENT: une quoi?
+MEDECIN: hum là donc il respire et quand v- essayez de le secouer bien
+MEDECIN: et il il se retourne, il se retourne?
+PATIENT: bah il heu il il bouge et
+MEDECIN: il bouge
+PATIENT: comme je je
+MEDECIN: et hier il vous a pas parlé d'idée, il avait pas des idées noires heu il a pas pris beaucoup de médicaments à votre connaissance?
+PATIENT: bah il on en parle pas de ce genre de choses mais je sentais qu'il était pas en forme c'est pour ça qu'on a fait cette petite soirée à la maison
+MEDECIN: il a pas des idées de suicide là votre frère il vous en a pas parlé de ça hier
+PATIENT: on en a pas parlé
+MEDECIN: bon
+MEDECIN: ok
+MEDECIN: bon
+MEDECIN: hum ​s-
+MEDECIN: hum
+MEDECIN: moi je pense qu y a rien de grave là madame
+MEDECIN: vous le surveillez
+MEDECIN: et
+PATIENT: mais
+MEDECIN: si jamais
+MEDECIN: oui
+PATIENT: il a enfin il a déjà fait il a déjà pris des médicaments là je vous ai dit qu'il était pas bien puis ​enfin
+PATIENT: c'est complètement possible qu'il en ait repris heu
+PATIENT: enfin il réagit, il se réveille pas, il se réveille pas
+MEDECIN: mais là vous me dites heu, vous me dites qu'il grogne
+PATIENT: ​quantité et moi je vous parle, lui il parle pas donc c'est pas normal
+MEDECIN: mais il il bouge vous m'avez dit, il se retourne
+PATIENT: oui enfin il bouge mais c'est tout c'est un il fait que bouger le bras quand je le secoue mais il se réveille pas
+MEDECIN: hum
+MEDECIN: il se réveille pas. il a pas vomi?
+PATIENT: hum non j'ai pas l'impression
+MEDECIN: il ouvre les yeux?
+PATIENT: heu il ouvre pas les yeux spontanément quand je l'appelle heu non
+MEDECIN: mais il bouge les j- mais il bouge les jambes enfin quand vous le stimulez
+PATIENT: bah quand je le secoue comme une malade oui mais c'est tout
+MEDECIN: bon
+MEDECIN: hum
+MEDECIN: ce qu- on va envoyer les pompiers madame
+PATIENT: oh non mais pas les pompiers
+MEDECIN: si si si
+PATIENT: ils vont venir à la maison, ils vont venir à quinze
+MEDECIN: ouais madame, on va envoyer les pompiers là
+PATIENT: <NA>
+PATIENT: vous pouvez pas envoyer un médecin pour qu'il l'évalue à la maison et qu'on l'emmène à l'hôpital?
+MEDECIN: non madame, on va envoyer les pompiers
+PATIENT: oh mais c'est abusé enfin je
+PATIENT: y y a pas que les pompiers
+MEDECIN: si si et on va envoyer les pompiers
+MEDECIN: et si entre temps il y a quoi que ce soit, vous nous rappelez
+MEDECIN: de plus
+PATIENT: quoi que ce soit heu il répond pas
+MEDECIN: oui bah justement madame, justement. on va envoyer les pompiers
+PATIENT: bon
+MEDECIN: restez près de lui
+PATIENT: ok
+MEDECIN: au revoir
+PATIENT: au revoir

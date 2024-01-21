@@ -1,0 +1,105 @@
+MEDECIN: allo?
+PATIENT: oui allo?
+MEDECIN: oui bonjour madame je suis le docteur LAKHLIFI. heu vous appelez pour votre mère qui s'est fait frapper par votre père c'est ça?
+PATIENT: oui c'est ça
+MEDECIN: est ce que vous pouvez m'en dire un peu plus?
+PATIENT: bah écoutez enfin. je je viens d'arriver et je sais pas quoi
+MEDECIN: votre mère est avec vous?
+PATIENT: oui
+MEDECIN: est ce qu'elle est bien consciente?
+PATIENT: oui
+MEDECIN: elle vous parle?
+PATIENT: oui
+MEDECIN: elle a des plaies?
+PATIENT: bah y a du sang
+MEDECIN: ​à quel niveau?
+PATIENT: au niveau du visage
+MEDECIN: est ce que vous pouvez me la passer?
+MEDECIN: passez la moi s'il vous plait
+PATIENT: heu enfin je je préfère pas non
+MEDECIN: passez la moi s'il vous plait
+PATIENT: chercher
+MEDECIN: passez la moi s'il vous plait
+PATIENT: elle est en train de pleurer
+MEDECIN: c'est pas grave, je vais essayer de lui parler. passez la moi s'il vous plait
+PATIENT: ah bah je vais je vais essayer. elle veut pas
+MEDECIN: comment?
+PATIENT: elle veut pas. elle préfère que je parle
+MEDECIN: d'accord. est ce qu'elle vous a raconté ce qu'il s'est passé exactement?
+PATIENT: bah pas vraiment heu pff. après c'est pas la première fois mais heu. faut venir le chercher là, elle peut plus
+MEDECIN: faut venir comment?
+PATIENT: faut venir le chercher hein
+MEDECIN: le chercher, c'est à dire votre père?
+PATIENT: oui
+MEDECIN: actuellement il est où?
+PATIENT: bah il est il est il est il est là dans la dans
+MEDECIN: d'accord. vous pensez qu y a une un hum y a vous êt- vous n'êtes pas en sécurité?
+PATIENT: non mais enfin je sais pas. il l'a tapée heu. voilà et. c'est pas la première fois
+MEDECIN: d'accord. bon écoutez, le
+PATIENT: toute sa tête
+MEDECIN: il a plus toute sa tête. c'est à dire?
+PATIENT: bah ils l'ont diagnostiqué heu la semaine dernière
+PATIENT: hum mais enfin voilà. ils ont dit qu'il a perdu sa tête quoi faut le chercher hein. il faut le il faut l'amener à l'hôpital
+MEDECIN: là actuellement, il est calme?
+PATIENT: oui
+MEDECIN: d'accord écoutez d- d- tout d'abord par rapport à votre mère, il faudrait absolument qu'elle qu'elle aille aux urgences pour heu pour qu'elle soit examinée et si il y a une plaie qu'elle soit heu suturée si besoin
+MEDECIN: vous avez une voiture?
+PATIENT: bah oui après lui il acceptera jamais de rentrer dans la voiture hein
+PATIENT: il faut l'emmener là, il faut il faut venir le chercher hein
+MEDECIN: ​à part heu les. donc il a il était récemment diagnostiqué par de de il a des troubles cognitifs une une maladie heu neurologique?
+PATIENT: bah de la mémoire
+MEDECIN: d'accord et il a des des phases comme ça où il est violent envers vous et ou ou votre mère
+PATIENT: bah d'après ce qu- ce qu'elle m'a dit heu oui, elle osait pas le dire avant mais heu. mais là enfin faut pas le garder à la maison, il a plus toute sa tête heu je j'ai pas envie qu'il tape sa maman tout ma maman tout le temps donc heu là faut venir le chercher et l'amener
+PATIENT: à l'hôpital heu je sais pas le lui trouver un endroit quoi, là c'est plus possible hein
+PATIENT: <NA>
+PATIENT: il peut pas rester à la maison
+MEDECIN: hum en en en dehors de ses s- s- ses crises elles sont plutôt fréquentes?
+PATIENT: bah moi je je tombe des nues moi je je ne sais pas heu. heu d'après d'après ma mère pas vraiment mais heu
+PATIENT: c'est déjà arrivé et puis là enfin il y a du sang il y a il a des plaies sur le visage enfin il, il faut faut venir le chercher hein
+MEDECIN: est ce qu'il est est ce qu'il est il est dans la capacité de de rester seul heu au domicile?
+PATIENT: je sais pas je sais pas
+MEDECIN: d'ha- d'habitude vous le laissez à la maison heu seul heu il est plutôt autonome à la maison?
+PATIENT: oui bah oui, il vit avec heu ma maman
+MEDECIN: d'accord
+PATIENT: mais là heu si il perd toute sa tête enfin faut faut l'amener à l'hôpital, faut faut le garder quoi enfin moi je peux pas il peut pas rester à la maison faut l'hospitaliser heu
+PATIENT: faut venir le chercher hein
+MEDECIN: bon écoutez je vois je vois pas là heu d'urgence à l'amener à l'hôpital heu moi ce qui ce qui je pense heu est nécessaire c'est que votre vous ameniez votre mère aux urgences
+PATIENT: mais pour lui qu'est ce qu'on fait?
+MEDECIN: pour lui il faudrait que ce soit évalué avec votre médecin
+MEDECIN: hum pour heu pour discuter heu de hum comment heu
+MEDECIN: heu est ce qu'il y a des traitements à mettre en place heu est ce que y a des choses qui peuvent être mises en place à la maison heu
+MEDECIN: mais là l'amener aux urgences je vois je vois pas comment ça pourrait heu aider la situation
+MEDECIN: heu la priorité là c'est votre mère elle a été frappée elle a une plaie heu elle nécessite d'être vue heu rapidement par un médecin
+PATIENT: et lui non?
+MEDECIN: et lui non
+PATIENT: donc si il recommence heu
+PATIENT: bah je je sais pas moi je
+MEDECIN: si il recommence vous nous appelez
+PATIENT: <NA>
+MEDECIN: si il recommence vous nous appelez
+PATIENT: donc heu il vient pas à l'hôpital quoi je pas pas pas la peine que je le ramène
+MEDECIN: non
+PATIENT: bon ben je vais essayer d'expliquer ça à ma maman
+MEDECIN: donc vous allez l'amener aux urgences?
+PATIENT: et mais c'est surtout pour lui moi moi je suis vraiment inquiète pour lui et à la rigueur voilà ça saigne un peu, c'est pas grave mais c'est c'est c'est surtout lui. moi qu'est ce que j'en fais
+MEDECIN: écoutez je je je comprends. hum est ce que votre médecin traitant est disponible?
+PATIENT: ah bah je sais pas je vous ai appelé vous je vais pas appeler le médecin traitant
+MEDECIN: bah en fait aux urgences on va pas faire grand chose pour votre père si il a des des troubles heu cognitifs. heu c'est pas aux urgences qu'on qu'on va résoudre heu le problème
+MEDECIN: est ce que vous habitez avec vos parents?
+PATIENT: non
+MEDECIN: d'accord
+MEDECIN: hum est ce que vous pouvez là emmener votre mère à l'hôpital?
+PATIENT: bah pff oui mais moi je vous je vous le dis c'est c'est mon père quoi enfin heu
+PATIENT: je je fais quoi, je le prends avec moi heu je enfin c'est ça
+MEDECIN: hum
+MEDECIN: vous pensez qu'il peut pas rester seul au domicile?
+PATIENT: oh si il il fait sa petite vie hein mais heu
+MEDECIN: bah écoutez pour l'instant emmenez votre mère aux urgences
+PATIENT: d'accord bah ok et puis bah je vous rappellerai alors pour pour qu'on précise pour mon papa dans ce cas là
+MEDECIN: si jamais effectivement il est de nouveau violent au domicile vous nous appelez mais faudrait organiser un un un rendez vous avec votre médecin traitant
+MEDECIN: enfin son médecin traitant
+PATIENT: d'a- d'accord mais je je vais ​me mettre en relation avec et puis voilà
+MEDECIN: d'accord
+PATIENT: pour demain
+MEDECIN: au revoir
+PATIENT: allez au revoir

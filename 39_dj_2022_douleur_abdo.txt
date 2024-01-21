@@ -1,0 +1,73 @@
+MEDECIN: bonjour docteur RICHARDO. je vous heu vous m'appelez pour votre fille de quatorze ans?
+PATIENT: oui oui c'est ça ma fille ouais
+MEDECIN: racontez moi
+PATIENT: heu très très mal hein
+MEDECIN: elle a mal au ventre?
+PATIENT: euh oui elle a mal au ventre ouais heu pff
+MEDECIN: est ce qu'il y a autre chose?
+PATIENT: elle a elle a mal au ventre, elle est là, elle se tord de douleur heu. franchement moi j'en peux plus quoi
+MEDECIN: est ce qu'elle a vomi?
+PATIENT: je suis pareille heu
+MEDECIN: est ce qu'elle a vomi?
+PATIENT: non non non elle vomit pas mais enfin
+MEDECIN: est ce qu'il y a de la diarrhée?
+PATIENT: et pourtant j'ai mal au ventre et heu pendant quinze ans on m'a laissée comme ça heu. moi aussi je vomissais pas et pourtant j'avais mal
+MEDECIN: est ce que votre fille a de la diarrhée?
+MEDECIN: est ce que votre fille a de la diarrhée?
+PATIENT: pardon?
+MEDECIN: est ce que votre fille a de la diarrhée?
+PATIENT: non j'ai pas l'impression. mais moi non plus j'avais pas de diarrhée à l'époque hein
+MEDECIN: elle a mal au ventre?
+PATIENT: les mêmes douleurs qu'elle
+MEDECIN: elle a mal au ventre depuis combien de temps?
+PATIENT: bah là ça fait déjà plus de deux heures qu'elle est tordue de douleur. elle a super mal, moi aussi j'avais super mal. mais pourquoi vous demandez même si ça fait quinze minutes elle a très très mal
+MEDECIN: est ce que votre fille a ses règles déjà?
+PATIENT: pardon?
+MEDECIN: est ce que votre fille a ses règles déjà? est ce qu'elle est réglée?
+PATIENT: oui elle a ses règles bah c'est une fille heu
+MEDECIN: est ce qu'elle prend des médicaments contr- est ce qu'elle prend des contracep-
+PATIENT: heu non mais vous savez moi on m'avait dit, oui vous avez vos règles, est ce que vous vomissez, heu est ce que. on m'a laissée pendant quinze ans comme ça en errance diagnostique.
+PATIENT: vous avez bien appris ça hein, c'est c'est à la mode en ce moment, j'en j'en ai vu là sur heu sur FRANCE 5 là, ils en parlaient là MICHEL CYMES. l'errance diagnostique qu'est ce que c'est? bah c'est les femmes qui souffrent
+MEDECIN: justement, justement. est ce que votre fille prend une contraception?
+PATIENT: bah elle a quatorze ans attendez
+MEDECIN: oui ou non?
+PATIENT: bah attendez, j'en sais rien moi je
+MEDECIN: vous savez pas?
+PATIENT: mes affaires
+MEDECIN: vous savez pas. d'accord
+MEDECIN: donc elle a votre fille a mal depuis
+PATIENT: a mal au ventre
+MEDECIN: votre fille a mal depuis deux heures, elle a pas vomi, elle a pas de diarrhée. est ce qu'il y a des des est ce qu'il y a autre chose qui qui va avec les douleurs
+MEDECIN: est ce qu'elle s'est plaint d'autre chose?
+PATIENT: c'est pas suffisant qu'elle ait mal?
+PATIENT: elle est elle est mal. elle a mal et puis moi aussi j'ai mal et j'ai peur qu'elle ait comme moi en fait
+PATIENT: je je j'en peux plus il faut il faut faire quelque chose là. il faut l'emmener à l'hôpital heu, j'ai peur qu'elle ait comme moi, j'ai pas envie qu'elle souffre comme moi. heu il est grand temps qu'on qu'on prenne les les filles en charge
+MEDECIN: il faut qu'elle soit examinée par un médecin. on va on va heu on va on va appeler un un médecin qui va venir l'examiner à domicile
+PATIENT: ah non mais là mais là ​mais là il faut une IRM monsieur hein, il faut quelque chose là
+MEDECIN: le médecin va en juger, le mé- le médecin va en juger
+MEDECIN: vous attendez le médecin
+PATIENT: tous les mois, tous les mois elle va souffrir comme ça?
+MEDECIN: vous verrez ça avec le médecin, vous l'attendez à domicile, il va venir
+PATIENT: mais c'est vous le médecin
+MEDECIN: on va faire venir un médecin ​à domicile. je vous prie d'attendre le médecin avec votre fille
+PATIENT: et vous la laissez comme ça, et moi je fais quoi?
+MEDECIN: le médecin va décider
+MEDECIN: vous verrez ça avec le médecin, vous verrez ça avec le médecin qui va décider de la prise en charge
+PATIENT: pardon?
+MEDECIN: vous verrez ça avec le médecin
+PATIENT: et il arrive quand le médecin?
+MEDECIN: il arrive hum. il va arriver dans les six heures
+PATIENT: dans les six. non mais ma fille elle va rester six heures, six heures en train de hurler de douleur
+MEDECIN: madame
+MEDECIN: vous allez attendre le médecin à domicile avec votre fille, vous nous rappelez si y a la moindre, le moindre élément nouveau
+PATIENT: donc je la laisse en train de pleurer en attendant?
+MEDECIN: vous pouvez déjà lui donner un un doliprane si elle en a pris un
+MEDECIN: si elle en a pas pris encore
+PATIENT: heu je peux je peux. bah je sais pas, je sais déjà pas si il faut, c'est c'est vous le médecin, c'est à vous de me le dire hein
+MEDECIN: si votre fille a mal, donnez lui
+PATIENT: moi on m'a laissé sans médicaments pendant quinze ans. quinze ans j'ai eu super mal au ventre, on m'a laissé sans médicaments pendant quinze ans
+MEDECIN: vous donnez un doliprane ​à votre fille, vous attendez le médecin à domicile et vous rappelez le quinze si y a tout élément nouveau
+MEDECIN: est ce que c'est clair?
+PATIENT: bah on va faire ça
+MEDECIN: merci. au revoir
+PATIENT: au rev-

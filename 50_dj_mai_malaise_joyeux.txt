@@ -1,0 +1,34 @@
+MEDECIN: oui bonjour docteur SAIEB vous appelez pour votre heu père qui heu qui a quatre vingt cinq ans et qui fait un malaise c'est bien ça?
+PATIENT: oui oui c'est c'est bien ça heu je suis rentré heu du boulot tout à l'heure et je l'ai trouvé heu allongé par terre heu pff heu il me dit que il sentait un peu la tête qui tournait et puis que et puis qu'il é- qu'il était tombé et puis voilà je l'ai remis sur le lit
+MEDECIN: il a perdu connaissance?
+PATIENT: heu bah je je sais pas trop il dit que non heu moi j'était pas là mais heu voilà
+MEDECIN: c'est la première fois qu'il fait ça?
+PATIENT: heu non oui oui c'est la première fois la première fois qu'il fait ça heu c'est la toute première fois là il est allongé sur le lit heu ouais papa je suis je suis au téléphone avec le médecin du
+MEDECIN: d'accord il i- il je vous pouvez me le passer?
+PATIENT: oui oui bien sûr il y a pas de souci
+PATIENT: allo?
+MEDECIN: oui bonjour docteur SAIEB au téléphone du coup vous avez fait un malaise c'est bien ça?
+PATIENT: oui oui c'est bien ça heu mon fils heu veut que j'aille à que j'ap- qu'on qu'on aille aux urgences voir heu voir un médecin mais moi ça va
+MEDECIN: vous avez des symptômes particuliers?
+PATIENT: non je me suis senti pas bien et heu je suis un peu tombé au sol j'ai pas réussi à me lever tout de suite mais
+MEDECIN: vous avez perdu connaissance?
+PATIENT: non non j'ai pas perdu connaissance non
+MEDECIN: la tête elle a cogné?
+PATIENT: non elle a pas du tout cogné heu je me sens super bien je me sens en forme heu faut juste que je me repose un peu
+MEDECIN: vous avez des problèmes de santé particuliers?
+PATIENT: oh pas grand chose non je prends deux trois cachets le matin mais c'est tout
+MEDECIN: vous avez un médecin traitant?
+PATIENT: heu oui mais il est parti à la retraite
+MEDECIN: il faut que vous alliez voir un médecin heu sans urgence heu là tout de suite mais il faut aller voir un médecin dans les prochains jours pour refaire
+PATIENT: oh c'est heu pff oh j'ai pas trop envie et je me sens bien j'ai pas envie d'y aller voir un médecin je vais déranger du monde pour rien heu là je suis bien dans mon lit heu j'ai envie de qu'on me laisse tranquille
+MEDECIN: oui là il y a pas de nécessité actuellement pour que vous alliez heu voir un médecin là tout de suite mais il faut prendre rendez vous heu dans les jours qui suivent pour heu voir un médecin pour refaire le point sur le malaise
+PATIENT: oh mais vous savez j'ai quatre vingt cinq ans ça va je vais pas m'embêter
+MEDECIN: oui oui mais heu je j- je je comprends que ​ça soit compliqué mais il il faut justement aller quand même voir un médecin pour faire le point
+PATIENT: oh mais je vais faire comment pour voir un médecin je connais personne voilà et puis sincèrement j'ai pas envie de m'embêter avec ça heu
+MEDECIN: il faut voir un médecin monsieur il f- il faut trouver une solution vous allez trouver une solution vous allez voir un médecin dans la semaine
+PATIENT: ok ok heu on verra on verra
+MEDECIN: c'est clair pour vous?
+PATIENT: oh oui c'est clair mais on v- on verra je verrai heu j'irai j'irai voir le médecin si j'ai envie oui
+MEDECIN: ok bon
+PATIENT: pff
+MEDECIN: au revoir

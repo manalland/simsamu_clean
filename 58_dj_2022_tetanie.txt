@@ -1,0 +1,46 @@
+MEDECIN: bonjour docteur RICHARDO, je vous écoute
+PATIENT: oui oui, bonjour docteur. bah écoutez bah ma fille là elle bouge pas là
+MEDECIN: elle bouge pas?
+PATIENT: bouge pas heu
+MEDECIN: qu'est ce qu'il s'est passé, racontez moi
+PATIENT: bah elle bouge pas. elle rentrait juste elle rentre de l'école et elle bouge pas, elle est tendue, elle bouge pas
+MEDECIN: quand elle est rentrée de l'école, est ce qu'elle s'est plaint d'une douleur?
+PATIENT: ah non, non non. heu juste elle bouge pas, elle a re- elle vient de rentrer de l'école euh, elle est rentrée tard encore et là elle bouge pas
+MEDECIN: est ce que quand vous lui parlez elle vous répond?
+PATIENT: ah bah non, bah non, bah non, elle parle pas
+MEDECIN: d'accord. quand vous la stimulez, quand vous la touchez, quand vous l'appelez, quand vous la pincez, est ce qu'elle vous répond?
+PATIENT: non, non non
+MEDECIN: est ce qu'elle respire?
+PATIENT: elle bouge pas, elle est
+MEDECIN: je vous entends, j'ai entendu. est ce qu'elle respire?
+PATIENT: bizarre, elle bouge
+MEDECIN: elle bouge vous dites?
+PATIENT: elle bouge ouais, elle bouge. elle est elle est tendue, elle est crispée là comme ça, elle bouge heu
+MEDECIN: d'accord. est ce que elle a les yeux ouverts?
+PATIENT: ah bah non, bah non, non
+MEDECIN: d'accord là elle bouge? ou quand on parle est ce que? quand on parle est ce qu'elle bouge encore?
+PATIENT: ouais, ouais ouais
+MEDECIN: d'accord
+PATIENT: heu comme si elle. je sais pas, elle tremble, elle bouge
+MEDECIN: elle tremble, elle bouge. ça a ça a commencé il y a combien de temps?
+PATIENT: bah là là, en rentrant de l'école là
+MEDECIN: c'est à dire en terme de minutes? cinq minutes, dix minutes, une demi heure?
+PATIENT: ah bah je je sais pas je sais pas moi. elle vient de rentrer de l'école heu voilà. je lui ai dit qu'elle rentrait tard et puis d'un coup, je la vois elle est là elle bouge pas, elle tremble heu bon
+MEDECIN: est ce que votre fille a des problèmes de santé?
+PATIENT: pardon?
+MEDECIN: est ce que votre fille a des problèmes de santé?
+PATIENT: heu non non heu non elle a quatorze ans heu
+MEDECIN: elle prend aucun médicament?
+PATIENT: non non non bah non hein, elle a quatorze ans hein la petite hein
+MEDECIN: est ce que dans la famille il y a des problèmes de santé?
+PATIENT: oh bah non non non bah non. nous non on va bien, des petits problèmes comme tout le monde mais non non non on va y a pas de problème
+MEDECIN: donc on va vous envoyer heu une équipe du SAMU avec un médecin. vous restez à la maison, s- vous rappelez uniquement si il y a des éléments nouveaux
+PATIENT: elle pleure là donc, pff. je sais plus quoi faire moi
+MEDECIN: c'est ce que je vous dis. vous restez avec elle, vous nous rappelez seulement si y a des des choses nouvelles dans
+PATIENT: quand elle arrête de pleurer alors?
+MEDECIN: non non. vous nous appelez si il y a des douleurs nouvelles, si elle heu perd connaissance et heu si heu si il y a des symptômes qui étaient pas présents heu au moment où vous parlez
+PATIENT: heu c'est que là je vous l'ai dit. elle pleure et elle bouge heu
+MEDECIN: c'est ce que je vous dis. vous attendez les se- secours, vous la surveillez
+PATIENT: bah d'accord
+MEDECIN: merci
+PATIENT: bah je sais pas

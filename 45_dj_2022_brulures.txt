@@ -1,0 +1,79 @@
+MEDECIN: oui bonjour
+PATIENT: bonjour
+MEDECIN: bonjour monsieur, je suis heu le docteur DAMANI heu donc vous appelez pour votre heu voisin
+MEDECIN: qui s'est brûlé au niveau du
+PATIENT: ouais c'est mon voisin c'est un gars
+PATIENT: oui, je disais heu c'est c'est un un des gars de la chambre il s'est il vient de se brûler là
+MEDECIN: il vient de se brûler. heu avec de l'eau chaude?
+PATIENT: ouais c'est ça il faisait il faisait il faisait du thé avec un réchaud là par terre et il s'est brû- il s'est brûlé
+MEDECIN: c'est seulement au niveau du bras?
+PATIENT: heu je regarde ouais ouais ouais il montre le bras là
+MEDECIN: d'accord heu il vous montre heu donc c'est plutôt la main ou heu
+PATIENT: non c'est c'est plutôt le br- non c'est c'est le bras c'est pas la main c'est le bras
+MEDECIN: c'est le bras. alors déjà heu il peut heu il peut mettre son bras
+MEDECIN: heu donc vous au niveau de votre salle de bain
+MEDECIN: heu enfin sous l'eau
+PATIENT: non mais heu bah il enfin il comprend rien je lui ai dit de faire ça déjà
+MEDECIN: non mais justement en fait
+PATIENT: fait du bien quand on met de l'eau froide et moi je fais ça aussi parce que j'ai des problèmes de peau voyez
+MEDECIN: bien sûr
+PATIENT: heu mais du coup je lui dis mais il comprend pas
+MEDECIN: alors justement donc vous êtes avec lui
+MEDECIN: emmenez le heu mettre son bras sous l'eau froide
+PATIENT: bah il pleure là moi je je lui ai dit de venir parce que je lui ai même proposé des crèmes parce que voilà j'ai un psoriasis et donc du coup j'ai des crèmes
+PATIENT: et je voulais lui mettre des crèmes sur le bras il il a il a refusé et genre il
+MEDECIN: oui non mais c'est pour ça en fait il faut il faut pas lui demander. emmenez le heu mettre son bras sous l'eau
+MEDECIN: c'est ça qu- ça va le soulager
+PATIENT: bah il veut pas il veut pas
+MEDECIN: non mais emmenez le. emmenez le mettre son bras sous l'eau
+PATIENT: parce que non mais en vrai la salle de bain c'est euh c'est je c'est je peux pas trop parce que parce que le le robinet il est cassé tout ça
+MEDECIN: bah vous vous douchez? y a une douche?
+PATIENT: oui oui, y a une douche ouais
+MEDECIN: alors, qu'il mette son bras sous l'eau. au niveau de la douche, au niveau du robinet, où vous voulez
+PATIENT: d'accord. et je lui je lui mets des crèmes parce que moi j'ai des problèmes de peau du coup heu du coup j'ai plein de crèmes ça peut faire du du bien non? je je lui mets des des c- des des c- des crèmes ou pas?
+MEDECIN: non alors là pour l'instant il faut qu'il mette heu son bras sous l'eau
+MEDECIN: pendant quinze minutes
+MEDECIN: sous l'eau froide
+PATIENT: faire, je vais essayer de lui dire
+PATIENT: j'ai fait ce que j'ai pu mais heu mais il voulait pas rester longtemps. et heu de toute façon on se comprend pas il parle pas français
+MEDECIN: il parle pas français
+MEDECIN: heu et donc là c'est seulement au niveau du bras heu vous avez quoi comme heu
+MEDECIN: heu
+PATIENT: comme quoi?
+MEDECIN: la brûl- au niveau de la brûlure est ce que la peau est décollée ou pas?
+PATIENT: heu elle est décollée?
+MEDECIN: c'est est-ce c'est une rougeur?
+PATIENT: elle est elle est un peu dé- comment?
+MEDECIN: c'est une rougeur?
+PATIENT: bah je sais pas trop dire si. c'est pas un blanc voyez donc heu il est un peu comme mon psoriasis mais en en plus grand quoi
+PATIENT: d'ailleurs ça reprend au coude droit là je sais pas si vous pourrez me dire qu- qu'est ce qu'est ce qu'il faut faire pour le pso- psoriasis il reprend. parce que le doc- le dermato il m'a expliqué que si ça reprend fallait peut être reprendre une consultation mais
+PATIENT: mais j'ai pas pu prendre de consultation du coup bah donc vous pourrez pas me dire ce qu'il faut que je fasse sur sur pour mon coude à droite là?
+MEDECIN: ah ça justement je pense qu'il il faut revoir votre votre dermatologue hum
+PATIENT: c'est compliqué parce que parce que des fois j'ai pas de rendez vous et donc
+MEDECIN: non mais justement là là votre votre voisin là, il est heu il est il a toujours ​son bras sous l'eau froide?
+PATIENT: oui il a mis son bras sous de l'eau froide ​ouais
+MEDECIN: d'accord. eh bah écoutez il faut qu'il reste comme ça pendant pendant quinze minutes
+MEDECIN: et vous m'avez dit qu'y avait des vous m'avez dit qu'y avait des crèmes à la maison
+PATIENT: rien il il comprend rien il va pas le faire hein enfin bon
+MEDECIN: ouais je sais bien mais faut qu'il le fasse
+PATIENT: pou- pou- vous pouvez pas envoyer des pompiers comme ça comme ça on on a trouvé une place à l'hô- hôpital et
+MEDECIN: bah alors en fait là il vient de se il vient de se brûler, donc il faut qu'il mette heu son bras sous l'eau froide pendant quinze minutes. d'accord?
+PATIENT: on va essayer
+MEDECIN: c'est ça qu'il faut faire
+MEDECIN: heu par la suite, heu il faudrait heu il faut qu'il aille voir un médecin heu pour qu'on examine heu sa sa brûlure
+PATIENT: mais vous pouvez pas l'amener aux urgences parce que heu moi j'ai mal au dos je peux pas l'amener et heu et lui il parle pas fran- français. il est arrivé y a pas y a pas très longtemps d'un pays je sais pas où heu
+MEDECIN: oui. c'est c'est pas c'est pas à vous de l'emmener heu de de l'em- l'emmener heu
+PATIENT: ok
+MEDECIN: voyez avec la maison médicale heu dans votre ville il faut qu'il voie un médecin dans la journée
+MEDECIN: mais là pour le moment il faut qu'il mette son bras sous l'eau froide
+PATIENT: bah lui il pourra pas voir de médecin dans la journée, il faut en envoyer un
+MEDECIN: non il faut qu'il voie un médecin
+PATIENT: mon mon psor- psoriasis comme ça il pourra faire une consultation pour deux voyez? c'est c'est
+MEDECIN: alors il faut qu'il voie un médecin pour la journée et vous il faut que vous recontactiez votre dermatologue pour votre psoriasis
+PATIENT: heu ok bon bah on va moi je pense il y aura pas de médecin parce que ça fait longtemps qu'on l'a pas vu mais
+PATIENT: mais bon
+MEDECIN: il faut qu'il voie un médecin dans la journée
+PATIENT: bon bah on va on va voir on va essayer hein
+MEDECIN: ok bonne journée monsieur
+PATIENT: merci
+MEDECIN: ok y a pas de problème

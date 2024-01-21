@@ -1,0 +1,35 @@
+PATIENT: allo?
+MEDECIN: allo madame?
+PATIENT: oui allo, allo?
+MEDECIN: oui bonjour je suis le docteur LAKHLIFI. vous m'appelez pour votre enfant qui a bien trois mois c'est ça?
+PATIENT: oui c'est ça c'est ça, exactement
+PATIENT: ça fait heu j'attends depuis longtemps là
+MEDECIN: hum d'accord. il a pris des médicaments qu'il aurait pas dû prendre?
+PATIENT: oui c'est ça c'est ça, je pense heu ça fait beaucoup de médicaments là. je sais pas heu quoi faire, j'attends depuis très longtemps maintenant
+MEDECIN: je je heu j'en suis vraiment désolée. on on va essayer d'être rapides et de trouver la la
+PATIENT: oui mais moi j'attends quoi, hein
+MEDECIN: quel médicament a-t-il pris?
+PATIENT: bah c'est du para- paracétamol là vous savez?
+MEDECIN: oui tout à fait. en quelle dose il l'a il l'a pris?
+PATIENT: bah je sais pas enfin moi euh j'ai l'habi-, enfin j'ai que qu'un enfant. j'en donne j'ai j'ai j'ai je prends pas l'habitude d'en donner. mais là je pense que j'ai donné une grande dose. trois fois la dose qu'il faut j'aurais dû donner, et moi on me dit pas quoi faire du coup moi là j'attends, je sais pas quoi faire voyez?
+MEDECIN: je comprends tout à fait
+PATIENT: qu'est ce que je dois faire là?
+MEDECIN: vous restez vous restez avec votre enfant, vous lui donnez rien à boire ni à manger, vous le surveillez et j'envoie les secours tout de suite
+PATIENT: mais moi là il faut que je donne quoi? qu'est ce qui faut que je donne? j'ai pas compris
+MEDECIN: il faut donner absolument rien à votre enfant. ni ​à boire, ni à manger, ni du lait, ni quoi que ce soit
+PATIENT: oui mais est ce qu'il faut le faire vomir? on m'a dit qu'il fallait le faire vomir
+MEDECIN: non, il ne faut pas il faut pas le faire vomir. là vous le gardez avec vous, les secours arrivent ils sont en route
+PATIENT: d'accord ils arrivent dans combien de temps? parce que moi j'attends là depuis tout à l'heure hein
+MEDECIN: ils vont arriver dans moins de quinze minutes
+PATIENT: moins de quinze minutes? vous êtes sûre?
+MEDECIN: je suis sûre
+MEDECIN: n'hésitez pas à nous rappeler si heu il y a quoi que ce soit de nouveau. si votre enfant vomit, si il perd connaissance, si heu il y a heu un autre problème
+PATIENT: c'est quoi un autre problème par exemple?
+MEDECIN: par exemple heu si heu vous voyez il devient tout blanc, tout jaune, tout rouge, si il vomit, si heu il.  si vous êtes inquiète vous rappelez et on vous répondra, d'accord?
+PATIENT: je suis inquiète, je suis inquiète, c'est depuis tout à l'heure que je suis inquiète, bien sûr
+MEDECIN: je comprends et c'est
+PATIENT: je répète trois fois la même chose
+MEDECIN: c'est heu c'est pour ça qu'on envoie les secours tout de suite madame. les secours arrivent
+PATIENT: d'accord
+MEDECIN: au revoir
+PATIENT: merci au revoir

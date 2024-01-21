@@ -1,0 +1,63 @@
+MEDECIN: heu oui bonjour madame, je suis le docteur DAMANI. donc vous appelez pour votre voisin qui avait de la fièvre c'est bien ça?
+PATIENT: oui c'est ça il, il m'a demandé d'appeler
+MEDECIN: d'accord. il est à côté de vous?
+PATIENT: heu oui, tout à fait
+MEDECIN: et donc c'est lui qui est venu spontanément heu à votre domicile, vous êtes en appartement ou en maison?
+PATIENT: on est en appartement
+MEDECIN: d'accord. c'est votre voisin de pallier?
+PATIENT: oui
+MEDECIN: et donc heu qu'est ce qu'il est venu vous vous vous dire spontanément?
+PATIENT: heu il m'a dit qu'il avait de la fièvre et je vois qu'il, je vois qu'il tousse un peu heu
+PATIENT: heu moi aussi j'ai fait de la fièvre y a y a pas très très longtemps heu, je tousse un peu aussi mais
+MEDECIN: heu pour vous il est comme d'habitude? il vous parle normalement?
+PATIENT: ah bah oui vous sav- après il parle pas du tout le français donc c'est compliqué
+MEDECIN: ah donc il parle pas du tout français. il parle quelle langue?
+PATIENT: heu je sais pas trop c'est pas très clair, je sais qu'il est en asie a- asie du sud est mais pff
+MEDECIN: et donc vous heu vous parlez une autre langue que le français?
+PATIENT: heu non. moi je parle français, un peu anglais
+MEDECIN: d'accord. donc vous vous exprimez comment avec lui?
+PATIENT: bah il me fait des signes et il montre des des des images et heu un peu sur heu sur le téléphone des mots
+MEDECIN: du coup on ne peut pas heu là je peux pas lui parler au téléphone si il parle pas ni anglais heu ni français c'est bien ça?
+PATIENT: ouais
+MEDECIN: ok
+MEDECIN: heu et du coup vous m'avez dit qu'il a cinquante ans, il a de la famille?
+PATIENT: ah je sais pas je lui ai pas demandé
+MEDECIN: mais vous en tant que voisine vous avez jamais vu heu quelqu'un d'autre avec lui heu
+PATIENT: bah si parfois il y a des gens qui passent, mais après je sais pas qui c'est
+PATIENT: y a des gens aussi pareil qui viennent me voir, mais il sait pas forcément qui c'est
+MEDECIN: ok
+MEDECIN: heu est ce que d'accord est ce que vous pouvez lui demander
+MEDECIN: du coup si heu y a quelqu'un d'autre qui pourrait venir heu parce que là si vous me dites que il heu il a de la fièvre mais qu'il se tient debout normalement et qu'il
+PATIENT: bah écoutez madame, franchement moi je pense que c'est le COVID hein. soyons honnêtes il tousse, il a de la fièvre, enfin. moi aussi j'ai eu j'ai un COVID il y a il y a six mois, je toussais, j'avais les mêmes symptômes que lui heu j'étais bien au début mais et puis heu
+PATIENT: après heu j'avais eu du mal à respirer donc j'ai dû être hospitalisée. j'ai été hospitalisée dans pendant
+MEDECIN: non mais bien évidemment
+PATIENT: oxygène heu et depuis que je suis sortie, je suis très très fatiguée hein je pense que je suis je dois faire. j'ai vu ça à la télé ils parlent de d'un de du COVID long je je crois, je suis fatiguée, j'ai un peu mal dans la poitrine et tout
+MEDECIN: heu après là vous appelez pour votre voisin?
+PATIENT: oui oui, j'appelle pour mon voisin je vous dis je pense qu'il a il a le COVID
+MEDECIN: après COVID ou pas COVID
+PATIENT: les symptômes
+MEDECIN: oui bien évidemment. mais du coup ça nécessite quand même un un examen médical
+MEDECIN: donc heu essayez de voir avec lui pour qu'il aille voir un médecin
+PATIENT: oui je
+PATIENT: <NA>
+PATIENT: après je
+MEDECIN: donc vous voyez avec lui pour qu'il heu pour qu'il aille voir un médecin y a des maisons médicales heu donc y a heu voyez avec lui pour qu'il aille voir un médecin
+MEDECIN: si y a un téléphone qu'il aille a
+PATIENT: j'avais vu heu j'a- j'avais vu mon médecin mais enfin elle a pas détecté tout de suite hein donc heu bon je sais pas heu
+MEDECIN: bah donc voyez avec lui pour qu'il aille voir un médecin
+MEDECIN: en ville
+MEDECIN: d'accord?
+PATIENT: d'accord. c'est tout?
+MEDECIN: bah qu'il aille voir un médecin en ville, effectivement oui
+PATIENT: ok
+MEDECIN: donc il peut nous rappeler si il se passe quelque chose de nouveau
+PATIENT: c'est à dire?
+MEDECIN: bah si vous voyez qu'il a un comportement inhabituel heu qu'il se plaint, qu'il a une nouvelle plainte
+MEDECIN: heu vous pouv- vous rappelez mais là il peut aller voir un médecin en ville
+PATIENT: ok
+MEDECIN: merci beaucoup madame
+PATIENT: et moi mes t- mais attendez madame et moi pour mon pour ma fatigue heu mes douleurs heu
+MEDECIN: là vous avez appelé pour votre pour votre voisin madame et comme vous m'avez dit vous avez déjà vu votre médecin donc heu rapprochez vous de lui
+PATIENT: ok d'accord
+MEDECIN: bonne journée à vous
+PATIENT: merci, au revoir

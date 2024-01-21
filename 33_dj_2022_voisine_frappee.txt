@@ -1,0 +1,43 @@
+MEDECIN: bonjour docteur RICHARDO. vous appelez pour votre voisine qui s'est réfugiée chez vous c'est bien ça?
+PATIENT: oui bonjour, oui c'est ça
+MEDECIN: alors racontez moi
+PATIENT: bah là elle est venue chez moi quoi
+MEDECIN: elle se plaint de quoi?
+PATIENT: bah y a du sang pff
+MEDECIN: est ce que vous pouvez me la passer?
+MEDECIN: passez la moi s'il vous plait
+PATIENT: elle parle pas français hein
+MEDECIN: alors. est ce que vous pouvez me décrire ce que vous vous voyez comme blessure
+PATIENT: bah y a du sang
+MEDECIN: y a du sang sur quel endroit de son corps?
+PATIENT: heu sur la tête heu
+MEDECIN: là elle est réveillée votre voisine, elle vous parle?
+PATIENT: ouais ouais après on
+PATIENT: bon après elle parle pas français quoi mais elle est là
+MEDECIN: elle vous a fait comprendre ce qu'il se passait?
+PATIENT: bah ​heu son mari qui l'a tapée hein
+PATIENT: comme d'hab quoi
+MEDECIN: c'est ce c'est ce qu'elle vous a fait comprendre ou c'est ce que vous pensez vous?
+PATIENT: bah elle est venue chez moi heu. elle me dit tape tape heu je crois que c'est il l'a tapé quoi c'est pas la première fois hein après heu
+MEDECIN: c'est pas la première fois
+PATIENT: <NA>
+MEDECIN: c'est pas la première fois et heu
+MEDECIN: donc vous me dites elle a du sang sur la tête
+PATIENT: pardon?
+MEDECIN: vous me dites qu'elle a du sang sur la tête?
+PATIENT: ouais
+MEDECIN: elle est venue à pieds, enfin debout en marchant?
+PATIENT: ouais ouais elle était à côté là
+MEDECIN: bon. il faut que, il faut que vous l'emmeniez aux urgences
+MEDECIN: pour qu'elle soit examinée, est ce que vous êtes véhiculée?
+PATIENT: bah ouais j'ai ma petite moto
+MEDECIN: véhiculée. vous êtes véhiculée, amenez la aux urgences
+PATIENT: moi? bah non bah attendez ​enfin il est six heures du mat là hum
+MEDECIN: c'est important qu'elle soit vue par un médecin aujourd'hui, emmenez la aux urgences
+PATIENT: bah elle peut pas y aller toute seule?
+MEDECIN: vous dites qu'elle parle pas français, emmenez la aux urgences
+PATIENT: avec sa voiture? mais avec son
+MEDECIN: avec votre voiture. vous la mettez dans votre voiture, vous l'amenez aux urgences. est ce que c'est clair?
+PATIENT: <NA>
+MEDECIN: au revoir
+PATIENT: au revoir

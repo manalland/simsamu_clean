@@ -1,0 +1,47 @@
+MEDECIN: d'accord. allo?
+PATIENT: allo bonjour?
+MEDECIN: bonjour je suis le docteur LAKHLIFI médecin du SAMU. vous appelez pour votre fils de heu neuf mois qui ne se réveille pas c'est ça?
+PATIENT: ouais c'est ça il faisait sa sieste là, il faisait sa sieste et il se réveille pas quoi
+MEDECIN: est ce qu'il respire?
+PATIENT: il a pardon?
+MEDECIN: est ce qu'il respire?
+PATIENT: heu c'est je regarde
+PATIENT: bah non putain non enfin il il me semble pas
+MEDECIN: il ne respire pas vous voyez pas heu son son thorax se soulever?
+PATIENT: thorax c'est pareil heu il bouge plus du du tout quoi
+MEDECIN: il ne respire pas?
+PATIENT: bah il me semble que non
+MEDECIN: d'accord eh bah écoutez hum. posez heu pe- prenez votre enfant heu hum est ce que vous êtes seul au domicile?
+PATIENT: ouais ouais ma femme elle bosse ouais
+MEDECIN: ok hum alors hum pre- prenez votre enfant avec vous, heu mettez une heu votre main sur son thorax en plein milieu
+PATIENT: je le prends dans mes bras?
+MEDECIN: hum
+PATIENT: je fais ça en même temps?
+MEDECIN: ​à huit mois ​ça fait quelle taille?
+MEDECIN: hum
+MEDECIN: vous le laissez heu sur heu v- vous le posez par terre à côté de vous
+PATIENT: par terre. d'accord
+MEDECIN: par terre, à côté de vous
+MEDECIN: vous mettez votre main sur son thorax, en plein milieu, entre les mamelons
+PATIENT: ouais
+MEDECIN: et vous appuyez
+PATIENT: j'appuie. voilà j'ai appuyé c'est bon
+MEDECIN: et vous vous appuyez en continu
+MEDECIN: un. deux. trois. quatre. cinq. six
+PATIENT: d'accord
+MEDECIN: sept
+MEDECIN: en continu, d'accord?
+PATIENT: ok j'appuie
+MEDECIN: y a y a y a le mé- y a le médecin qui est en en route là
+PATIENT: le médecin est en route?
+MEDECIN: oui
+PATIENT: d'accord
+PATIENT: ok
+MEDECIN: vous continuez vous arrêtez pas
+MEDECIN: un. deux
+PATIENT: j'arrête pas?
+MEDECIN: trois
+PATIENT: d'accord
+MEDECIN: quatre. cinq. six. sept. huit.
+PATIENT: ok
+MEDECIN: neuf. dix. un. deux. trois. quatre

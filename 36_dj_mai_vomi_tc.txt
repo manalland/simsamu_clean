@@ -1,0 +1,38 @@
+MEDECIN: bonjour docteur SAEB au SAMU 93 du coup vous appelez pour votre heu votre enfant de huit ans c'est heu c'est ça?
+PATIENT: c'est ça
+MEDECIN: il vomit?
+PATIENT: oui
+MEDECIN: depuis quand il vomit?
+PATIENT: bah depuis là tout à l'heure qu'il est rentré de l'école même ce matin non mais plutôt tout à l'heure
+MEDECIN: il y a des diarrhées des selles liquides?
+PATIENT: hum je sais pas il était à l'école
+MEDECIN: il a mal quelque part?
+PATIENT: heu non
+MEDECIN: il a de la fièvre?
+PATIENT: non
+MEDECIN: votre enfant il a des problèmes de santé?
+PATIENT: non
+MEDECIN: madame il faut que heu vous avez un médecin traitant ou?
+PATIENT: non mais l'école tout à l'heure heu ils m'ont appelés pour me dire qu'il s'était cogné et puis heu finalement après ça allait
+PATIENT: il y a juste l'infirmière de l'école pour mon enfant j'ai pas de médecin traitant
+MEDECIN: il s'est cogné la tête?
+PATIENT: bah je crois ouais
+MEDECIN: là il a m- il a pas mal à la tête?
+PATIENT: surveiller ça quand même non il a pas mal à la tête
+MEDECIN: ok heu il va falloir le surveiller à la maison
+PATIENT: voisine elle m'a dit il faut aller peut être à l'hôpital heu pour voir la tête
+MEDECIN: non c'est pas nécessaire il faut le surveiller il faut le surveiller à la maison oui et
+PATIENT: d'accord mais je fais quoi alors?
+MEDECIN: vous le surveillez là heu les heu toute la soirée et puis vous le réveillez heu heu régulièrement dans la nuit heu toutes les heu toutes les tr- toutes les trois quatre heures
+PATIENT: je mets un réveil quand il dort?
+MEDECIN: oui oui oui
+PATIENT: d'accord et pour ses vomissements je fais quoi?
+MEDECIN: il faut il faut qu'il boive beaucoup d'eau mais il y a pas grand chose à faire ça va passer
+PATIENT: quand il boit de l'eau il vomit
+MEDECIN: si les si les vomissements persistent vous consultez ou vous appelez le SAMU et on vous réorientera mais pour l'instant c'est juste une surveillance à la maison
+PATIENT: d'accord ok bah on va voir comment ça se passe alors
+MEDECIN: vous rappelez au SAMU si il y a le moindre changement là mais heu et sinon vous faites la surveillance à la maison
+PATIENT: ok
+MEDECIN: c'est clair pour vous?
+PATIENT: merci docteur oui
+MEDECIN: au revoir

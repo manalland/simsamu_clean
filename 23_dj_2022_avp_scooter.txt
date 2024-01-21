@@ -1,0 +1,38 @@
+MEDECIN: ok ok. heu oui bonjour madame
+PATIENT: bonjour
+MEDECIN: bonjour je suis heu le docteur DAMANI, médecin régulateur. heu donc vous êtes témoin d'un d'un accident?
+PATIENT: oui c'est ça y a quelqu'un qui vient de heu d'avoir un accident un un type en scooter
+MEDECIN: donc lui il était en scooter
+PATIENT: ouais
+MEDECIN: et il heu il a eu un il s'est cogné à quelque chose ou à quelqu'un?
+PATIENT: heu oui bah il s'est pris un camion
+MEDECIN: il s'est pris un camion
+MEDECIN: d'accord
+MEDECIN: heu donc là vous êtes heu proche heu de du lieu de l'accident?
+PATIENT: bah là je suis sur le trottoir mais heu
+PATIENT: ouais ça vient de se se passer là y a trois minutes
+MEDECIN: ok. vous le chauffeur du
+MEDECIN: de du scooter
+MEDECIN: heu il heu il bouge, il est heu il est il bouge?
+PATIENT: bah heu oui je l'ai vu bouger un petit peu hum, effectivement il a essayé de de se relever
+MEDECIN: d'accord. il roulait il roulait vite?
+PATIENT: heu vite heu, c'est difficile à dire. vitesse adaptée heu sur en ville
+PATIENT: ça m'a pas choquée
+MEDECIN: très bien
+MEDECIN: heu allez, approchez vous de lui
+PATIENT: ah bah non enfin par contre je vous ai appelé heu vous ramenez une équipe et puis moi je vais faut que j'aille au travail. enfin je peux vraiment pas, je suis déjà hyper en retard heu
+PATIENT: je suis désolée mais non
+MEDECIN: là vous pouvez pas du tout heu vous approcher de lui voir si il est bien conscient heu
+PATIENT: c'est mais faut faut faut que j'aille au travail là
+MEDECIN: bah écou- hum ok
+MEDECIN: heu très bien bah là vous av- vous hum vous m'avez dit qu'il avait hum
+MEDECIN: qu'il s'était relevé en tout cas
+PATIENT: non il a essayé mais il a pas réussi
+MEDECIN: parce que là on va on va envoyer heu une équipe heu une équipe de pompiers sur place
+MEDECIN: heu mais heu heu vous pouvez pas aller le voir?
+PATIENT: non je peux pas
+MEDECIN: ok bah très bien. bah écoutez y a les y a les pompiers qui vont se qui vont se déplacer
+PATIENT: ok merci
+MEDECIN: merci
+PATIENT: au revoir
+MEDECIN: au revoir

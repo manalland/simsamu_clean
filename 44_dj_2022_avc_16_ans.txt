@@ -1,0 +1,72 @@
+MEDECIN: bonjour docteur RICHARDO, heu médecin au SAMU. vous appelez pour votre fille de seize ans qui est qui a un problème au bras c'est ça?
+PATIENT: oui c'est ça, c'est ça
+MEDECIN: elle est paralysée du bras, c'est ce qu'on m'a dit?
+PATIENT: oui enfin là elle bouge pas là elle bouge pas son bras
+MEDECIN: depuis combien de temps?
+PATIENT: une petite demi heure là?
+MEDECIN: est ce qu'elle a elle décrit des douleurs?
+PATIENT: une douleur? non non non elle dé- elle exprime pas ça
+MEDECIN: elle a pas mal au bras
+PATIENT: elle a pas mal au bras
+MEDECIN: est ce qu'elle a mal dans le cou?
+PATIENT: où ça?
+MEDECIN: dans le cou
+PATIENT: dans le cou? non elle heu a pas mal dans le cou en tous cas
+MEDECIN: elle a mal nul part?
+PATIENT: elle pas mal non. mais elle bouge heu pas son bras par contre
+MEDECIN: elle vous dit quoi?
+PATIENT: elle elle bah elle me dit rien là elle heu elle pleure quoi heu elle me dit rien elle est juste bah on s'inquiète quoi
+PATIENT: bah elle bouge pas son bras je vous dis
+MEDECIN: elle est c'est de- elle vient de rentrer du lycée elle heu, elle était avec vous toute la jour- journée racontez moi le contexte
+PATIENT: heu non enfin auj- aujourd'hui elle était à l'école normalement et puis là heu. mais enfin voyez moi je suis rentrée du travail là heu enfin de ce qu'elle me dit ça fait une demi heure mais heu enfin voilà
+MEDECIN: d'accord
+PATIENT: oui
+MEDECIN: est ce qu'elle se
+PATIENT: c'est ce que j'ai vu
+MEDECIN: d'accord est ce qu'elle marche normalement?
+PATIENT: elle marche enfin là elle est assise
+MEDECIN: d'accord. si vous lui demandez de marcher, est ce qu'elle marche normalement?
+PATIENT: heu
+PATIENT: tu veux pas marcher? non
+PATIENT: elle veut pas marcher non
+MEDECIN: il faut qu'elle marche, demandez lui de marcher
+PATIENT: tu peux marcher?
+PATIENT: ok. bon bah elle marche
+MEDECIN: elle marche, d'accord
+MEDECIN: vous m'avez dit elle a pas mal à la tête
+PATIENT: non elle s'est pas plaint de mal de tête non
+MEDECIN: est ce que votre fille prend des médicaments?
+PATIENT: heu non elle prend elle prend elle prend rien là, elle prend pas de médicaments
+MEDECIN: d'accord. quand heu quand elle essaye de bouger le bras ça lui fait mal ou?
+MEDECIN: ou juste?
+PATIENT: non elle a pas mal je vous dis. elle bouge pas son bras, elle ne bouge pas son bras
+MEDECIN: d'accord
+PATIENT: ça fait quand même quatre fois que je vous dis ça là hein
+MEDECIN: donc il faudrait qu'elle soit vue par un médecin on va on va on va on va faire passer un médecin chez chez vous pour l'examiner
+PATIENT: mais là enfin c'est pas normal quand même qu'elle bouge pas son bras elle a quand même seize ans elle a pas de problèmes
+MEDECIN: c'est pour ça qu'on va faire passer un médecin à domicile pour l'examiner
+PATIENT: non mais vous pensez pas qu'il faut aller à l'hôpital quand même là c'est grave
+MEDECIN: madame, madame il faut qu'elle soit examinée par un médecin dans la journée ce qui sera fait vous attendez ave- avec elle et vous nous rappelez que si y a des nouveaux symptômes. en attendant, vous attendez le médecin avec votre fille
+PATIENT: mais monsieur hum ce genre de symptômes c'est que ça fait quand même penser ​à un AVC quand même
+MEDECIN: madame
+PATIENT: vous pensez pas? la paralysie du bras?
+MEDECIN: madame, madame vous verrez ça avec votre médecin
+PATIENT: mais le médecin il vient dans combien de temps? heu on va pas rester là comme ça pendant quatre heures?
+MEDECIN: si si
+PATIENT: imaginez elle fait un AVC qu'est ce que après elle sera paralysée à vie
+MEDECIN: madame vous restez avec votre fille en attendant le médecin qui passera l'examiner dans je vais vous donner un délai entre six et huit heures
+MEDECIN: si il y a le moindre symp-
+PATIENT: dans six huit heures? imaginez monsieur, imaginez
+MEDECIN: madame. si il y a le moindre symptôme qui apparait entre temps, vous nous rappelez
+MEDECIN: sinon vous attendez le médecin
+PATIENT: non mais monsieur elle est paralysée de son bras là
+MEDECIN: madame, vous attendez le médecin
+MEDECIN: avec votre fille vous nous rappelez si il y a le moindre symptôme qui apparait de nouveau
+PATIENT: bah non mais monsieur six heures le médecin pour qu'il vienne quand même
+MEDECIN: madame, vous attendez le médecin avec votre fille vous verrez ça avec le médecin. en attendant, vous nous rappelez seulement si il y a de nouveaux symptômes, est ce que c'est clair pour vous?
+PATIENT: hum non parce que pour moi il y avait une infirmière, j'ai une amie infirmière elle m'a dit que ça faisait penser à un AVC moi je pense qu'il faut qu'elle aille en neurologie ma fille là
+MEDECIN: madame, vous verrez ça avec le médecin, vous verrez ça avec le médecin. vous restez avec votre fille et vous nous rappelez si il y a des nouveaux symptômes
+PATIENT: mais elle fait un AVC ma fille. monsieur s'il vous plait
+MEDECIN: madame madame madame si vous verrez ça avec le m- le médecin
+PATIENT: j'attends comme ça avec
+MEDECIN: attendez avec. pour une dernière fois, madame, pour une dernière fois vous attendez avec votre fille vous nous rappelez si il y a le moindre nouveau symptôme vous verrez ça avec le m- le médecin qui passera à domicile

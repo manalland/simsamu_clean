@@ -1,0 +1,37 @@
+MEDECIN: bonjour madame je suis le docteur ABAZ au SAMU hum moi mon collègue m'a transmis que vous appeliez pour votre père de quatre vingt cinq ans qui était atteint du COVID c'est bien cela?
+PATIENT: oui enfin oui COVID j'en sais rien moi je suis pas médecin hein je heu j'en sais rien c'est ce que enfin je sais pas je je pense mais j'en sais rien
+MEDECIN: donc heu pour quelle raison vous appelez si heu si c'est pas pour ça?
+PATIENT: bah pff là depuis ce matin en fait le problème c'est que là j'en déj- j'en peux plus depuis ce matin j'ai appelé SOS médecins ils répondent pas ils ils me disent qu'il faut qu'ils peuvent pas venir parce que y a pas assez de médecins y a j- j'appelle le 18 le 18 ils me disent
+MEDECIN: quels s- quels sont les symptômes quels sont les symptômes qui vous ont motivé à appeler le le 15 aujourd'hui?
+PATIENT: là heu bah mon papa moi je suis inquiète ça fait trois jours il a la fièvre il tousse heu heu bah voilà je je je suis inquiète heu il est à la maison comme ça je sais pas je je sais pas
+MEDECIN: est ce que votre papa est à côté de vous?
+PATIENT: oui il est à côté de moi
+MEDECIN: est-ce qu'il respire normalement ou il est il a des difficultés à respirer?
+PATIENT: heu non il a l'air de respirer normalement oui il a l'air de oui oui oui oui
+MEDECIN: est ce que aujourd'hui y a eu une aggravation particulière sur les trois derniers jours?
+PATIENT: non mais je peux pas le laisser comme ça moi hein je peux pas le laisser à la maison comme ça heu sans surveillance sans personnel tout seul comme ça non je peux pas hein heu donc non y a pas y a pas d'aggravation mais ça va durer combien de temps je sais pas moi non plus donc heu
+MEDECIN: est ce que votre heu est ce que votre papa a des problèmes de santé habituellement heu
+PATIENT: ah oui il en a des problèmes hein il est hypertendu y a ​il a un un stent heu il est diabétique aussi il est diabétique
+MEDECIN: est ce qu'il est autonome à la maison est ce qu'il a besoin d'aide?
+PATIENT: il non il il est autonome à la maison
+MEDECIN: est ce qu'il a des problèmes cognitifs ou des problèmes de mémoire ou heu de confusion?
+PATIENT: ah non pas du tout hein d'ailleurs là il me dit je veux pas aller à l'hôpital je veux pas bon bah moi j'ai quand même envie qu'il y aille hein parce que je le voilà je je suis inquiète
+PATIENT: en plus la semaine dernière c'était maman qui avait le COVID donc heu bah voilà moi ça me rassure pas du tout quoi
+MEDECIN: et vous vous voudriez qu'il aille à l'hôpital sur quel motif exactement c'est le fait que la les symptômes perdurent depuis un moment?
+PATIENT: bah c'est ça il faut le surveiller hein il faut le surveiller il faut y qu'il y ait quelqu'un hein voilà hein heu c'est pas c'est pas maman qui va surveiller papa hein ça c'est sûr hein maman elle est fatiguée hein
+MEDECIN: passez le moi au téléphone j'aimerais bien pouvoir lui parler
+PATIENT: il veut pas parler il veut pas parler à aucun médecin
+MEDECIN: bon sur ce que vous me dites heu et de des informations que vous m'avez transmis heu
+PATIENT: hum
+MEDECIN: je ne vois pas là d'arguments pour une hospitalisation tout de suite tout de suite pour votre heu pour votre papa heu cependant je pense qu'il faut qu'il soit surveillé heu par vous ou par quelqu'un d'autre est ce qu'il y a une possibilité de surveillance à domicile?
+PATIENT: bah moi je travaille hein je travaille hein après non je travaille je peux pas je peux pas la journée là comme ça heu non je travaille
+MEDECIN: est ce qu'il y a quelqu'un d'autre qui peut le surveiller à la maison?
+PATIENT: ah bah maman elle est pas dans un bon état hein donc heu là en plus avec le COVID elle est extrêmement fatiguée heu je crois pas qu'elle pourra le surveiller hein
+MEDECIN: il faudra idéalement prendre un rendez vous avec le médecin traitant heu ce qu'on peut essayer de faire c'est de faire passer on va faire passer un médecin à domicile pour l'évaluer heu mais heu dans un délai qui sera heu probablement de plusieurs heures mais y aura quelqu'un qui va passer à la maison
+PATIENT: bah si vous arrivez avec SOS médecins moi ça me va mais heu bon après je l'hospitalisation j'aurais préféré mais bon si vous me dites que tout va bien
+MEDECIN: parfait bah on fait comme ça heu je
+PATIENT: très bien
+MEDECIN: on va faire en sorte je peux pas donner v-d'informations sur les délais pour le moment en attendant vous restez avec lui et si il y a une aggravation ou un changement particulier vous nous rappelez
+PATIENT: très bien merci beaucoup
+MEDECIN: au revoir
+PATIENT: au revoir

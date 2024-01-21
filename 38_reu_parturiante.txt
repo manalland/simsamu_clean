@@ -1,0 +1,76 @@
+MEDECIN: oui bonjour madame ALAN PIROT je suis le médecin du SAMU vous appelez parce que vous êtes enceinte vous avez des contractions vous êtes enceinte de combien de semaines?
+PATIENT: oui oui je suis en train d'accoucher là ça faut que qu'on vienne me chercher je
+MEDECIN: vous êtes en train d'accoucher
+PATIENT: venez
+MEDECIN: c'est q- c'est quoi que vous qui vous dit que vous êtes en train d'accoucher
+MEDECIN: vous avez des contractions?
+PATIENT: bah j'ai des contractions oui j'ai des contractions
+MEDECIN: elles sont toutes les combien à peu près?
+PATIENT: heu pff je sais pas toutes les toutes les dix minutes
+MEDECIN: toutes les dix minutes
+PATIENT: fait mal là j'accouche
+MEDECIN: ça fait mal très bien
+MEDECIN: vous
+PATIENT: et puis c'est mon fils
+MEDECIN: vous avez envie
+PATIENT: comme ça là je suis toute seule avec mon fils
+MEDECIN: avec votre garçon j'entends
+MEDECIN: vous avez envie de donc les contractions toutes les dix minutes vous avez envie de pousser de faire caca?
+PATIENT: oui j'ai envie heu pff j'ai je suis en train heu enfin j'ai envie ce ça vient là je sens c'est
+MEDECIN: ça vient
+PATIENT: en train d'accoucher là ça va arriver
+MEDECIN: vous avez vous a- vous voyez la tête du bébé à la vulve?
+PATIENT: non non non je vois pas le bébé mais il y a des contractions
+MEDECIN: les contractions toutes les dix minutes et les contractions elles durent combien de temps madame?
+PATIENT: heu je sais pas quelques quelques secondes
+MEDECIN: quelques secondes toutes les dix minutes et vous me disiez que vous aviez envie de faire caca vous avez envie de pousser?
+PATIENT: bah je sens que heu que il y a le enfin je sens que je vais bientôt accoucher
+MEDECIN: que vous allez bientôt accoucher
+PATIENT: heu
+MEDECIN: et vous avez perdu le la poche des eaux?
+PATIENT: non non j'ai pas rompu la poche des eaux
+MEDECIN: vous avez pas rompu la poche des eaux vous m'avez dit que vous étiez avec votre garçon?
+PATIENT: mais vous allez venir là parce que là je suis toute seule avec mon garçon j'ai déjà appelé l'ambulance ils m'ont dit qu'il fallait pas venir heu les pompiers ils m'ont dit de vous rappeler heu là ça fait vingt minutes que que j'appelle moi j'ai envie de qu'il y ait quelqu'un qui vienne j'ai pas envie d'accoucher avec mon fils c'est pas mon fils qui va m'accoucher
+MEDECIN: vous êtes la troisième personne que vous avez au télé- que vous avez au téléphone
+MEDECIN: bien sûr bien sûr c'est pas votre fils qui va vous accoucher donc vous avez déjà appelé une ambulance qui n'a pas pu venir et les pompiers qui vous ont dit d'appeler le 15 si j'ai bien compris madame?
+PATIENT: oui oui et heu du coup à chaque fois on passe à quelqu'un d'autre
+MEDECIN: très bien
+PATIENT: heu là heu je j'en ai marre d'appeler et qu'à chaque fois je rappelle quelqu'un d'autre
+MEDECIN: c'est normal mais on va s'occuper de vous c'est pour ça que vous êtes là heu donc
+MEDECIN: hum est ce qu'il y a quelqu'un qui est à côté de vous à part votre fils est ce que vous avez un un mari le papa
+PATIENT: non non il y a que mon fils
+MEDECIN: il y a que votre fils
+PATIENT: huit ans avec moi je suis toute seule avec mon fils
+MEDECIN: quelqu'un peut vous emmener à l'hôpital?
+PATIENT: bah non il y a personne y'a p- c'est pas mon fils qui va conduire
+MEDECIN: vous habitez où dans une immeuble dans une maison?
+PATIENT: heu dans un immeuble
+MEDECIN: dans un immeuble vos voisins vont vous amener?
+PATIENT: quoi mes voisins je les connais pas mes voisins
+MEDECIN: vous allez frapper chez eux et voir si ils peuvent vous amener
+PATIENT: enfin mais là j'ai mal j'ai des contractions et tout j'attends heu je peux je peux pas marcher
+MEDECIN: vous arrivez pas à marcher vous êtes où là?
+PATIENT: quoi là je suis je suis chez moi
+MEDECIN: vous êtes allongée assise debout?
+PATIENT: heu bah là je suis je suis assise
+MEDECIN: vous êtes assise très bien donc vous êtes assise vous avez des contractions toutes les dix minutes
+MEDECIN: il faut que vous alliez à l'hôpital vous avez raison pour que vous soyez examinée
+PATIENT: vous allez venir là?
+MEDECIN: heu votre votre mari n'est pas là vous m'avez dit vos voisins vous avez frap- vous allez frapper chez eux on va le faire ensemble vous pouvez aller chez vos voisins on vous allez aller chez vos voisins vous allez frapper et demander si ils peuvent vous amener à l'hôpital
+MEDECIN: ce sera plus rapide
+PATIENT: parce que vous allez pas venir
+MEDECIN: on va faire le plus rapide le plus rapide c'est que vous alliez à l'hôpital par votre propre moyen
+PATIENT: mais je vous dis mes voisins je les connais pas je sais pas si ils sont là mes voisins
+MEDECIN: bah on va frapper ensemble
+PATIENT: parce que vous allez venir frapper avec moi?
+MEDECIN: je suis au téléphone avec vous
+PATIENT: d'accord
+PATIENT: et du coup heu c'est mes voisins qui vont heu qui vont m'emmener à l'hôpital?
+MEDECIN: exactement
+PATIENT: et si ils sont pas là?
+MEDECIN: heu c'est vos voisins qui vont vous amener à l'hôpital
+PATIENT: d'accord et heu si ils sont pas là mes voisins?
+MEDECIN: c'est vos voisins qui vont vous amener à l'hôpital on va voir avec eux
+PATIENT: bon d'accord je vais heu je v- je vous rappelle si si ils sont pas là?
+MEDECIN: on va le faire ensemble restez au téléphone
+PATIENT: d'accord

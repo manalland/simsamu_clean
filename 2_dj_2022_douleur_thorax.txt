@@ -1,0 +1,61 @@
+MEDECIN: bonjour monsieur, docteur CHITZ à l'appareil
+MEDECIN: vous appelez pour votre heu collègue de cinquante ans qui a mal
+PATIENT: oui oui
+MEDECIN: à la poitrine
+PATIENT: il a mal a la poit- poitrine oui
+MEDECIN: ouais c'est heu c'est depuis combien de temps que ça a commencé?
+PATIENT: je l'ai dit tout à l'heure, je ça ça fait ça fait quinze minutes là quinze minutes là il est plié en deux
+MEDECIN: d'accord
+PATIENT: il est pas en forme
+MEDECIN: d'accord. il est i- i- ok
+MEDECIN: il est heu il a des sueurs, il a il est conscient?
+PATIENT: je sais pas il est plié là, il a mal. il a arrêté le camion, on perd du temps, et voilà et ça fait. je sais pas non il a pas de sueurs voilà, il a pas de sueurs
+MEDECIN: et il a des problèmes de santé votre collègue?
+MEDECIN: est ce qu'il a déjà été hospitalisé?
+PATIENT: mais je sais pas c'est pas un pote non plus hein. heu il voilà il a des problèmes de santé j'en sais rien. je sais pas je pense pas pff. bah il a mal des fois, il a mal ça fait deux semaines qu'il a mal
+MEDECIN: deux semaines qu'il a mal où ça? à la poitrine?
+PATIENT: ouais heu poitrine non mais j'en sais rien heu
+MEDECIN: hum
+PATIENT: voilà faut un truc pour lui parce que là il nous retarde et ça fait chier
+MEDECIN: passez le moi s'il vous plait
+PATIENT: ok
+PATIENT: allo allo, allo?
+MEDECIN: allo? oui bonjour monsieur
+PATIENT: allo ouais ouais c'est qui?
+MEDECIN: oui docteur CHITZ à l'appareil, je suis le médecin régulateur. dites moi vous avez mal à la poitrine du coup, c'est ça?
+PATIENT: ouais c'est ç- ouais ouais
+MEDECIN: ça a commencé il y a quinze minutes?
+PATIENT: quoi?
+MEDECIN: ça a commencé il y a quinze minutes c'est ça?
+PATIENT: heu je sais pas j'ai pas compris
+MEDECIN: d'accord. votre douleur vous avez déjà eu ça auparavant?
+MEDECIN: avant?
+PATIENT: quoi?
+MEDECIN: est ce que vous avez déjà eu ça avant, dans le passé?
+PATIENT: ouais ça fait deux semaines
+MEDECIN: d- deux semaines. est ce que vous avez déjà été hospitalisé?
+PATIENT: je je peux pas parler, je vais je vais je vais vomir j'en peux plus là
+MEDECIN: vomir. d'accord. heu. heu la douleur elle est comment? heu vous sentez comme une oppression, ça brûle?
+PATIENT: envoyez quelque chose j'en peux plus là
+MEDECIN: d'accord. heu vous fumez? vous vous vous avez quoi comment?
+PATIENT: j'en sais rien, sais rien, j'en peux plus là. ouais je fume ouais ouais
+MEDECIN: ouais. et vous avez déjà ét- eu un stent? ça vous parle?
+PATIENT: je sais pas je sais pas, je sais plus je sais plus
+MEDECIN: vous ne savez pas. vous avez pris quelque chose pour la douleur?
+PATIENT: mais non je vous heu je sais plus là envoyez quelque chose je peux plus là. je peux plus, je lâ- je lâche le téléphone, là je lâche
+MEDECIN: ok
+MEDECIN: heu
+MEDECIN: ok. ce qu'on va faire c'est que on va vous envoyer un heu les secours d'accord le le SAMU là ok?
+PATIENT: les secours? heu ok ok
+MEDECIN: restez avec votre collègue, prenez si vous avez un doliprane pour l'instant pour la douleur
+MEDECIN: et restez au calme, ne faites aucun effort
+MEDECIN: vous êtes assis ou allongé?
+PATIENT: là je suis dans le camion là
+MEDECIN: bon
+MEDECIN: dans le camion. d'accord. assis?
+PATIENT: bah ouais heu
+MEDECIN: ok. vous restez assis
+MEDECIN: vous attendez que les secours arrivent. d'accord?
+PATIENT: d'accord
+MEDECIN: ok. au revoir monsieur
+PATIENT: au revoir

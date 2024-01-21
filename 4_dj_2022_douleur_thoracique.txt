@@ -1,0 +1,79 @@
+MEDECIN: oui bonjour madame
+PATIENT: bonjour
+MEDECIN: docteur DAMANI le médecin régulateur, vous nous appelez pour votre mère qui a une douleur dans la poitrine c'est bien ça?
+PATIENT: heu oui c'est ça
+MEDECIN: c'est la première fois que ça lui arrive?
+PATIENT: hum là comme ça oui oui oui je pense c'est la première fois
+MEDECIN: bon heu elle a mal depuis quand?
+PATIENT: hum bah là elle me dit ça me aujourd'hui en tous cas pff une quin- quinzaine vingtaine de minutes que ça ça c'est bien quelque chose comme ça
+MEDECIN: depuis quinze vingt minutes
+MEDECIN: et heu donc vous m'avez dit c'était la
+PATIENT: elle m'a dit ça ouais
+MEDECIN: vous êtes avec elle là actuellement?
+PATIENT: heu je suis avec elle ouais
+MEDECIN: donc elle elle heu elle est en sueurs?
+PATIENT: non non
+MEDECIN: non
+MEDECIN: d'accord, elle vous décrit quel ty-, elle décrit quel type de douleurs?
+PATIENT: <NA>
+PATIENT: bah hum a a de comme un peu ça elle peut décrire peut être heu
+MEDECIN: est ce que c'est un poids?
+PATIENT: en tous cas moi ça me fait un peu penser ​à mon vous savez moi j'ai déjà eu heu ce genre de douleurs auparavant heu heu. vous savez moi j'ai déjà fait un infarctus donc heu ça fait un peu penser à ça hein heu donc
+MEDECIN: bah justement en parlant heu
+PATIENT: douleur heu vous savez moi on m'avait appelée aussi et on m'avait dit qu'il fallait appeler puis fallait que j'appelle le 15 quand si ça se reproduisait, donc là ça me faisait penser un peu à
+MEDECIN: oui bah justement d'ailleurs, heu elle a déjà un antécédent d'infarctus?
+PATIENT: heu hum hum non
+MEDECIN: non? d'accord. est ce que je pourrais lui parler?
+PATIENT: heu non là vous savez elle a très mal donc c'est c'est compliqué
+MEDECIN: oui bah passez la moi
+PATIENT: heu hum je pourrai pas là vous la passer malheureusement elle peut p- elle a un peu mal là
+MEDECIN: bah justement heu j'ai besoin de savoir comment elle ​a mal. donc passez là moi
+PATIENT: heu d'accord je vais essayer
+PATIENT: oui allo?
+MEDECIN: oui
+MEDECIN: oui bonjour madame, je suis le docteur DAMANI le médecin régulateur
+MEDECIN: donc heu votre fille nous a appelés parce que vous avez une douleur au niveau de la poitrine?
+PATIENT: oui c'est ça
+MEDECIN: qui est apparue depuis quinze vingt minutes, heu est ce que vous avez des problèmes de santé?
+PATIENT: heu vous savez un peu de cholestérol, un peu d'hypertension voilà, enfin des trucs de base quoi hein
+MEDECIN: est ce que vous avez déjà fait un infarctus?
+PATIENT: non je pense pas. infarctus, c'est quoi ça?
+MEDECIN: les artères bouchées au niveau du coeur
+PATIENT: heu non non non moi non. mais mon fils heu oui oui
+MEDECIN: votr- heu votre fils. mais vous non?
+MEDECIN: heu et donc là vous avez mal. donc ça fait quinze minutes c'est toujours pas parti la douleur n'est n'est pas passée
+MEDECIN: heu est ce que ça serre au niveau de la poitrine?
+PATIENT: heu ça serre pas non ça serre pas
+MEDECIN: ça brûle, ça pique?
+PATIENT: non non
+MEDECIN: non pas du tout?
+PATIENT: non pas non
+MEDECIN: et vous avez mal où exactement au niveau de la poitrine?
+PATIENT: heu vous savez là en latéral gauche
+MEDECIN: d'accord. vous toussez?
+PATIENT: je je tousse pas non
+MEDECIN: vous avez de la fièvre?
+PATIENT: non plus non
+MEDECIN: non plus. et donc c'est apparu ce matin seulement
+PATIENT: bah vous savez en fait heu déjà un peu hier soir, mais j'ai pas osé dire des choses. mais bon je croyais que ça allait passer mais là depuis quinze minutes ça fait quand même très mal
+MEDECIN: depuis quinze minutes ça fait très mal
+MEDECIN: heu très bien
+MEDECIN: heu écoutez madame, il faut aller à l'hôpital
+PATIENT: d'accord
+MEDECIN: vo- votre fille est avec vous, elle peut vous y emmener?
+PATIENT: heu mon mon fils?
+MEDECIN: est ce que vous pouvez. repassez moi votre fille
+PATIENT: hum ok je vous repasse
+PATIENT: oui allo?
+MEDECIN: oui madame. alors votre f- votre maman doit aller à l'hôpital
+MEDECIN: vous êtes véhiculée?
+PATIENT: infarctus? parce que moi ça me fait penser à ça hein
+MEDECIN: justement. êtes vous véhiculée pour heu pour l'amener à l'hôpital?
+PATIENT: bah oui bah oui tout à fait
+MEDECIN: eh bah amenez là à l'hôpital
+PATIENT: hum ok entre temps je fais je l'amène tout de suite c'est ça?
+MEDECIN: oui voilà. vous prenez votre voiture et vous l'amenez à l'hôpital
+PATIENT: ok bah c'est noté, je vais la ramener
+MEDECIN: très bien
+PATIENT: merci
+MEDECIN: merci au revoir

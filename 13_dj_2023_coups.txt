@@ -1,0 +1,75 @@
+MEDECIN: allo
+PATIENT: allo bonjour
+MEDECIN: oui bonjour monsieur je suis le docteur DAMANI du SAMU 93, vous appelez à propos de votre femme qui s'est blessée c'est ça?
+PATIENT: ouais ouais et bah elle est je sais pas elle est tombée là sur un elle est tombée dans la cuisine heu un un couteau par terre un couteau de cuisine là et je et voilà elle s'est elle s'est fait une plaie quoi
+MEDECIN: alors, elle a une plaie à quel niveau?
+PATIENT: heu alors je crois que c'est au une plaie au niveau du bras
+MEDECIN: une plaie au niveau du bras qui saigne?
+PATIENT: bah et pff ouais elle dit en tout cas elle dit que ça saigne heu ouais ça saigne un peu ouais
+MEDECIN: vous vous êtes approché pour voir?
+PATIENT: bah hé n- bah j'ai essayé ouais et j'ai vu que ça saigne un peu quoi
+MEDECIN: ca saigne un peu. mais à quel niveau dans le bras? c'est plutôt vers la main?
+PATIENT: peux pas dire je
+MEDECIN: ou vers le coude?
+PATIENT: vers vers vers le coude ouais
+MEDECIN: vers le coude
+MEDECIN: et donc là heu donc c'est en tombant qu'elle s'est pris le couteau au niveau du coude
+PATIENT: je crois ouais
+PATIENT: ouais elle est tombée parce qu'elle a aussi une elle a elle a une plaie là aussi au niveau de de l'arcade là
+MEDECIN: donc elle s'est cognée la tête par terre
+PATIENT: bah je pense oui sur la
+MEDECIN: là elle est consciente?
+PATIENT: bah oui oui oui elle est
+MEDECIN: elle vous parle normalement
+PATIENT: bah elle chiale quoi mais oui sinon heu
+MEDECIN: elle parle. heu au niveau de de la plaie donc au niveau du coude plutôt c'est ça?
+PATIENT: bah je crois oui je suis pas sûr hein mais je crois
+MEDECIN: bah retirez son son pull pour regarder vraiment où est la plaie
+PATIENT: bah elle veut pas elle je elle s'est enfermée dans les chiottes là elle chiale heu
+PATIENT: je lui ai dit d'ouvrir hein mais mais
+MEDECIN: bah là parce qu'on ce qu'on a besoin de s- ce qu'on a besoin de savoir c'est est ce que ça saigne activement. voyez est ce que la plaie saigne
+PATIENT: bah je comprends bien mais je moi je lui dis hein elle est dans les chiottes elle s'est enfermée elle veut pas m'ouvrir
+MEDECIN: elle veut pas vous ouvrir
+PATIENT: bah non
+MEDECIN: même si vous lui demandez d'ouvrir la porte
+PATIENT: hein mais mais elle veut pas. je vais pas péter ma porte c'est mon appart donc heu
+MEDECIN: bah j'entends bien mais heu là c'est vous qui êtes avec elle heu et on a besoin heu de de savoir comment elle va
+PATIENT: bah moi je moi je veux bien savoir aussi c'est pour ça que je vous appelle sauf que elle veut pas ouvrir la porte et
+MEDECIN: bah il faut qu'elle ouvre la porte
+PATIENT: dessus elle bouge pas voilà elle chiale dedans là
+MEDECIN: j'entends bien. faut qu'elle ouvre la porte parce que après nous heu la seule solution si elle est blessée et qu'elle n'ouvre pas la porte c'est qu'on envoie heu des secours qui vont forcer la porte
+PATIENT: ah non mais sinon moi je vais vous bah oui si vous voulez hein
+MEDECIN: vous comprenez? donc heu là dites lui qu'elle ouvre la porte
+MEDECIN: pour heu pour que vous l'ameniez à l'hôpital
+PATIENT: ouais mais elle dit qu'elle veut pas elle dit qu'elle heu elle dit qu'elle veut pas me voir elle dit que
+PATIENT: elle veut pas que je l'approche heu sinon je la force hein si vous voulez
+MEDECIN: c'était à la à la suite d'une dispute?
+PATIENT: bah hé pff non je sais p- ouais ouais mais c'était pas grand chose hein mais
+MEDECIN: et heu
+PATIENT: non mais sinon je l'amène aux urgences hein si vous dites heu
+MEDECIN: donc là vous vous êtes disputés?
+PATIENT: ouais tout à l'heure ouais
+MEDECIN: et c'est suite à ça qu'il y a eu heu un coup porté?
+PATIENT: bah je sais pas on s'est disputés et après heu après voilà quoi
+MEDECIN: vous l'avez poussée?
+PATIENT: vous dites pardon?
+MEDECIN: vous l'avez poussée?
+PATIENT: je l'ai poussé n- ouais un peu ouais
+MEDECIN: et donc là votre femme elle est heu elle est dans la dans la salle de bain?
+PATIENT: dans ouais ouais c'est ça fermée ​à clé
+MEDECIN: bah qu'elle y reste et puis on va vous envoyer heu les les premiers secours
+PATIENT: c'est à dire c'est qui les premiers secours?
+MEDECIN: bah là il faut qu'elle soit amenée à l'hôpital
+PATIENT: ah je peux peux l'amener moi si
+MEDECIN: non mais on va amener les pompiers pour qu'elle aille à l'hôpital
+PATIENT: ramener les pompiers chez moi?
+MEDECIN: oui
+PATIENT: elle
+MEDECIN: et la police
+PATIENT: consciente hein elle juste elle pleure je pense ça pique un peu moi je l'amène aux urgences
+MEDECIN: non mais là vous m'avez dit qu'il y a deux plaies d'accord donc elle est en sécurité dans la salle de bains heu les pompiers vont arriver
+PATIENT: bah ok les pompiers ok d'accord
+MEDECIN: donc qu'elle reste dans la salle de bain les pompiers arrivent
+PATIENT: ok
+MEDECIN: au revoir monsieur
+PATIENT: au revoir

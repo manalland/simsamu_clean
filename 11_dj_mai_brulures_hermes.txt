@@ -1,0 +1,28 @@
+MEDECIN: ok
+MEDECIN: oui bonjour docteur SAEB au téléphone heu hum vous appelez parce que votre frère de trente deux ans s'est brûlé c'est bien ça?
+PATIENT: heu exactement oui oui moi heu je déjà je me présente hein je suis je suis secouriste heu aux ateliers HERMES et là mon frère s'est brûlé il a tout le bras qui est brûlé heu ça suinte énormément heu voilà moi il me faut absolument heu une ambulance avec un médecin heu pour l'emmener rapidement dans un centre de brûlé hein
+MEDECIN: d'accord hum il s'est brûlé avec heu avec quoi comme heu qu'est ce qu'il s'est passé
+PATIENT: mais mais je on s'en fout de avec quoi il s'est brûlé il s'est brûlé avec de l'eau mais heu ça change pas le fait qu'il soit brûlé là il est brûlé il faut qu'il soit traité
+MEDECIN: hum hum bien sûr
+PATIENT: il faut un moyen tout de suite
+MEDECIN: il faut que votre heu là vous êtes avec votre frère c'est ça donc il faut que vous alliez aux aux urgences les plus proches de chez vous oui?
+PATIENT: mais là il a il a là il a tout le bras qui est br- qui est brûlé il peut pas se déplacer aux urgences il est douloureux
+MEDECIN: là il y a il y a d'autres brûlures ou pas? il y a eu le bras il y a d'autre au niveau heu du visage?
+PATIENT: non non il le le le visage est pas brûlé mais là tout le bras est brûlé
+MEDECIN: il a des problèmes de santé particuliers?
+PATIENT: eh ben il est drépanocytaire
+MEDECIN: d'accord vous avez fait quoi pour l'instant là comme gestes?
+PATIENT: bah on a refroidi heu la plaie on a versé de l'eau froide dessus heu mais il reste très douloureux heu et il faut il faut déjà que un médecin passe pour lui donner des antalgiques mais surtout il faut l'orienter
+MEDECIN: monsieur il faut que vous alliez aux aux urgences elles sont les les urgences elles sont près de chez vous là vous êtes pas loin du tout à pied il faut y aller
+PATIENT: mais mais si on va aux urgences on va encore attendre quatre cinq heures heu là il a besoin d'être pris en charge tout de suite en plus comme je viens de vous le dire il est drépanocytaire
+MEDECIN: non il y ​heu on on va appeler nous les urgences pour prévenir que vous arrivez mais il faut aller aux urgences vous de votre côté
+PATIENT: mais mais heu là il a ok heu je je quelles urgences je me présente directement aux urgences je leur dis que c'est le SAMU qui m'a orienté parce que là
+MEDECIN: exactement vous allez aux urgences de d'AVICENNE
+PATIENT: mais si on passe par les urgences on va enco- encore attendre très longtemps?
+MEDECIN: non non non il il il vous allez pas attendre longtemps
+PATIENT: mais oh b- mais moi je vous ai dit hein je suis secouriste j'ai l'habitude de voir
+MEDECIN: monsieur il faut aller maintenant aux urgences là il faut aller maintenant
+PATIENT: ok bon bah on va on va y aller heu et puis vu qu'on a pas le choix eh bah on va y aller
+MEDECIN: très bien vous allez aux urgences c'est bien ça?
+PATIENT: oui c'est bien ça
+MEDECIN: ok bon courage

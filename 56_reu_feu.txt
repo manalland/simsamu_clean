@@ -1,0 +1,57 @@
+PATIENT: allo?
+MEDECIN: oui bonjour je suis le docteur BEAUCHAMP donc vous appelez parce que il y a un chez un ami qui est où il y a le feu chez lui?
+PATIENT: bah je sais pas moi je suis je suis en bas
+MEDECIN: vous êtes en bas de de l'immeuble?
+PATIENT: heu oui oui je suis en bas de l'immeuble
+MEDECIN: et il y a le feu dans l'immeuble?
+PATIENT: bah il y a il y a des flammes je crois oui il y a des flammes
+MEDECIN: il y a des flammes dans dans son appartement?
+PATIENT: bah je vois elle elle habite au troisième et là le on dirait que c'est un peu au dessous
+MEDECIN: d'accord et les pompiers ils sont prévenus?
+PATIENT: non heu bah les les pompiers je sais pas c'est pas vous vous avez pas appelé les pompiers là? moi j'ai pas j'ai pas appelé vous les avez appelés vous?
+MEDECIN: bah moi j'ai pas appelé les pompiers mais heu mes collègues veut vont les appeler heu le il y a pas de soucis
+PATIENT: d'accord
+MEDECIN: d'accord et il y a il y a quelqu'un du coup dans l'appartement?
+PATIENT: bah il y a je mon ami en tous cas elle habite là
+MEDECIN: d'accord vous avez réussi à l'a- à l'appeler à pour savoir si elle répondait?
+PATIENT: heu oui j'ai fait son enfin j'ai j'ai fait son numéro
+MEDECIN: d'accord et elle a répondu?
+PATIENT: heu ah bah non elle elle a pas répondu
+MEDECIN: heu elle a pas répondu et heu vous savez pas si elle était à son domicile à ce moment là
+PATIENT: <NA>
+MEDECIN: d'accord
+MEDECIN: heu et heu il y a personne d'autre elle vit t- seule à la maison ou heu elle a des enfants ou heu d'autres personnes vivent avec elle?
+PATIENT: bah bah c'est non non elle a pas d'enfants heu elle heu elle dit bah je sais peut être il reste c'est d'habitude il y a sa maman qui vit avec elle
+MEDECIN: d'accord elle est toute seule
+MEDECIN: heu ok et il y a beau- il y a beaucoup de flammes qui sortent?
+PATIENT: heu il y a beaucoup c'est oui il y a beaucoup
+MEDECIN: d'accord et depuis combien de temps vous avez contas- con- enfin qu'il y a le feu
+PATIENT: heu moi je suis arrivé heu il y a dix minutes
+MEDECIN: et il y avait déjà le feu?
+PATIENT: oui
+MEDECIN: d'accord bon heu on va vous vous envoyer les les pompiers hein on a appelé les pompiers ils vont arriver et on va vous envoyer une équipe médicale heu aussi
+PATIENT: d'accord après heu je crois il y a une cour avec heu un tuyau je vais heu je vais essayer d'aller heu d'aller éteindre le feu avec heu il y a un arrosoir je crois derrière dans la cour
+MEDECIN: dans dans la cour de de l'immeuble? faut faut pas que vous approchiez trop des flammes hein faut pas que vous vous mettiez en danger monsieur hein
+PATIENT: non je vais rester à côté des flammes mais je vais jeter après dessus
+MEDECIN: d'accord de
+PATIENT: je je vais pas toucher les flammes je vais de à côté je vais jeter de l'eau dessus
+MEDECIN: d'accord
+PATIENT: j'ai vu ça à la télé hein comment ils font je sais faire
+MEDECIN: bah il y a il y a les pompiers qui vont arriver heu restez loin des flammes et les pompiers vont vont ​venir
+PATIENT: commencé et les pompiers quand ils vont arriver j'aurai déjà commencé à les aider c'est parfait
+MEDECIN: heu bah restez plutôt en avant pour pas que les pompi- pour que les pompiers ils vous voient directement d'accord? comme ça vous les aiderez quand ils arrivent en en avant de l'immeuble dans dans la rue comme ça quand les pompiers ils arrivent vous heu vous les pouvez leur indiquer heu où où se garer et vous dire directement où aller
+PATIENT: d'accord il faut il faut qu'ils se garent d'accord
+MEDECIN: d'accord?
+PATIENT: qu'ils se garent où?
+MEDECIN: bah là où il y a de la place là où ça gêne pas d'accord? vous comme ça vous trouvez en attendant qu'ils arrivent d'accord? donc les pompiers arrivent et le médecin arrive d'accord?
+MEDECIN: d'accord bah é-
+PATIENT: ok
+MEDECIN: o- donc les pompiers arrivent hein monsieur
+PATIENT: appelle
+PATIENT: comment je vous appelle si il y a un problème je fais quoi avec mon téléphone c'est quoi votre nom pour que je vous rappelle à vous?
+MEDECIN: vous rappelez le heu le 15 et ils passeront directement le le hum l'appel ils sauront que c'est moi
+MEDECIN: vous appelez le 15
+PATIENT: d'accord
+MEDECIN: bon les pompiers arrivent hein monsieur a- attendez les hein
+PATIENT: d'accord
+MEDECIN: au revoir

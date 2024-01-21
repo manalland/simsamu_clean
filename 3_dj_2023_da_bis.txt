@@ -1,0 +1,65 @@
+MEDECIN: bonjour docteur SCHILTZ SAMU 93 vous m'appelez pour votre mère qui a mal au ventre c'est ça?
+PATIENT: oui je suis vraiment désolée de vous embêter hein pour ça franchement je m'excuse hein je vous avez d'autres choses à faire mais
+MEDECIN: elle a mal depuis quand madame?
+PATIENT: bah pff là elle a mal depuis heu depuis tout à l'heure c'est ça c'est ça qui m'a inquiétée quoi. je suis désolée hein
+MEDECIN: tout à l'heure c'est à dire? il y a deux heures deux trois heures?
+PATIENT: bah pff ouais c'est arrivé heu y'a y'a pas si longtemps ouais
+MEDECIN: elle a des problèmes de santé?
+PATIENT: heu du diabète
+MEDECIN: c'est tout?
+PATIENT: heu ouais je crois
+MEDECIN: hypertension cholestérol heu non?
+PATIENT: non
+MEDECIN: le coeur ça va?
+PATIENT: je sais pas ouais ouais ça va
+MEDECIN: au niveau des traitements elle prend de l'insuline du coup?
+PATIENT: non
+MEDECIN: non. elle prend quoi comme médicament?
+PATIENT: heu pff elle prend un truc là qu'on donne aussi pour les enfants quand on a mal à la tête là
+MEDECIN: DOLIPRANE?
+PATIENT: heu non un autre truc qui commence par un a ma mère elle m'en donnait quand j'étais petit heu
+MEDECIN: ASPIRINE?
+PATIENT: oui ouais c'est ça c'est ça
+MEDECIN: bon hum et la douleur donc là elle vomit?
+PATIENT: non
+MEDECIN: non
+MEDECIN: elle a de la fièvre?
+PATIENT: non
+MEDECIN: passez la moi s'il vous plait
+PATIENT: oh pff ben là elle peut pas parler là elle est pas bien
+MEDECIN: elle peut pas me parler
+PATIENT: non elle est pas bien là en fait heu ce matin elle était mal mais là elle est elle a mal au ventre là
+MEDECIN: la douleur elle est en haut ou en bas du ventre?
+PATIENT: bah plutôt en haut c'est pour ça que je j'appelle quoi donc
+MEDECIN: et
+PATIENT: quand elle m'a dit que oui?
+MEDECIN: quand elle vous a dit que?
+PATIENT: que maintenant elle avait mal au ventre et pas heu au- autre part bah c'est ça qui m'a fait peur quand ça s'est rajouté le ventre
+MEDECIN: et elle a des nausées?
+PATIENT: heu bah ouais oui
+MEDECIN: et elle vomit?
+PATIENT: non elle vomit pas
+MEDECIN: et elle est elle a des troubles du transit?
+PATIENT: heu oui ça oui elle est constipée hein
+MEDECIN: elle est constipée. c'est depuis quand qu'elle ne va plus à la selle?
+PATIENT: oh bah je sais je sais pas c'est qu'elle a toujours des trucs comme ça mais bon
+PATIENT: bah non elle était pas bien mais là avec la la douleur en plus heu
+MEDECIN: mais elle a pris un médicament pour la douleur?
+PATIENT: bah je lui ai donné du DOLIPRANE mais pff ça fait rien quoi
+MEDECIN: ça fait rien et elle a consulté un médecin traitant entre temps ou pas?
+PATIENT: n- non mais non mais c'est en fait c'est arrivé ce matin
+PATIENT: c'est ce matin elle s'est réveillée elle avait déjà mal mais c'était pas au ventre et maintenant c'est au ventre
+MEDECIN: bah ce matin c'était où la douleur?
+PATIENT: bah elle avait mal au bras gauche ce matin et ​à la gorge bon bah je sais pas elle a soixante quinze ans elle a le droit d'avoir mal quoi mais là le ventre
+MEDECIN: et la douleur elle elle elle serre elle fait quoi?
+PATIENT: bah je sais pas elle me dit ça me prend heu j'ai mal ça me prend et du coup j'ai eu j'ai eu d- j'ai envie de vomir et j'ai eu peur donc je suis désolée de vous embêter mais moi je je moi je voudrais l'amener à l'hôpital mais voilà
+MEDECIN: vous êtes véhiculée madame?
+PATIENT: ah non
+MEDECIN: ok ok heu bon madame restez sur place ok il y ​a les pompiers qui arrivent
+PATIENT: y'a les pompiers?
+MEDECIN: ah oui oui ils arrivent là
+PATIENT: je d'accord
+PATIENT: bah d'accord je on les attend
+MEDECIN: super
+PATIENT: au revoir
+MEDECIN: au revoir

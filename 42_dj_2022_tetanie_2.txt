@@ -1,0 +1,84 @@
+MEDECIN: bonjour monsieur
+PATIENT: allo?
+MEDECIN: allo oui bonjour?
+PATIENT: bonjour
+MEDECIN: je suis médecin docteur CHITZ du coup y a votre soeur qui ne se sent pas bien de vingt huit ans elle fait un malaise, qu'est ce qui se passe?
+PATIENT: ouais ma s- ma soeur elle est dans le mal là
+MEDECIN: dans le mal. depuis combien de temps?
+PATIENT: depuis combien de quoi?
+MEDECIN: combien de temps?
+PATIENT: ah ça fait s- heu je sais pas ça fait depuis qu'on est rentrés quoi heu
+MEDECIN: c'est à dire une dix minutes, une demi heure?
+PATIENT: ah ça fait pas une demi heure quand même hein. je dirais moins, je dirais moins d'une demi heure
+MEDECIN: moins, ok. elle et elle vous répond votre soeur?
+PATIENT: <NA>
+PATIENT: non elle fait des petits bruits comme ça mais
+MEDECIN: des petits
+PATIENT: pas sûr qu'elle réponde en vrai non
+MEDECIN: hum elle elle est en capacité de parler?
+PATIENT: bah nan elle bouge plus heu elle
+MEDECIN: elle elle bouge pas
+PATIENT: elle me parle plus là. là elle dans le mal, je vous dis elle est pas bien
+MEDECIN: elle hum. est ce que vous pouvez me la. passez la moi
+PATIENT: ah j'essaye hein mais
+MEDECIN: passez la moi, passez la moi
+PATIENT: bah je sais pas elle le té- elle peut même pas tenir le téléphone. euh j'ai essayé euh le téléphone il tombe et tout
+MEDECIN: le téléphone tombe. et elle respire? est-ce?
+PATIENT: ouais elle respire ouais heu ouais ouais elle respire elle respire ouais
+MEDECIN: elle respire. et elle s'est plaint de douleurs?
+PATIENT: bah je sais pas très bien, elle pleure, elle est pas bien, je comprends rien
+MEDECIN: d'accord là
+PATIENT: elle répond pas
+MEDECIN: là là elle est en train de pleurer?
+PATIENT: ouais on dirait hein
+PATIENT: on dirait
+MEDECIN: d'accord. elle elle a des des maladies votre soeur?
+PATIENT: des maladies? pff non
+MEDECIN: elle a jamais été hospitalisée?
+PATIENT: c'est à dire hospitalisée, heu?
+MEDECIN: à l'hôpital, à l'hôpital
+PATIENT: à l'hôpital. elle a été à l'hôpital. heu ouais elle a déjà été à l'hôpital je crois
+MEDECIN: pourquoi?
+PATIENT: bah parce que elle était pas bien comme ça dans le mal et puis heu
+MEDECIN: d'accord donc elle elle a déjà fait ça avant?
+MEDECIN: ce
+PATIENT: ouais des trucs comme ça ouais
+MEDECIN: d'accord. elle prend des médicaments?
+PATIENT: bon pas des médicaments vraiment
+MEDECIN: c'est à dire?
+PATIENT: bah elle méfu un peu elle est tipo
+MEDECIN: elle fume?
+PATIENT: ouais ouais
+MEDECIN: et elle fume quoi?
+PATIENT: bah des elle fume euh elle fume de la weed quoi
+MEDECIN: d'accord là elle a elle a elle a consommé elle a consommé là?
+PATIENT: consommé c'est à dire?
+MEDECIN: elle a fumé?
+PATIENT: elle a fum- ouais là on rentre d'une soirée elle a pris pris deux trois cachetons euh et puis euh ouais on a méfu un peu mais bon pas plus que d'habitude hein
+MEDECIN: pas plus que d'habitude?
+PATIENT: non
+MEDECIN: heu ok. et elle a bu?
+PATIENT: elle a bu? ouais elle a bu
+MEDECIN: beaucoup?
+PATIENT: bah c'est une soirée quoi c'est. non non pas beaucoup on est rentrés à pied quoi
+MEDECIN: o- là e- vous si vous la stimulez elle se elle est elle v- elle est elle est elle vous répond?
+PATIENT: un peu on comprend rien à ce qu'elle dit mais mais bon
+MEDECIN: hum
+PATIENT: ​elle pleurniche quoi depuis tout à l'heure, je comprends rien
+MEDECIN: hum. et elle a pas consommé plus qu'habituellement?
+PATIENT: non comme d'hab quoi
+MEDECIN: et elle vomit pas?
+PATIENT: non elle a pas vomi là
+MEDECIN: hum. moi j'aimerais bien qu'elle voit quand même un médecin même si c'est comme d'habitude. donc est ce que est ce que vous êtes véhiculé?
+PATIENT: ah mais je peux pas prendre la voiture non enfin c'est dangereux madame hein
+MEDECIN: ah lui il a bu aussi
+MEDECIN: ok. ce qu'on va faire c'est on on va vous envoyer quelqu'un là dans les deux heures pour qu'elle il passe quand même la voir
+PATIENT: ah bon? parce que là c'est enfin c'est comme d'habitude hein
+MEDECIN: oui j'en- j'en- j'entends bien j'entends bien, mais
+PATIENT: elle chiale là et elle fait chier quoi
+MEDECIN: oui j'entends bien on va pas envoyer les pompiers, mais juste un médecin pour qu'il passe quand même la voir et être sûr que tout va bien
+PATIENT: bah ok hein mais moi je bouge pas alors hein?
+MEDECIN: oui. restez avec elle
+PATIENT: d'accord
+MEDECIN: ok. au revoir monsieur
+PATIENT: au revoir

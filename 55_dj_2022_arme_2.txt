@@ -1,0 +1,56 @@
+MEDECIN: bonjour je suis heu le docteur DAMANI vous appelez pour votre frère qui s'est pris un coup de couteau c'est bien ça?
+PATIENT_1: oui c'est ça je suis je suis franchement je suis très très très inquiète mais y avait eu y a une pagaille a eu des des des coups de couteau heu je suis je suis très inquiète
+MEDECIN: où est ce qu'il s'est pris des coups de couteau?
+PATIENT_1: il s'est pris un coup de couteau dans heu dans le bras
+MEDECIN: pardon?
+PATIENT_1: je dans le bras, dans le bras
+PATIENT_1: je suis très inquiète là il faut il faut il faut il faut envoyer
+MEDECIN: ​à quel niveau au niveau du, ​à quel niveau sur le bras?
+PATIENT_1: heu le haut du du le haut du bras je crois
+MEDECIN: est ce que ça saigne?
+PATIENT_1: y a du sang partout, y a du sang partout, y a du sang partout. donc euh, y en a partout
+MEDECIN: là v- là vous êtes avec votre frère madame?
+PATIENT_1: oui mon frère il est il est ​à la maison oui
+MEDECIN: avec vous?
+PATIENT_1: bah oui il est il est à la maison
+MEDECIN: allez à côté de lui et voyez si la plaie saigne activ-, si ça saigne
+PATIENT_1: heu il il a mis un bandage sur la plaie
+MEDECIN: d'accord. est ce que à travers le bandage ça saigne?
+PATIENT_1: oh bah il vient juste de le mettre là donc hum hum non il a il a mis une grosse couche mais c'était il vient de le mettre y a trente secondes le bandage
+MEDECIN: oui, mais allez à côté de lui et voyez si ça saigne
+PATIENT_1: heu là je je vois pas de sang sortir du bandage
+MEDECIN: heu il vous parle?
+PATIENT_1: oui
+MEDECIN: il parle normalement, il est il est debout, il marche?
+PATIENT_1: oui
+MEDECIN: d'accord
+MEDECIN: heu bah écoutez heu
+PATIENT_1: <NA>
+PATIENT_1: en venant là dans la pièce, il est hyper agité euh je, je, je sais pas après il a pris un coup de couteau
+MEDECIN: oui bah justement il va falloir qu'il heu qu'il vienne à l'hôpital pour qu'on puisse examiner heu sa blessure
+MEDECIN: donc on va vous envoyez des pompiers
+MEDECIN: qui vont venir
+PATIENT_1: non non les les les les
+PATIENT_2: non non non non non pas les pompiers hein, même pas la peine, même pas en rêve
+PATIENT_1: c'est pas possible, il veut il veut vraiment pas avoir les pompiers à la maison
+PATIENT_2: pourquoi pas la police aussi?
+MEDECIN: alors madame heu il a besoin d'être heu d'être examiné. il faut qu'il aille à l'hôpital
+PATIENT_1: bah je suis d'accord mais on mais pas les pompiers
+MEDECIN: alors a- vous p- amenez le à l'hôpital vous
+PATIENT_1: et comment?
+MEDECIN: alors vous êtes véhiculée?
+PATIENT_1: oui j'ai une voiture, mais attendez il
+MEDECIN: prenez votre voiture
+PATIENT_1: mais il a du sang partout sur ses vêtements et ça va saloper ma voiture
+MEDECIN: madame. il faut qu'il aille à l'hôpital, prenez votre voiture, et amenez le à l'hôpital
+PATIENT_1: mais mais il y a pas d'autres façon heu
+MEDECIN: amenez le à l'hôpital, ce sera la meilleure solution
+PATIENT_1: bon. d'accord
+MEDECIN: donc vous l'amenez à l'hôpital
+PATIENT_1: et je le laisse comme ça avec son bandage heu
+MEDECIN: il a son bandage, vous m'avez dit que ça ne saigne plus. donc amenez le à l'hôpital
+PATIENT_1: et si ça saigne je fais quoi?
+MEDECIN: amen- euh amenez le à l'hôpital sauf si ça se met ​à saigner très activement, vous nous rappelez
+PATIENT_1: ok
+MEDECIN: au revoir madame
+PATIENT_1: merci au revoir

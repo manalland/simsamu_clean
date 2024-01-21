@@ -1,0 +1,32 @@
+MEDECIN: bonjour madame
+PATIENT: bonjour
+MEDECIN: bonjour je suis le docteur ABAS du SAMU hum donc vous appelez pour le votre sœur de vingt huit ans qui aurait fait un malaise c'est bien cela?
+PATIENT: ah bah elle a fait un malaise oui oui là elle est par terre heu pff elle veut pas me répondre heu c'est
+MEDECIN: elle est inconsciente?
+PATIENT: il faut que vous veniez la chercher en fait là
+MEDECIN: elle est inconsciente?
+PATIENT: heu bah elle me répond pas
+MEDECIN: elle respire?
+PATIENT: elle me parle pas oui elle respire
+MEDECIN: elle a les yeux ouverts?
+PATIENT: oui
+MEDECIN: passez la moi au téléphone
+PATIENT: mais elle parle pas là monsieur
+MEDECIN: passez la moi quand même au téléphone approchez le téléphone de son oreille et de sa bouche
+PATIENT: heu ok
+MEDECIN: madame vous m'entendez?
+PATIENT: oui
+PATIENT: je vous entends allo?
+MEDECIN: allo vous m'entendez?
+PATIENT: vous voulez la chercher?
+MEDECIN: elle elle peut pas parler là? pas du tout?
+PATIENT: répond pas
+MEDECIN: ok est ce qu'elle se plaint de douleur quelque part?
+PATIENT: heu elle parle pas elle est crispée
+MEDECIN: elle est dans cet état depuis combien de temps?
+PATIENT: heu ça fait cinq minutes là elle était au téléphone elle est venue me voir et puis d'un coup elle s'est allongée par terre et heu elle est toute crispée là elle répond pas faut que vous veniez la chercher là c'est tout le temps pareil avec elle pff
+MEDECIN: c'est la pas c'est pas la première fois qu'elle fait ça?
+PATIENT: non non c'est déjà arrivé c'est tout le temps comme ça avec elle elle a perdu son travail elle est au téléphone je sais pas ce qui lui arrive
+MEDECIN: ok ce qu'on va faire madame c'est qu'on va envoyer les pompiers heu sur place ils arrivent heu tout de suite
+PATIENT: ok bah vite alors puisque moi elle me saoule
+MEDECIN: il y a pas de soucis

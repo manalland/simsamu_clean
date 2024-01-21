@@ -1,0 +1,37 @@
+MEDECIN: oui bonjour
+PATIENT: bonjour
+MEDECIN: oui bonjour docteur SAIEB donc du coup vous appelez pour votre femme c'est ça qui heu s'est blessée?
+PATIENT: oui
+MEDECIN: d'accord hum qu'est ce qui s'est passé du coup racontez moi
+PATIENT: elle est tombée sur un couteau
+MEDECIN: ok elle est où la plaie?
+PATIENT: elle heu le hum au bras
+MEDECIN: au bras d'accord il y a il y a qu'une seule plaie là elle est avec vous heu elle est à côté de vous?
+PATIENT: oui
+MEDECIN: d'accord je peux l'avoir au téléphone?
+PATIENT: non là elle pleure trop elle elle peut pas parler elle est
+MEDECIN: d'accord
+PATIENT: elle peut pas parler
+MEDECIN: et elle est ​à elle est dans dans la même pièce que vous c'est ça?
+PATIENT: oui
+MEDECIN: d'accord et je peux l'entendre à côté parce que là je l'entends pas
+PATIENT: bah elle pleure à côté mais il y a du bruit dans la rue
+MEDECIN: d'accord
+MEDECIN: heu du coup là il y a une elle a dix huit ans il y a une plaie au niveau du bras avec un couteau c'est ça à la maison un couteau de cuisine?
+PATIENT: oui
+MEDECIN: d'accord heu au niveau du bras c'est à dire heu au niveau de la main au niveau heu
+PATIENT: non au dessus de la main heu entre le poignet et le coude
+MEDECIN: d'accord ça c'est c'est ça saigne beaucoup ça saigne encore là?
+PATIENT: bah moi je trouve que ça saigne beaucoup oui
+MEDECIN: d'accord et la plaie elle est comment elle mesure combien à peu près?
+PATIENT: bah hum cinq cinq centimètres
+MEDECIN: d'accord vous heu vous avez comment vous avez mis un pansement quelque chose une heu une compression?
+PATIENT: heu non on a rien fait
+MEDECIN: d'accord
+PATIENT: je vous ai appelés tout de suite
+MEDECIN: bon très bien eh bah je vous laisse heu on va envoyer les pompiers et puis je vous laisse heu hum prendre heu enfin faire une compression avec heu avec ce que vous avez à la maison quelque chose de propre une serviette heu ce que vous avez
+PATIENT: d'accord et je laisse garde appuyé?
+MEDECIN: oui vous gardez appuyé
+PATIENT: je fais comment? d'accord ok
+PATIENT: merci docteur
+MEDECIN: de rien

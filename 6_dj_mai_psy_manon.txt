@@ -1,0 +1,34 @@
+MEDECIN: bonjour madame je suis le docteur ABAS du SAMU heu vous appelez pour votre voisin de cinquante ans c'est bien cela?
+PATIENT: oui c'est pour ça là il hum j'en peux plus de lui
+MEDECIN: racontez moi un petit peu ce qu'il se passe
+PATIENT: ah bah là heu ça fait des jours voire peut être même des semaines il se balade nu dans l'immeuble il parle tout seul heu il a chié dans l'ascenseur moi j'en ai marre de lui moi là les les fous on les enferme en fait je crois non heu là?
+MEDECIN: est ce qu'il a été violent avec vous?
+PATIENT: non non non il parle tout seul hein c'est dans sa tête tout ça
+MEDECIN: et est ce que ​à un moment donné il a été violent avec quelqu'un?
+PATIENT: ah non non non non enfin sauf si chier dans l'ascenseur c'est considéré comme violent quoi moi je je trouve que c'est un peu excessif quand même heu faut l'enfermer là
+MEDECIN: vous avez il vous il est suivi par un médecin?
+PATIENT: allo?
+MEDECIN: il est suivi par un médecin?
+PATIENT: allo?
+MEDECIN: allo?
+PATIENT: ah oui pardon
+MEDECIN: il est suivi par un médecin?
+PATIENT: allo?
+MEDECIN: allo
+PATIENT: je vous entends mal
+MEDECIN: allo?
+PATIENT: oui c'est c'est bon je vous entends
+MEDECIN: est ce qu'il est suivi par un médecin?
+PATIENT: heu bah d'après sa famille mais ils sont pas là en ce moment heu ils sont ils sont à l'étranger mais ils m'ont dit qu'il avait déjà été hospitalisé en psychiatrie ​oui
+MEDECIN: il habite seul?
+PATIENT: oui oui il est tout seul ah bah il y a personne qui peut vivre avec lui hein déjà nous les voisins heu on il faut il faut qu'il parte de l'immeuble quoi hein
+MEDECIN: malheureusement madame on peut rien faire pour vous et vu qu'il n'est il n'est dan- dangereux ni
+PATIENT: quoi? mais non mais mais monsieur il se balade tout nu dans la rue dans l'immeuble il parle tout seul
+MEDECIN: bah dans ce c- dans ce cas là il f- dans ce cas là il faut contacter la police parce que c'est là vous êtes heu aux urgences
+PATIENT: bah moi c'est c'est pour moi hein je veux dire moi mon mon immeuble heu il il est censé être habitable
+MEDECIN: oui je je suis d'accord mais ce numéro est pas fait pour ça heu si il est dangereux envers vous ou heu dangereux pour lui même vous pouvez nous appeler et nous on peut mettre des choses en place mais heu de ce que vous me décrivez il n'y a aucun argument pour que nous on déclenche quoique ce soit ici
+PATIENT: mais il crie il fait il il fait du bruit toute la nuit heu il est ça va pas en fait là chez nous monsieur
+MEDECIN: contactez la police appelez le 17
+PATIENT: ah j'appelle la police
+MEDECIN: d'accord ça marche eh bah j'appelle la police
+PATIENT: merci au revoir

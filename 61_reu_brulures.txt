@@ -1,0 +1,58 @@
+MEDECIN: oui bonjour madame NICOLAS GUILLAM je suis le médecin du SAMU du coup vous appelez bien heu pour votre soeur qui s'est brûlée c'est ça? bonjour madame est ce que votre soeur elle a des problèmes de santé habituellement?
+PATIENT: heu non
+MEDECIN: d'accord elle a jamais été hospitalisée?
+PATIENT: heu non
+MEDECIN: elle prend pas de médicaments tous les jours?
+PATIENT: non
+MEDECIN: elle a quel âge votre soeur pardon?
+PATIENT: elle a vingt huit ans
+MEDECIN: d'accord
+PATIENT: et elle est brûlée
+MEDECIN: elle s'est brûlée avec quoi madame?
+MEDECIN: de l'eau?
+PATIENT: de l'eau
+MEDECIN: avec de l'eau d'accord
+MEDECIN: elle a elle a des brûlures ​à quel niveau?
+PATIENT: heu au niveau des mains et au niveau de la jambe droite aussi un peu au niveau de la cuisse en fait elle m'a appelé et du coup j'ai pris ma voiture je suis venue chez elle
+MEDECIN: d'accord donc là à ce moment elle est pas avec vous c'est ça?
+MEDECIN: vous êtes en voiture en route pour la rejoindre?
+PATIENT: non elle m'a appelée et comme j'habite pas loin j'ai pris ma voiture et là je suis chez elle
+MEDECIN: ah vous êtes chez elle? d'accord
+MEDECIN: heu donc vous avez dit les mains c'est des deux côtés des mains c'est ça?
+PATIENT: heu oui oui
+MEDECIN: les bras la tête il y a pas?
+PATIENT: il y a des cloques
+MEDECIN: sur la tête il y a pas de il y a pas d'atteinte? il y a pas de brûlures sur la tête pas de
+PATIENT: non
+MEDECIN: ou de bulles?
+PATIENT: non non
+MEDECIN: torse le dos non plus
+PATIENT: non pas que je vois après elle a ses vêtements
+MEDECIN: ça marche là heu qu'est ce que vous avez fait est ce que vous avez mis de l'eau dessus sur les brûlures?
+MEDECIN: elle elle est où en ce moment là madame?
+PATIENT: non elle est à côté de moi elle crie
+MEDECIN: elle crie?
+PATIENT: on doit aller à l'hôpital?
+MEDECIN: je est ce que vous pouvez me la passer madame c'est possible?
+PATIENT: ah non parce que là elle a très très mal là
+MEDECIN: elle est capable de vous parler ou elle fait que crier?
+PATIENT: elle elle pleure elle a mal elle pleure elle dit j'ai mal
+MEDECIN: est ce que vous avez mis de l'eau sur les brûlures est ce que vous avez fait couler de l'eau en ce moment sinon il faudrait le faire madame
+PATIENT: hum non
+MEDECIN: bon alors vous allez heu elle est installée où là dans quel endroit de la maison de l'appartement
+PATIENT: elle est assise dans la cuisine
+MEDECIN: est ce qu'elle peut se déplacer jusqu'à un endroit où il y a de l'eau le robinet pour mettre de l'eau au niveau de ses mains ou éventuellement dans la baignoire la salle de bain pour mettre de l'eau au niveau de ses mains et de ses jambes
+MEDECIN: et moi je vous envoie une ambulance d'accord madame?
+PATIENT: d'accord et donc on doit aller à l'hôpital?
+MEDECIN: oui il faut aller à l'hôpital pour évaluer les lésions et pour s'en occuper
+MEDECIN: donc je vous envoie une ambulance
+MEDECIN: heu vous m'appelez
+PATIENT: donc je mets sa main sous l'eau
+MEDECIN: oui c'est ça vous mettez sa main les zones brûlées la main les jambes sous l'eau vous retirez pas les vêtements et vous me confirmez madame il y a pas d'atteinte au niveau de la tête du cou ou des organes génitaux?
+PATIENT: non
+MEDECIN: d'accord donc là vous vous donc vous faites ce que je vous ai dit vous mettez la dame dans la baignoire si possible ou dans la cuisine à à côté d'un robinet vous appuyez sur les zones découv- vous mettez de l'eau sur les zones découvertes pardon et on vous envoie une ambulance dans la demi heure elle va arriver l'ambulance
+PATIENT: d'accord
+MEDECIN: à tout à l'heure madame
+PATIENT: ok
+PATIENT: au revoir
+MEDECIN: au revoir

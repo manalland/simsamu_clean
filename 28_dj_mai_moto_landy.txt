@@ -1,0 +1,52 @@
+MEDECIN: bonjour madame
+PATIENT: bonjour
+MEDECIN: bonjour je suis le docteur du SAMU le docteur ABAS on m'a dit que votre frère a fait un accident de moto c'est bien ça?
+PATIENT: oui c'est ça il faut que vous m'envoyiez une ambulance pour l'emmener aux urgences parce que là moi je peux pas l'emmener faut que je m'occupe de ma moto là
+MEDECIN: qu'est ce qu'il s'est passé exactement?
+PATIENT: bah on eu un accident dans le tunnel du LANDY et heu et là il faut qu'il aille aux urgences mais moi il faut que je m'occupe de ma moto là en fait monsieur
+MEDECIN: il est où votre frère il est il est où votre frère là il est à côté de vous?
+PATIENT: oui oui il est sur le côté de la route là
+MEDECIN: il est blessé?
+PATIENT: bah il saigne un peu de la tête
+MEDECIN: il s'est cogné la tête?
+PATIENT: ouais
+MEDECIN: vous l'avez vu chuter vous étiez avec lui sur la moto?
+PATIENT: oui oui il était derrière moi
+MEDECIN: il est tombé sur sa tête?
+PATIENT: oui
+MEDECIN: est ce qu'il avait un
+PATIENT: mais là c'est pour ça il faut vous emmeniez une ambulance
+MEDECIN: est ce qu'il avait un casque lorsqu'il est tombé?
+PATIENT: non mais c'est parce que j'en ai qu'un aussi de casque heu moi mon travail c'est livreur d'habitude derrière moi j'ai un sac hein pas mon frère
+MEDECIN: ok est ce que c'est la p- est ce que vous rouliez vite quand vous ça c'est arrivé vous rouliez à quelle vitesse?
+PATIENT: ah bah moi docteur je se- je respecte les limitations de vitesse hein
+MEDECIN: et c'est à dire vous rouliez à quelle vitesse exactement?
+PATIENT: bah là dans le tunnel heu j'étais à quarante kilomètres heure peut être pas plus en tous cas c'est sûr
+MEDECIN: est ce que quand il a chuté il a perdu connaissance?
+PATIENT: heu non non non non non non c'est il il est il est tombé là devant la moto et et là il faut que vous envoyiez une ambulance en fait je comprends pas pourquoi vous me posez toutes ces questions moi il faut que je m'occupe de ma moto là mons-
+MEDECIN: oui je comprends je comprends je comprends que vous devez vous occuper de vot- votre moto mais on va se concentrer sur votre frère là est ce qu'il est conscient est ce qu'il respire bien?
+PATIENT: oui
+MEDECIN: pour les deux questions?
+PATIENT: oui
+MEDECIN: ok est ce que il se plaint de douleur quelque part?
+PATIENT: heu bah là il a il a mal heu à la tête et puis heu il a un peu mal partout mais il est tombé quoi
+MEDECIN: ok est ce qu'il a vomi?
+PATIENT: non
+MEDECIN: bon on va dé- on va amener les pompiers sur place
+PATIENT: ah non non non mais les pompiers je les ai eu au téléphone ils veulent nous emmener tous les deux moi j'ai pas le temps moi là il faut que je je je m'occupe de ma moto hum donc non là il faut heu il faut pas les pompiers monsieur hein parce qu'ils font n'importe quoi ils veulent laisser ma moto là dans le tunnel du LANDY heu je vais me la faire voler c'est sûr moi c'est mon moyen de travail monsieur ma moto en fait
+MEDECIN: je comprends madame mais on va envoyer les pompiers ils vont venir sur place ils vont éva- vous évaluer et puis on va prendre une décision
+PATIENT: ils vont pas vouloir venir en fait parce que je leur ai dit de pas venir moi
+MEDECIN: non les pomp- les pompiers vont venir ils vont venir je les ai déclenchés là à l'instant ils arrivent ils sont sur le trajet
+PATIENT: mais dans ce cas là ils me prennent pas moi hein moi je m'occupe de ma moto en fait hein ils prennent que mon frère
+MEDECIN: vous vous êtes tombée?
+PATIENT: bah oui on est tombés tous les deux avec la moto
+MEDECIN: vous avez des douleurs?
+PATIENT: bah j'ai non mais vite fait enfin rien de non
+MEDECIN: vous avez chu-
+PATIENT: moi je m'occupe de ma moto
+MEDECIN: vous avez chuté à moto heu à une vitesse qui n'est pas négligeable il faut que vous soyez au moins évaluée par les pompiers en- ensuite rien ne vous oblige à à respecter leurs consignes mais les pompiers sont sur le chemin ils arrivent
+PATIENT: oui bah moi j'y vais pas en tous cas
+MEDECIN: vous pouvez prendre la décision que vous voulez mais en tous cas ils arrivent ils vont venir vous voir ils vont vous évaluer votre frère et vous et on prendra une décision par la suite ok?
+MEDECIN: on est d'accord?
+PATIENT: ça marche j'attends
+MEDECIN: ok

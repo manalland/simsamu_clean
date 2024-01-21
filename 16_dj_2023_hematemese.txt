@@ -1,0 +1,46 @@
+MEDECIN: allo?
+PATIENT: allo bonjour
+MEDECIN: oui bonjour monsieur je suis le docteur DAHMANI du SAMU 93 donc vous vous appelez pour votre voisin qui a vomi du sang?
+PATIENT: ouais alors heu il est arrivé là bon il il avait du sang sur son sur sa chemise là et heu il a il a ramené en fait sa sa corbeille là sa corbeille à pa- papiers il avait vomi un un caillot gros comme mon poing quoi on peut voir encore dans la corbeille quoi
+MEDECIN: et votre voisin il a des problèmes de santé?
+PATIENT: ah oh pff heu je le connais pas plus que ça hein on a on s'est vu deux trois fois pour pour prendre le thé mais mais heu hum sinon bon il est en forme quoi hein il est pas je lui connais pas de maladie particulière
+MEDECIN: il prend pas de médicaments tous les jours
+PATIENT: ça heu pff je sais pas je crois qu'il m'a parlé d'hypertension un moment parce qu'on parlait de ça c'est un problème fréquent mais mais sinon non je je je il non il est en forme
+MEDECIN: et il consomme de l'alcool?
+PATIENT: comment vous dites?
+MEDECIN: il consomme de l'alcool?
+PATIENT: alors chez lui je sais pas mais c'est pas le profil hein en tous cas j'ai jamais picolé moi avec lui et j'ai jamais vu ivre et heu et il bosse il est inséré enfin voilà c'est pas le non non pas
+MEDECIN: et c'est là c'est le premier épisode de vomissements?
+PATIENT: heu alors heu comme je vous dis hein je je je le fréquente pas tous les jours mais il est jamais venu chez moi avec ce genre de trucs quoi non c'est pour ça que je vous appelle d'ailleurs
+MEDECIN: et votre voisin il parle français?
+PATIENT: heu oui bien sûr ouais il parle fran- français mais
+MEDECIN: je peux lui parler?
+PATIENT: bah là il est allé dans mes toilettes là parce que il y a il y a il y a encore du sang qui coule et y'a
+MEDECIN: alors
+PATIENT: encore vomi du sang et y'en a qui sort par la bouche et par le nez
+MEDECIN: est ce que le sang est ce qu'il saigne du nez?
+PATIENT: bah ouais y'a du sang qui sort du nez en tout en tout cas ouais
+MEDECIN: et le sang ​a commencé par couler du nez puis heu à vomir
+PATIENT: bah ça je sais pas trop euh je je mais mais en tous cas heu quand il est arrivé il avait du sang autour sur le visage et sur sur son sa chemise voyez?
+MEDECIN: donc là dans un dans un premier temps donc il est dans votre salle de bain c'est bien ça?
+PATIENT: ouais c'est ça il est en train de bah il est il oui
+MEDECIN: alors dites lui de se dites lui de se moucher
+PATIENT: oui
+MEDECIN: bien fort
+PATIENT: oui
+MEDECIN: et heu et après de comprimer heu son nez avec heu avec sa main donc ses deux narines avec sa main
+PATIENT: qu'il comprime son n- d'accord et il y a pas besoin de de médicaments ou?
+MEDECIN: donc là déjà il faut arrêter le saignement donc il faut bien qu'il se mouche et qu'il appuie qu'il heu qu'il comprime heu son nez ses deux narines avec sa main
+PATIENT: bon et après on fait on fait quoi si il y a encore des du sang qui sort de la bouche ou?
+MEDECIN: et là on on surveille si heu le saignement s'arrête
+PATIENT: oui ça ok j'ai bien compris mais si il s'arrête pas du coup il parce que moi je vais pas m'occuper de lui toute la journée voyez enfin
+MEDECIN: non mais j'entends bien c'est déjà très gentil de nous avoir appelés pour lui heu mais il faut euh p- il faut déjà commencer par ça c'est important de commencer par ça
+PATIENT: bon mais une fois qu'on a fait ça si ça saigne encore qu'est ce que je fais je je
+MEDECIN: si ça saigne encore vous nous rappelez et si ça ne saigne plus il consulte son médecin
+PATIENT: ok
+MEDECIN: d'accord? vous êtes d'accord monsieur?
+PATIENT: pardon?
+MEDECIN: c'est clair pour vous?
+PATIENT: ouais c'est clair pour moi ouais
+MEDECIN: au revoir
+PATIENT: au revoir

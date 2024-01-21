@@ -1,0 +1,49 @@
+MEDECIN: ok c'est bon. oui bonjour heu, je suis le docteur CELINE le médecin régulateur. c'est v-. vous appelez votre fils heu qui a reçu des coups?
+PATIENT: oui oui c'est ça
+MEDECIN: oui? qu'est ce qui s'est passé?
+PATIENT: heu et bah y a y a mon mari il bah il est enfin voilà il a tapé le petit quoi il lui a mis une tarte dans la gueule. je sais pas
+MEDECIN: c'est la première fois que ça arrive?
+MEDECIN: c'est la première fois que ça arrive?
+PATIENT: euh ou- ouais je crois ouais ouais
+MEDECIN: là l'en- l'enfant vo- votre enfant, vous êtes avec lui?
+PATIENT: là je suis pas avec lui non
+MEDECIN: et où est ce qu'il est?
+PATIENT: bah il est dans sa chambre
+MEDECIN: d'accord
+MEDECIN: et heu il a hum il a mal où?
+PATIENT: il a comment? j'ai pas entendu
+MEDECIN: où est ce qu'il a mal?
+PATIENT: heu bah je suis pas allé lui demander
+MEDECIN: vous êtes pas parti le voir après?
+PATIENT: si mais comme il pleurait je suis
+MEDECIN: d'accord
+MEDECIN: donc là il p- il vous parle normalement heu il heu
+PATIENT: bah il pleure quoi
+MEDECIN: d'accord
+MEDECIN: et il s'est reçu du c- une gifle sur le visage?
+PATIENT: ouais c'est ça ouais
+MEDECIN: d'accord. vous vous êtes vous avez reçu des coups?
+PATIENT: moi? non non non
+MEDECIN: <NA>
+MEDECIN: hum donc là il pleure encore, vous êtes avec lui?
+PATIENT: bah non je non non je suis dans le salon moi
+MEDECIN: et le mari où il est?
+PATIENT: ah mon mari et bah il il tout à l'heure il est parti quoi, enfin il a crié puis il est parti
+MEDECIN: donc là il est plus à la maison avec vous?
+PATIENT: non il est plus ​dans la maison
+MEDECIN: bah écoutez. on va vous envoyer des hum des secours pour aller à l'hôpital pour que l'enfant puisse être examiné
+PATIENT: d'accord
+MEDECIN: donc restez à la maison et heu si il se passe heu quelque chose de nouveau vous nous rappelez
+PATIENT: et si mon mari revient
+MEDECIN: si le mari revient vous appelez la police
+PATIENT: ah d'accord. j'appelle la police, d'accord.
+MEDECIN: et heu les secours arrivent au plus vite pour heu
+PATIENT: je vous rappelle pas vous?
+MEDECIN: bah là les je pense que les les pompiers vont pas vont arriver assez vite
+MEDECIN: et heu
+PATIENT: d'accord
+MEDECIN: et de toute façon vous appelez la police, ils se mettront en relation avec nous également
+PATIENT: d'accord
+PATIENT: merci
+MEDECIN: au revoir
+PATIENT: au revoir

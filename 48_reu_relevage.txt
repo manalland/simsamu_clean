@@ -1,0 +1,51 @@
+MEDECIN: oui bonjour madame?
+PATIENT: oui heu je vous appelle heu j'ai j'ai mon grand père là qui est qui est tombé
+MEDECIN: ouais je suis le médecin du SAMU du coup mon collègue il m'a expliqué heu vo- c'est votre papi qui est tombé il a quel âge votre papi?
+PATIENT: heu il a quatre vingt cinq ans
+MEDECIN: quatre vingt cinq ans d'accord il est tombé d'où?
+PATIENT: bah il est tombé heu là dans la cuisine
+MEDECIN: d'accord il était debout dans la cuisine?
+PATIENT: heu oui oui il était debout
+MEDECIN: il est conscient là mons- madame votre papi?
+PATIENT: oui oui il est conscient mais heu j'arrive pas à le relever heu
+MEDECIN: d'accord donc il parle votre papi? il parle votre papi?
+MEDECIN: allo allo?
+PATIENT: heu oui il parle
+MEDECIN: il parle ok il est il est il est orienté?
+PATIENT: bah orienté vous savez avec ce qu'il boit il sait jamais trop où il est hein
+MEDECIN: d'accord il a bu de l'alcool là tout à l'heure?
+PATIENT: bah il boit de l'alcool tous tous les jours là faut
+MEDECIN: d'accord il respire votre papi?
+PATIENT: l'hôpital faut qu'on fasse quelque chose hein pour lui hein
+MEDECIN: d'accord il respire votre papi mons- madame?
+PATIENT: oui il respire
+MEDECIN: ok est ce qu'il bouge bien les deux jambes?
+PATIENT: juste par terre il faudrait venir le le relever
+MEDECIN: il y a pas de problème on va on va venir le chercher est ce qu'il est heu est ce qu'il saigne madame votre papi?
+PATIENT: heu non il saigne pas
+MEDECIN: au niveau de la tête au niveau du reste du corps il ne saigne pas
+PATIENT: non non tout va bien là il est juste par terre je voudrais savoir là si vous allez bientôt venir
+MEDECIN: d'accord il a mal quelque part?
+PATIENT: moi j'aimerais bien partir hein là je suis je suis passée heu mais heu
+MEDECIN: est ce qu'il a mal quelque part madame?
+PATIENT: non non il se plaint pas là il
+MEDECIN: et vous arrivez pas à le relever?
+PATIENT: non non j'arrive pas à le relever vous savez il est lourd hein
+MEDECIN: il est lourd il est il est parce qu'il a mal il a mal au niveau des jambes ou pas pour le relever au niveau du dos au niveau de la tête?
+PATIENT: non il se plaint enfin il se plaint pas de douleur
+MEDECIN: d'accord bon et est ce que vous savez il a des problèmes de santé particuliers votre papa votre papi?
+PATIENT: e- excusez moi je vous ai pas entendu
+MEDECIN: est ce qu'il prend des médicaments tous les jours votre papi?
+PATIENT: heu non non il prend aucun médicament il heu il boit de l'alcool
+MEDECIN: juste de l'alcool d'accord ça marche bon bon on va venir le chercher madame d'accord il y a quelqu'un qui va venir
+MEDECIN: il y a les secours qui vont venir
+PATIENT: vous vous venez vite?
+MEDECIN: bah je moi c'est demandé
+MEDECIN: <NA>
+PATIENT: d'accord donc là je peux je peux y aller?
+MEDECIN: alors ce qui serait bien pour votre papi c'est de le surveiller jusqu'à que les secours ils arrivent
+PATIENT: d'accord parce que moi là il faut que je parte heu j'ai des courses à faire donc heu je peux pas rester longtemps hein
+MEDECIN: bon il est ils font au plus vite
+MEDECIN: là vous avez juste à soi- vous avez juste à rassurer votre papi le temps que le temps qu'ils arrivent faut que vous restez auprès de lui que vous le rassurez voilà ils arrivent
+PATIENT: bon d'accord monsieur au revoir
+MEDECIN: au revoir madame

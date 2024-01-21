@@ -1,0 +1,80 @@
+MEDECIN: ok allo?
+PATIENT: allo? oui
+MEDECIN: bonjour monsieur je suis le docteur DETOURY au SAMU alors vous appelez pour votre collègue qui a fait un malaise c'est ça?
+PATIENT: oui c'est bien ça
+MEDECIN: d'accord ok là il a récupéré de son malaise?
+PATIENT: oh bah je sais pas trop heu
+MEDECIN: il vous répond quand vous lui parlez?
+PATIENT: oui il répond
+MEDECIN: d'accord et il respire normalement?
+PATIENT: il respire normalement oui
+MEDECIN: d'accord ok alors hum heu est ce que là il vous pouvez me le passer au téléphone?
+PATIENT: heu il se sent pas très bien je pourrais vous le passer oui
+MEDECIN: heu très bien juste avant de me le passer avant son malaise heu il vous a prévenu de quelque chose il a senti que ça n'allait pas?
+PATIENT: bah il heu pff c'est c'est difficile parce que il a dit il parle pas très bien français
+MEDECIN: hum
+PATIENT: il a dit qu'il se sentait pas bien heu et heu moi derrière j'ai appelé heu le 15 pour heu pour heu voilà vu qu'il se sentait pas bien j'ai appelé le 15
+MEDECIN: d'accord est ce qu'il a perdu connaissance est ce que à un moment il était comme si il dormait?
+PATIENT: heu non il a pas perdu connaissance
+MEDECIN: d'accord il est pas tombé?
+PATIENT: heu non il est pas tombé
+MEDECIN: d'accord très bien est ce que heu passez le moi au téléphone s'il vous plait
+PATIENT: ok
+PATIENT: allo?
+MEDECIN: allo?
+PATIENT: oui bonjour?
+MEDECIN: bonjour monsieur je suis le médecin du SAMU
+PATIENT: bonjour
+MEDECIN: est ce que heu ça vous est déjà arrivé de faire un malaise comme ça?
+PATIENT: heu parlez plus doucement moi pas bien comprendre
+MEDECIN: pardon vous parlez anglais?
+PATIENT: heu non
+MEDECIN: d'accord le malaise c'est la première fois?
+PATIENT: heu oui première fois oui
+MEDECIN: d'accord et vous avez eu une douleur quelque part?
+PATIENT: heu non
+MEDECIN: pas de douleur
+MEDECIN: ok est ce que vous avez hum ah ah
+MEDECIN: est ce que vous avez des problèmes de santé? des maladies?
+PATIENT: heu n- non pas maladie non non
+MEDECIN: d'accord là maintenant ça va?
+PATIENT: ça va heu fa- fatigué
+MEDECIN: d'accord
+MEDECIN: et hum qu'est ce heu
+MEDECIN: <NA>
+MEDECIN: hum
+MEDECIN: <NA>
+MEDECIN: d'accord monsieur peut être qu'il faut aller aux urgences pour voir un médecin et essayer de comprendre ce qu'il s'est passé vous comprenez?
+PATIENT: urgences?
+MEDECIN: peut être peut être qu'il faut voir un docteur
+PATIENT: ok
+MEDECIN: à cause de votre malaise
+PATIENT: heu où où urgences où?
+MEDECIN: hum vous avez pas de médecin traitant?
+PATIENT: non
+MEDECIN: non
+MEDECIN: il est où votre lieu de travail monsieur? c'est c'est quoi l'adresse de votre travail?
+PATIENT: heu m- m- heu entreprise STEF heu AUL- AULNAY
+MEDECIN: il faut il faut aller heu consulter un médecin généraliste sûrement mais pas forcément les urgences vous pouvez aller
+PATIENT: oh
+MEDECIN: attendez passez moi votre collègue
+PATIENT: ok
+PATIENT: allo?
+MEDECIN: oui bonjour hum je pense que votre collègue il faut qu'il aille consulter un médecin généraliste heu à la maison médicale de garde heu mais j'avais un peu de mal à lui expliquer vous pouvez trouver sur GOOGLE MAPS où ça se trouve et lui montrer?
+PATIENT: médecin généraliste de de garde vous m'avez dit?
+MEDECIN: à la maison la maison médicale de garde excusez moi je parle trop vite
+PATIENT: ok d'accord c'est où exactement?
+MEDECIN: heu c'est heu hum à BONDY à côté de l'hôpital JEAN VERDIER
+PATIENT: ok
+MEDECIN: ou sinon là v- votre lieu de travail il est heu dans quelle ville?
+PATIENT: à à AULNAY à AULNEY heu c'est l'entreprise heu STEF
+MEDECIN: d'acc bah y a une maison médicale de garde à AULNAY qui se situe à telle adresse que je suis en train de vous dire heu voilà l'adresse et heu vous vous hum vous pouvez accompagner votre collègue vous ou pas?
+PATIENT: heu non moi moi je moi je peux pas heu je peux p- non je peux pas l'accompagner mais heu le patient enfin le le l- mon collègue il parle pas très bien français donc je sais pas si il va réussir à à à l- à se déplacer ou à même
+MEDECIN: à se déplacer?
+PATIENT: à à à y aller je pense qu'il est pas il il est pas véhiculé il v- il il vient en transports je pense
+MEDECIN: bah là il peut prendre les transports pour la maison médicale de garde
+PATIENT: ok donc donc je lui dis de prendre les transports heu
+MEDECIN: vous lui montrez où c'est et sur l'adresse
+PATIENT: ok d'accord
+MEDECIN: super merci beaucoup monsieur
+PATIENT: oui de rien

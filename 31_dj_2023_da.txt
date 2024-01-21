@@ -1,0 +1,53 @@
+MEDECIN: allo?
+PATIENT: oui allo?
+MEDECIN: oui bonjour docteur RICHARDO vous appelez parce que vous avez mal au ventre?
+PATIENT: oui
+MEDECIN: alors vous avez mal au ventre depuis combien de temps?
+PATIENT: hum depuis ce matin
+MEDECIN: depuis ce matin. est ce qu'il y a eu des vomissements?
+PATIENT: non
+MEDECIN: pas de vomissements. est ce qu'il y a eu des diarrhées?
+PATIENT: non
+MEDECIN: pas de diarrhée. est ce que vous avez des problèmes de santé?
+PATIENT: hum j'ai un peu de diabète
+MEDECIN: diabète. vous prenez de l'insuline?
+PATIENT: hum oui
+MEDECIN: est ce que vous avez d'autres problèmes de santé?
+PATIENT: non
+MEDECIN: non. vous prenez pas d'autre médicament que de l'insuline?
+PATIENT: hum non
+MEDECIN: alors là vous avez mal donc depuis ce matin vous avez pas vomi vous avez pas de diarrhée et vous avez mal en bas du ventre en haut du ventre?
+PATIENT: hum un peu en haut heu
+MEDECIN: au niveau de l'estomac?
+PATIENT: oui c'est ça
+MEDECIN: ça brûle?
+PATIENT: hum je je un peu
+MEDECIN: la douleur est ce que elle a tendance à remonter ou elle reste au même endroit?
+PATIENT: hum je sais pas. je sais pas vous dire là comme ça
+MEDECIN: est ce que vous avez mal ailleurs que dans le ventre?
+PATIENT: hum un peu un peu en au dos au bras un peu aussi
+MEDECIN: au bras gauche ou au bras droit?
+PATIENT: hum pff bras gauche
+MEDECIN: vous avez mal au bras gauche. est ce que vous avez mal dans la mâchoire aussi?
+PATIENT: hum non mais j'ai un peu mal à la gorge aussi
+MEDECIN: vous avez mal à la gorge. vous avez mal à la gorge depuis combien de temps?
+PATIENT: ce matin
+MEDECIN: est ce que vous avez pris des médicaments pour vous soulager?
+PATIENT: hum j'ai pris un do- doli- DOLIPRANE?
+MEDECIN: un DOLIPRANE
+PATIENT: voilà ça m'a pas trop soulagée
+MEDECIN: est ce que vous avez envie de vomir?
+PATIENT: hum oui
+MEDECIN: est ce que vous avez déjà eu ce genre de douleur?
+PATIENT: hum non pas comme ça
+MEDECIN: ça vous est jamais arrivé?
+PATIENT: non
+MEDECIN: donc si je résume vous avez mal en haut du ventre au niveau de l'estomac ça vous brûle vous avez aussi mal dans la gorge depuis ce m- ce matin et vous avez aussi envie de vomir
+PATIENT: c'est ça
+MEDECIN: il y a des gens qui sont ​malades autour de vous?
+PATIENT: hum non
+PATIENT: non non j'ai personne là
+MEDECIN: bon alors il faut heu on va faire passer un médecin heu à domicile madame il va arriver dans les quatre à six heures si la douleur si les symptômes s'aggravent entre temps vous rappelez le 15
+PATIENT: d'accord ok un médecin à la maison super très bien
+MEDECIN: bon bah bon courage madame
+PATIENT: merci docteur au revoir

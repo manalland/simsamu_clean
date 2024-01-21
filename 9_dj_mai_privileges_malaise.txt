@@ -1,0 +1,26 @@
+MEDECIN: bonjour madame je suis le docteur DETOURY au SAMU
+PATIENT: oui bonjour docteur SAIEB médecin urgentiste également au téléphone
+MEDECIN: bonjour vous appelez pour votre papa de quatre vingt cinq ans qui a fait un malaise c'est ça?
+PATIENT: heu oui papa ah bah docteur aussi SAIEB un grand heu grand PH à la PITIE hum donc heu papa là il a fait un malaise en effet heu il y a pas longtemps
+PATIENT: heu il était aux toilettes et heu et il a fait un un malaise et heu et voilà donc je pense qu'il enfin je je il faut que papa aille aux urgences
+MEDECIN: est ce qu'il a perdu connaissance?
+PATIENT: non il pas perdu connaissance mais bon on peut pas non plus passer à côté quoi enfin heu
+MEDECIN: c'était quoi ses symptômes au moment de son malaise madame?
+PATIENT: il était heu bah il était heu en heu aux toilettes et puis heu il a senti la t- heu il heu il s'est senti partir et puis heu il m'a appelé à ce moment là je suis arrivée et donc du coup tout de suite moi j'ai pris les choses en main je l'ai allongé j'ai levé les jambes heu et là il va mieux
+MEDECIN: très bien il va mieux maintenant d'accord est ce qu'il a des problèmes de santé votre papa?
+PATIENT: heu non non il a pas beaucoup de problèmes de santé parti- il est il est un peu hypertendu mais sinon rien de rien de particulier
+MEDECIN: il prend que des traitements contre l'hypertension
+PATIENT: oui c'est ça donc voilà il faut quand même qu'il soit vu par un soit vu aux urgences
+MEDECIN: ça ressemble à un malaise ça ressemble à un malaise vagal ce qu'il a fait hum votre papa comme épisode est ce que c'est la première fois que ça lui arrive?
+PATIENT: ça ressemble à un malaise vagal enfin je sais pas il faut quand même faire un bilan j'imagine heu heu c'est ce qu'on fait aux urgences non?
+MEDECIN: est ce que vous souhaitez l'emmener aux urgences?
+PATIENT: alors heu là si il refait un malaise ça va être compliqué moi hein de l'emmener hein ça si je conduis et qu'il fait un malaise derrière je sais pas hein je j'ai un peu peur quand même je sais pas ce que vous en pensez vous mais bon si il fait son malaise heu on est quand même embêtés tous hein heu
+MEDECIN: heu si il fait un malaise comme là où il se sent partir sans perte de connaissance et où ça va mieux après moi je pense que vous pouvez l'emmener sans problème aux urgences à côté de chez vous hein
+PATIENT: donc là il faut que je prenne la voiture et que je l'emmène aux urgences heu même si il fait son malaise que heu dans la voiture
+PATIENT: parce que bon il y a quand même l'autoroute à prendre je suis un peu enfin après si vous me dites que c'est comme ça et que vous vous pensez qu'il y a pas de soucis et qu'il risque de rien se passer dans la voiture heu moi je le fais hein mais bon voilà si vous m'assurez qu'il y a pas de soucis
+MEDECIN: on a pas d'argument pour dire que il va faire un épisode plus grave que ce qu'il a fait là à la maison heu aux toilettes donc heu donc oui vous vous rendez aux urgences heu avec votre papa et oubliez pas de prendre l'ordonnance de ses traitements habituels
+PATIENT: c'est quand même dingue hein je suis urgentiste et j'ai même pas le droit à une ambulance hein il y a pas aucun traitement de heu du tout hein c'est
+MEDECIN: non il y a pas de privilèges particuliers madame mais ce qu'a fait votre papa est plutôt rassurant alors vous vous rendez aux urgences?
+PATIENT: très bien très bien très bien je je fais ça merci
+MEDECIN: au revoir madame
+PATIENT: au revoir

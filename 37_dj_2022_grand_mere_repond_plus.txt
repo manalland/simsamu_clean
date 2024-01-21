@@ -1,0 +1,35 @@
+MEDECIN: bonjour, docteur RICHARDO, je vous écoute au sujet de votre grand mère qui répond plus au téléphone c'est ça?
+PATIENT: oui c'est ça
+MEDECIN: alors expliquez moi
+MEDECIN: qu'est ce qui se passe, vous l'avez joint quand la dernière fois?
+PATIENT: heu c'était mes parents qui l'avaient joint, moi ça fait un petit moment. mais, enfin là elle répond pas.
+MEDECIN: d'accord. vos parents l'ont appelée quand?
+PATIENT: hier, avant hier peut être?
+MEDECIN: et vous vous l'av- vous avez essayé de l'appeler quand?
+PATIENT: heu là là, il y a cinq, dix minutes.
+MEDECIN: si je résume, la dernière fois qu'on l'a eu au téléphone c'est au plus il y a quarante huit heures?
+PATIENT: hum je pense
+MEDECIN: est ce que votre grand mère a des problèmes de santé?
+PATIENT: heu on parle pas trop de ça moi je, non, elle est, je pense pas qu'elle aie de problèmes de santé
+MEDECIN: est ce qu'elle prend des médicaments?
+PATIENT: heu je pense pas
+MEDECIN: ok est ce qu'il y a quelque chose qui vous inquiéterait, une raison de vous inquiéter? le fait qu'elle réponde pas. est ce qu'elle a déjà fait ce genre de choses?
+PATIENT: habituellement elle me répond. non c'est pour ça je m'inquiète.
+MEDECIN: est ce qu'il y a quelqu'un de votre famille qui a essayé d'aller la voir physiquement?
+PATIENT: heu non
+MEDECIN: bien on va envoyer les pompiers pour se rendre compte de la situation
+PATIENT: mais mais les pompiers pour quoi?
+MEDECIN: pour se rendre compte de la situation comme on sait pas ce qu'est ve- devenue votre grand mère il faut déjà ouvrir la porte et donc les pompiers sont là pour ça
+PATIENT: mais moi ma grand mère je sais pas peut être elle est peut être pas à la maison. vous savez elle heu elle a pas de téléphone portable
+MEDECIN: on s'en rendra bien compte quand les pompiers seront sur place
+PATIENT: mais ils vont ouvrir la porte, ils vont défoncer la porte?
+MEDECIN: ils vont faire leur métier et c'est ça qui nous permettra de nous rendre compte de la situation
+MEDECIN: en attendant vous pouvez aller chez votre grand mère en attendant les pompiers on va les appeler ils vont partir dans la minute
+PATIENT: mais il vont défoncer. mais peut être ma grand mère elle est pas là, je sais pas moi.
+MEDECIN: on s'en rendra bien compte. je vous demande de d'aller chez vos grands parents pour l'instant et les pompiers arriveront faire leur travail. c'est clair?
+PATIENT: heu moi je travaille là. je peux pas aller la voir tout de suite
+MEDECIN: c'est pas grave on va garder votre numéro en attendant les pompiers ils vont aller chez vos parents
+PATIENT: hum les pompiers. d'accord.
+PATIENT: ok
+MEDECIN: merci, au revoir
+PATIENT: au revoir

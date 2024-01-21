@@ -1,0 +1,62 @@
+MEDECIN: allo?
+PATIENT: allo?
+MEDECIN: oui bonjour docteur RICHARDO vous appelez pour votre femme heu qui a fait un malaise heu récemment c'est ça?
+PATIENT: oui c'est ça
+MEDECIN: alors q- elle ​a dix huit ans votre femme?
+PATIENT: <NA>
+MEDECIN: et elle a elle a des problèmes de santé particuliers?
+PATIENT: non je sais pas
+MEDECIN: elle prend pas de médicament du tout?
+PATIENT: non elle m'en a jamais parlé
+MEDECIN: là actuellement elle est consciente?
+PATIENT: hum bah oui je pense
+MEDECIN: quand vous lui parlez elle vous répond?
+PATIENT: non
+MEDECIN: secouez là pour voir si elle réagit
+PATIENT: non
+MEDECIN: quand vous lui quand vous la se- secouez elle réagit pas du tout?
+PATIENT: bah
+MEDECIN: prenez lui les bras vous lui vous vous lui vous lui appuyez sur les mains et vous l'appelez allez-y
+PATIENT: <NA>
+PATIENT: un peu oui
+MEDECIN: un peu elle elle elle ouvre les yeux?
+PATIENT: oui
+MEDECIN: elle ouvre les yeux elle vous elle vous répond? dites dites dites lui de vous répondre
+PATIENT: réponds moi
+MEDECIN: allez-y
+PATIENT: elle respire fort
+MEDECIN: elle respire fort est-ce qu'elle est-ce qu'elle a des mouvements anormaux
+PATIENT: heu non
+MEDECIN: elle bouge pas
+PATIENT: heu elle est tendue
+MEDECIN: et là quand vous l- vous l'avez vue faire son malaise?
+PATIENT: heu ouais on était dans la cuisine
+MEDECIN: et elle est elle est elle est tombée d'un coup?
+PATIENT: heu non c'était heu c'était heu après qu'on se soit parlées
+MEDECIN: vous vous êtes dis- disputées?
+PATIENT: hum
+MEDECIN: vous vous êtes disputées et là elle a fait son malaise?
+PATIENT: oui
+MEDECIN: là elle tremble des elle tremble des mains?
+PATIENT: oui elle est tendue
+MEDECIN: elle est tendue. alors secouez là encore dites di- enfin heu dites lui de heu dites lui de se calmer
+PATIENT: calme toi là
+MEDECIN: alors là depuis depuis le début du coup de fil là est ce que est ce que vous avez l'impression que que qu'elle reprend ses esprits?
+PATIENT: bah non mais ça pourrait être grave là
+MEDECIN: là est ce que elle depuis le début du coup de fil ma- madame est ce que vous avez l'impression qu'elle reprend ses esprits?
+PATIENT: bah non
+MEDECIN: elle est pareil
+PATIENT: <NA>
+MEDECIN: là elle est pareil madame elle elle est elle est aussi inconsciente qu'au début de l'appel?
+PATIENT: elle respire fort heu moi j'ai j'ai peur
+MEDECIN: elle respire fort
+MEDECIN: et là là là quand vous lui lui parlez est ce qu'elle arrive à vous vous dire des mots? re- redeman- redemandez lui de vous répondre
+PATIENT: elle me répond
+MEDECIN: elle vous rép-
+PATIENT: <NA>
+MEDECIN: elle vous répond bon. alors ce que vous faites là vous vous restez avec elle vous vous la vous la calmez elle va reprendre ses esprits peu à peu vous rappelez dans dans la demi heure si si elle a pas repris ses esprits complètement
+PATIENT: il y a pas le SAMU qui va venir?
+MEDECIN: vous rappelez dans une demi heure pour si les symptômes persistent
+PATIENT: d'accord
+MEDECIN: voilà n'hésitez pas à rappeler dans une demi heure au revoir
+PATIENT: au revoir

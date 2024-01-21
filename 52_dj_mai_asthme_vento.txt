@@ -1,0 +1,46 @@
+MEDECIN: bonjour madame je suis le docteur ABAZ du SAMU heu
+PATIENT: bonjour docteur
+MEDECIN: mon collègue m'a dit que vous appeliez pour heu votre collègue de seize ans c'est bien cela?
+PATIENT: c'est ma copine de seize ans c'est pas ma collègue
+MEDECIN: ok vous êtes heu c'est votre copine vous êtes où exactement là?
+PATIENT: bah là on est chez moi là
+MEDECIN: ok elle est gênée pour respirer c'est bien cela?
+PATIENT: oui
+MEDECIN: elle est gênée depuis combien de temps?
+PATIENT: bah je sais pas là elle est arrivée tout à l'heure heu on doit passer le week-end ensemble elle est arrivée et heu
+MEDECIN: à quelle heure exactement?
+PATIENT: elle est pas très bien pour
+PATIENT: oh bah je sais pas j'ai pas regardé l'heure dans l'après midi
+MEDECIN: ça fait une heure deux heures?
+PATIENT: bah ça fait un entre une heure et deux heures
+MEDECIN: est ce qu'elle arrive à vous parler ou pas du tout?
+PATIENT: heu un peu
+MEDECIN: elle est consciente?
+PATIENT: arrive à parler oui elle est consciente oui
+MEDECIN: est ce qu'elle est pâle est ce qu'elle est en sueur?
+PATIENT: ah non bah après elle est pas très bronzée hein c'est pas encore l'été mais heu mais non elle est pas particulièrement pâle ou en sueurs
+MEDECIN: passez la moi au téléphone j'aimerais bien pouvoir lui parler
+PATIENT: ok
+PATIENT: allo?
+MEDECIN: allo madame je suis le docteur ABAZ du SAMU
+PATIENT: bonjour docteur
+MEDECIN: bonjour racontez moi un peu ce qu'il vous arrive
+PATIENT: bah en fait j'ai plus de VENTOLINE heu parce que j'ai oublié heu d'aller à la pharmacie quoi et du coup là pff je je me sens un peu heu ça serre heu dans mes poumons
+MEDECIN: c'est heu ça vous serre comme ça depuis combien de temps?
+PATIENT: bah depuis cet aprem là après le déjeuner
+MEDECIN: vous avez heu d'autres médicaments chez vous à la maison ou heu vous aviez que de la
+PATIENT: bah non là j'ai rien là
+MEDECIN: bon heu ce qu'il faut faire c'est qu'il faut contacter votre médecin traitant pour prendre ​rendez-vous rapidement avec lui
+PATIENT: ah ouais mais là je suis chez ma copine heu ce sera pas avant plusieurs jours là je suis pas bien là pour respirer je me sens pas bien là docteur
+MEDECIN: il faut bah je vais voir ce que je peux faire pour vous je vais essayer de trouver un médecin heu je vais voir ce que ce que je peux faire pour vous ne raccrochez pas je reviens vers vous dans un instant
+PATIENT: ouais bah j'attends oui
+MEDECIN: madame?
+PATIENT: oui?
+MEDECIN: heu j'ai trouvé heu il y a un médecin qui peut se déplacer heu chez vous ou chez votre ami heu dans la demi journée pour vous examiner
+PATIENT: donc ça veut dire qu'on peut pas sortir de la maison là on attend
+MEDECIN: non oui vous attendez le médecin
+PATIENT: ok bah merci docteur
+MEDECIN: je vous en prie si il y a le moindre souci vous nous rappelez
+PATIENT: ok
+MEDECIN: bonne journée au revoir
+PATIENT: au revoir docteur

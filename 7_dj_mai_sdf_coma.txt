@@ -1,0 +1,15 @@
+MEDECIN: oui bonjour docteur SAEB hum je vous hum vous appelez parce que vous avez trouvé un SDF dans le coma c'est bien ça?
+PATIENT: bah je sais pas trop moi
+MEDECIN: il est conscient?
+PATIENT: bah je sais pas
+MEDECIN: est ce qu'il respire?
+PATIENT: hum j'ai l'impression que que oui il ronfle un peu
+MEDECIN: d'accord là vous pouvez le le stimuler un peu pour qu'il qu'il ouvre les yeux?
+PATIENT: bah heu j'ai pas très envie de m'approcher il est pas très propre ce monsieur c'est un monsieur du quartier
+MEDECIN: madame vous appelez madame vous appelez il il faut que vous vous rapprochiez de lui et que vous le stimuliez un peu approchez vous de lui
+PATIENT: bon d'accord hum heu là je lui ai secoué un peu l'épaule il il grogne il me repousse
+MEDECIN: d'accord donc il parle c'est ça?
+PATIENT: bah il grogne je comprends pas ce qu'il dit
+MEDECIN: d'accord hum vous vous allez rester près de lui hum on va envoyer les pompiers vous restez près de lui jusqu'à l'arrivée des pompiers et on envoie les pompiers
+PATIENT: ok bah merci pardon de vous avoir dérangé hein docteur
+MEDECIN: non non pas de soucis

@@ -1,0 +1,93 @@
+MEDECIN: d'accord
+MEDECIN: bonjour madame, je suis le docteur LAKHLIFI. vous appelez pour votre enfant de huit ans qui ne répond plus c'est ça?
+PATIENT: oui oui bonjour oui
+MEDECIN: d'accord. est ce qu'il a les yeux ouverts?
+PATIENT: bah je sais pas heu
+PATIENT: il est dans son lit en fait heu je sais pas
+MEDECIN: est ce que vous pouvez aller le voir s'il vous plait?
+PATIENT: bah bah non je peux pas
+MEDECIN: j'ai besoin que vous alliez le voir s'il vous plait, et vous le secouez un petit peu et je veux savoir si il répond
+PATIENT: bah je sais pas, j'ai j'ai peur vraiment
+MEDECIN: on va faire ça ensemble. donc allez le voir dans sa chambre
+PATIENT: ouais bah là je suis dans sa chambre ouais
+MEDECIN: d'accord. posez lui une question
+MEDECIN: demandez lui d'ouvrir les yeux
+PATIENT: bah non je peux pas, je suis désolée
+MEDECIN: est ce que vous pouvez mettre le haut parleur?
+PATIENT: ah bah non vu qu y a pas de on a pas de haut parleur
+MEDECIN: est ce que vous pouvez me le passer?
+PATIENT: bah je peux pas là
+MEDECIN: passez le moi s'il vous plait
+PATIENT: eh ERIC. bah il p- il p- bah je sais pas il
+PATIENT: il dormait mais là je sais pas
+MEDECIN: là vous l'avez réveillé?
+PATIENT: bah non non je suis à côté, j'ai un peu
+MEDECIN: réveillez le s'il vous plait
+PATIENT: ERIC, réveille toi
+PATIENT: ERIC
+MEDECIN: il se réveille?
+PATIENT: bah non
+MEDECIN: il ouvre pas les yeux?
+PATIENT: bah je je qu- je lui ai pas demandé quoi, je sais pas
+MEDECIN: demandez lui d'ouvrir les yeux
+PATIENT: ERIC ouv- ouvre les yeux ERIC
+PATIENT: il bouge un peu les paupières ouais
+MEDECIN: d'accord. heu ça fait combien de temps qu'il est comme ça?
+PATIENT: bah en fait là il est il a je sais pas depuis quatorze heures c'était le la sieste à quatorze heures
+MEDECIN: hum
+PATIENT: et d'habitude il fait le goûter là
+MEDECIN: d'accord
+PATIENT: c'est l'heure du NUTELLA
+MEDECIN: et il s'est pas réveillé spontanément. c'est ça?
+PATIENT: ouais à mon avis il s'est couché couché super tard
+MEDECIN: il a des problèmes de santé?
+PATIENT: bah non. non non
+MEDECIN: et c'est la première fois qu'il ne se réveille pas comme ça de sa sieste?
+PATIENT: heu ouais d'habitude je vous dis c'est c'est le NUTELLA là
+PATIENT: c'est l'heure du goûter
+MEDECIN: il allait bien ce matin?
+PATIENT: heu, je sais pas, ouais
+PATIENT: je pense
+MEDECIN: est ce que vous pouvez lui demander de se lever?
+PATIENT: ah bah non je je peux pas madame, je suis inquiète là, je peux pas lui demander
+MEDECIN: pour quelle raison vous pouvez pas lui demander?
+PATIENT: bah je sais pas il se réveille pas comme d'habitude donc c'est un peu je sais pas
+MEDECIN: donc là si je résume bien, quand vous le secouez il ouvre quand même les yeux, il réagit, c'est ça?
+PATIENT: bah hum je sais pas ouais
+MEDECIN: mais il ne se réveille pas correctement
+PATIENT: bah je sais pas il dort enfin il est toujours dans son lit quoi
+MEDECIN: il est, j'ai pas entendu, il est quoi?
+PATIENT: il est il est dans son lit là donc heu
+PATIENT: il dormait quoi
+MEDECIN: et vous l'avez réveillé?
+PATIENT: bah non
+MEDECIN: est ce que vous pouvez s'il vous plait madame heu lui demander de se de se lever, vous le stimulez, vous le réveillez, vous l'appelez, vous le secouez un petit peu, vous lui demandez se- se-de se lever de son lit
+PATIENT: là je comprends plus là, y a trop de choses
+MEDECIN: bon
+PATIENT: je comprends pas
+MEDECIN: d'accord
+MEDECIN: écoutez. on va vous envoyer heu les pompiers qui vont évaluer un peu la situation et heu ils nous rappelleront si y a quoi que ce soit
+PATIENT: mais en attendant il il bouge pas du coup je le laisse comme ça dormir, je sais pas?
+MEDECIN: heu laissez le dans son lit pour l'instant, restez à côté de lui et les pompiers vont arriver
+PATIENT: d'accord je ok
+MEDECIN: et vous nous rappelez si il y a quoique ce soit de nouveau
+PATIENT: de nouveau. hum. d'accord, mais
+PATIENT: sinon je le laisse comme ça?
+MEDECIN: oui
+PATIENT: d'accord
+MEDECIN: très bien madame, merci
+PATIENT: je suis inquiète hein
+MEDECIN: oui, c'est pour ça qu'on vous envoie les pompiers
+PATIENT: dans combien de temps?
+MEDECIN: là ils partent
+MEDECIN: donc ils arriveront d'ici hum maximum vingt minutes
+PATIENT: d'accord. sinon je rappelle hein?
+MEDECIN: oui
+PATIENT: d'accord
+PATIENT: bon ok
+MEDECIN: au revoir
+PATIENT: <NA>
+PATIENT: je vais rester à côt- je vais regarder
+MEDECIN: d'accord
+PATIENT: voilà au revoir
+MEDECIN: au revoir

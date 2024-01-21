@@ -1,0 +1,54 @@
+MEDECIN: bonjour monsieur je m'appelle DIANE JOUCLA je suis le médecin du SAMU vous appelez pour votre femme qui a des vertiges c'est bien ça?
+PATIENT: oui bonjour ah par contre si il a fait une erreur le monsieur moi je suis la femme et c'est pour heu pour heu ben pour mon mari hein que que que je vous appelle
+MEDECIN: d'accord très bien il a quel âge votre mari madame?
+PATIENT: il a dix huit ans comme moi
+MEDECIN: d'accord et heu il a des vertiges depuis quand?
+PATIENT: heu depuis depuis ce matin quand il s'est réveillé il heu il a pris heu il s'est voulu se lever et c'est là qu'il a eu beaucoup de vertiges
+MEDECIN: d'accord il a des problèmes de santé votre mari?
+PATIENT: je je crois pas non il a parfois il a été à l'hôpital heu mais c'était pour des petites choses c'était il y a longtemps pour heu pour des heu plusieurs fois il avait eu heu une infection de de de de l'oreille
+PATIENT: et puis une fois il avait eu heu un et un il s'était coupé heu sur l'orteil là avec un couteau et heu puis je crois que c'est tout
+MEDECIN: il est suivi par un ORL depuis son problème à l'oreille?
+PATIENT: ah non non non non c'était il y a très très longtemps ça c'était quand il était petit
+MEDECIN: et là il est à côté de vous?
+PATIENT: il est heu alors je suis dans la accolé la pièce d'à côté parce qu'il est comme il vomit et il fait beaucoup beaucoup de bruit
+MEDECIN: et il a vomit combien de fois depuis ce matin?
+PATIENT: trois quatre fois
+MEDECIN: il vous parle normalement?
+PATIENT: des vertiges
+PATIENT: heu bah là il parle pas il est en train de vomir
+MEDECIN: et avant ça?
+PATIENT: bah oui
+MEDECIN: il s'est cogné la tête aujourd'hui?
+PATIENT: non
+MEDECIN: non bon donc si je résume heu vous votre mari il a mal à la tête depuis ce matin il a la tête qui tourne heu il a vomi
+PATIENT: ah non il a pas mal à la tête hein il a il a il a pas mal à la tête il a juste des vertiges
+MEDECIN: ok dans ce cas là je pense que
+PATIENT: et ça le fait vomir
+MEDECIN: il il va falloir qu'il consulte son médecin traitant
+MEDECIN: vous vous pouvez l'emmener chez le médecin traitant?
+MEDECIN: vous m'avez entendue?
+PATIENT: je vais voir
+PATIENT: <NA>
+PATIENT: il vomit toujours madame
+MEDECIN: hum hum j'entends et il vomit mais entre les moments où il vomit il est normal?
+PATIENT: heu bah il a juste des vertiges quand il bouge la tête
+MEDECIN: bah là il faut qu'il aille voir son médecin traitant donc j'aimerais que vous l'emmeniez chez chez son médecin
+MEDECIN: parce que ce sera la solution
+PATIENT: ça va être compliqué madame
+PATIENT: parce que c'est la première fois qu'il fait ça ça c'est c'est c'est grave quand même ça ça m'inquiète
+MEDECIN: bah moi ce que heu la raison pour laquelle hum ce que je veux qu'il fasse c'est qu'il aille consulter son médecin traitant et pour ça j'aimerais que vous vous l'emmeniez
+MEDECIN: ce sera la solution la plus rapide pour lui pour qu'il voit un médecin
+PATIENT: je fais comment si il vomit dans ma voiture?
+MEDECIN: bah vous prenez un sac pour le vomi et vous l'emmenez chez le médecin traitant là
+MEDECIN: ce matin
+PATIENT: bah j'en ai pas
+MEDECIN: bah vous prenez un sac plastique
+PATIENT: qu'il marche jusqu'à la voiture il va en mettre partout
+MEDECIN: c'est pas grave là il faut qu'il aille voir son médecin traitant aujourd'hui
+MEDECIN: et que vous l'emmeniez
+PATIENT: aujourd'hui?
+MEDECIN: aujourd'hui oui
+MEDECIN: donc vous l'emmenez avec vous et puis heu si vraiment vous arrivez pas à joindre le médecin traitant vous nous rappelez
+PATIENT: ben je vais on va on va on va essayer
+MEDECIN: ok au revoir madame
+PATIENT: au revoir

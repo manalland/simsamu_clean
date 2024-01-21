@@ -1,0 +1,31 @@
+MEDECIN: bonjour, docteur RICHARDO. euh je vous écoute, vous appelez pour votre frère qui est blessé c'est bien ça?
+PATIENT: ouais ouais ouais, ouais c'est ça ouais. je je là je rentrais heu je rentrais du bar et j'ai vu mon frère il avait du du du sang sur son pantalon et bah il s'est encore fait heu il s'est encore fait un coup de couteau
+MEDECIN: la plaie elle est elle vous semble est ce que la plaie saigne encore?
+PATIENT: ah bah je sais pas là il veut pas que je regarde. il est hyper énervé, il voulait pas que j'appelle heu
+MEDECIN: allez le voir et regardez la plaie. allez le voir et regardez la plaie. j'ai besoin que vous regardiez la plaie et que vous me la décriviez
+PATIENT: heu bah je je vais aller le voir mais heu il va me renvoyer chier il voulait pas que j'appelle en fait donc heu je vais voir heu
+PATIENT: bon bah voilà il m'a dit de dégager, donc heu très bien
+MEDECIN: dites lui que le les secours ont besoin de lui parler
+PATIENT: mais il voul- il voulait il veut pas les voir, il veut pas les il veut pas leur parler
+PATIENT: ouais c'est mon c'est mon cousin qui m'a dit d'appeler mais enfin c'est c'est toujours la même chose de toute façon avec lui
+MEDECIN: vous avez vu la plaie au moins un peu ou pas de loin?
+PATIENT: non pas du tout
+MEDECIN: vous avez pas vu la plaie. est ce qu'il est rentré à pieds?
+PATIENT: bah je sais pas je vous moi je quand je suis arrivé il était déjà là
+MEDECIN: est ce que là il est debout, il est assis, il est al- allongé?
+PATIENT: euh là il est assis sur le canapé
+MEDECIN: on va vous envoyer les pompiers. vous restez auprès de votre frère. et vous nous rappelez si il y a quoi que ce soit de nouveau
+PATIENT: ouais ok ok bah pff en vrai je pense pas hein
+MEDECIN: <NA>
+MEDECIN: attendez quand même avec lui, les pompiers vont venir
+PATIENT: les pompiers qui arrivent? non, je pense que ça va le faire vriller de voir les pompiers débarquer à la maison là
+MEDECIN: ils vont gérer ça
+PATIENT: heu franchement je suis pas heu je suis pas très chaude de que vous rameniez toute une équipe là chez nous heu
+MEDECIN: les pompiers vont gérer ça. ne vous inquiétez pas, restez avec votre frère
+PATIENT: bon
+PATIENT: bah il va pas être content donc heu
+MEDECIN: il verra ça avec les pompiers
+PATIENT: bon, je vais lui dire
+MEDECIN: merci
+MEDECIN: au revoir
+PATIENT: au revoir

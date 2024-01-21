@@ -1,0 +1,54 @@
+MEDECIN: bonjour madame je suis le médecin du SAMU je m'appelle le docteur DETOURY vous appelez pour votre fille de quatorze ans c'est ça?
+PATIENT: oui c'est ça
+MEDECIN: d'accord alors qu'est ce qui lui arrive à votre fille?
+PATIENT: bah je la trouve un peu bizarre je je
+MEDECIN: d'accord
+PATIENT: bizarre elle est pas dans son état normal
+MEDECIN: elle se plaint de quelque chose?
+PATIENT: non mais heu elle parle bizarrement heu elle a du mal à parler j'ai l'impression
+MEDECIN: d'accord et elle bouge bien heu les deux bras et les deux jambes?
+PATIENT: elle marche bizarrement elle c'est pas c'est pas du tout comme d'habitude
+MEDECIN: hum est ce que elle se plaint d'une douleur quelque part votre fille?
+PATIENT: non non
+MEDECIN: ça fait combien de temps que elle a ses troubles là de la parole et de la marche?
+PATIENT: je je sais pas trop on s'est disputées et je suis partie aller enfin j'ai fait je suis partie faire des courses et heu quand je suis revenue elle était heu elle était comme ça
+MEDECIN: là vous avez appelé directement en la voyant comme ça?
+PATIENT: oui
+MEDECIN: heu est ce qu'elle a des problèmes de santé votre fille?
+PATIENT: non
+MEDECIN: elle prend pas de médicaments?
+PATIENT: elle prend du DOLIPRANE quand ça va pas mais quand ça juste du DOLIPRANE quoi
+MEDECIN: et est ce que elle fume votre fille?
+PATIENT: comment?
+MEDECIN: est ce que votre fime fille elle fume?
+PATIENT: non
+MEDECIN: et elle boit pas d'alcool?
+PATIENT: bah je sais pas si elle boit pas d'alcool en tout cas j'ai l'impression que là heu je sais pas je il y a une je il y a une bouteille qui a disparu heu dans la cuisine
+MEDECIN: une bouteille de quoi?
+PATIENT: une bouteille de vodka
+MEDECIN: et votre fille là elle sent l'alcool?
+PATIENT: oui je je oui oui oui elle sent l'alcool
+MEDECIN: et il va probablement hum
+MEDECIN: hum là vous restez à la maison avec elle ou pas aujourd'hui vous la surveillez?
+MEDECIN: ou vous allez au travail?
+PATIENT: je devais aller travailler mais oui je après heu là j'impression qu'elle s'est un peu endormie
+MEDECIN: et le quand vous la stimulez elle elle se réveille elle répond?
+PATIENT: heu je vais vérifier
+MEDECIN: vous lui secouez le bras
+PATIENT: oui oui oui elle répond elle s'endort mais elle répond
+MEDECIN: et elle se rendort très bien et vous êtes juste toutes les deux à la maison?
+PATIENT: oui
+MEDECIN: hum c'est la première fois qu'elle fait ça votre fille?
+PATIENT: on se dispute souvent alors ça lui arrive oui enfin elle est
+MEDECIN: elle boit de l'alcool à chaque fois que vous vous disputez?
+PATIENT: oui
+MEDECIN: moi je pense que votre fille il faudrait l'emmener heu voir un médecin heu peut être que le mieux ce serait d'aller aux urgences pédiatriques pour qu'elle heu soit heu orientée peut être vers un pédopsychologue ou un pédopsychiatre
+MEDECIN: vous pouvez l'emmener aux urg- vous devriez l'emmener aux urgences
+PATIENT: elle c'est parce qu'elle est folle?
+MEDECIN: non mais elle a besoin qu'on l'aide heu pour tous ces moments où heu elle réagit comme ça quand vous vous disputez
+MEDECIN: vous êtes bien d'accord que ça peut pas continuer comme ça?
+PATIENT: oui vous avez raison oui
+MEDECIN: je vous laisse l'emmener aux urgences heu pédiatriques les plus proches de chez vous
+PATIENT: très bien très bien
+MEDECIN: au revoir madame
+PATIENT: au revoir merci

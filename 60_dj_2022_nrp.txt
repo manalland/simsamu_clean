@@ -1,0 +1,36 @@
+MEDECIN: d'accord
+PATIENT: allo, allo?
+MEDECIN: oui bonjour hum
+MEDECIN: allo?
+PATIENT: oui, oui bonjour?
+MEDECIN: oui bonjour je suis le docteur ISABELLE euh du coup hum c'est heu vous appelez pour vo- votre mère, votre grand mère c'est ça?
+PATIENT: j'a j'appelle pour ma ma mère effectivement, madame BERTRAND. c'est vous savez la femme du du du grand professeur BERTRAND, cardiologue, je je sais pas si ​vous ça vous dit quelque chose. heu je suis assez inquiète parce que là elle elle répond plus au téléphone heu c'est c'est pas normal
+MEDECIN: hum d'accord. c'est c'est quand que vous l'avez vue la dernière fois du coup?
+PATIENT: je l'ai je l'ai eu hier au téléphone heu ma mère là normalement elle devrait être chez elle. heu elle répond pas, c'est absolument c'est absolument pas normal là, il faut envoyer quelqu'un tout de suite
+MEDECIN: est ce que vous avez essayé de passer chez elle pour la voir?
+PATIENT: heu non là je vous dis, elle devrait être chez elle, elle devrait répondre au téléphone. vous savez ma mère je la connais, c'est une femme qui est très active dans la vie. encore la semaine dernière elle était ​à un ​à un dîner avec heu avec son mon père, le professeur BERTRAND et des collègues
+PATIENT: heu où où elle c'est pas ça lui ressemble pas de pas répondre au téléphone, il faut il faut lui envoyer un un des un SAMU tout de suite
+MEDECIN: j'entends ce que vous me dites, est ce qu'elle a des problèmes de santé votre mère?
+PATIENT: bah on en parle pas beaucoup. vous savez ma mère, comme je vous dis, c'est une grande dame, elle ne va pas raconter à ses enfants heu et quels sont ses problèmes de santé hein vous vous. je suis vraiment inquiet il faut il faut lui envoyer quelqu'un tout de suite
+PATIENT: là heu il il si ça se trouve est elle en train de faire un arrêt cardiaque, euh on faut il faut faire quelque chose
+MEDECIN: hum d'accord. hum hum ce qu'on va faire, là vous avez pas réussi à la joindre du tout, du coup?
+PATIENT: c'est exactement ce que je vous ai dit heu, c'est pas c'est pas normal
+MEDECIN: d'accord hum. hum ce qu'on va faire c'est qu'on va en- envoyer une amb-, on va envoyer les pompiers pour aller voir ce qui se passe à ​d- à la maison d'accord?
+PATIENT: et et qu'est ce qu'ils vont faire les pompiers? ma mère là elle est en train de faire un arrêt cardiaque, elle est en train de heu de faire un infarctus, les pompiers ça suffit pas enfin je je
+PATIENT: quand même, heu ma mère je la connais. je vous ai dit c'est la la femme du professeur BERTRAND, je pense que heu vous pouvez au moins envoyer heu un médecin avec les pompiers
+MEDECIN: on va envoyer déjà les pompiers qui vont arriver très vite, ils vont déjà pouvoir entrer à la maison et voir ce qui se passe d'accord? c'est tout ce qu'on va faire pour l'instant
+PATIENT: non je suis vraiment pas d'accord heu. non je ne suis pas d'accord heu il faut un médecin, ça ne suffit pas
+MEDECIN: madame on va envoyer les pompiers, et ils vont nous rappeler eux. d'accord?
+PATIENT: hum bah non vraiment je ça ça ne suffit pas je
+MEDECIN: les pompiers vont arriver très vite et du coup hum, on va on va les envoyer au plus vite possible et ils vont arriver là
+MEDECIN: en premier. oh j'arrive pas là, ça je bloque, là ça y est
+PATIENT: co- comment?
+MEDECIN: on va envoyer les pompiers madame
+PATIENT: d'accord mais si y a quoi que ce soit ou franchement vous en entendrez parler hein
+MEDECIN: oui, on envoie les pompiers
+PATIENT: bon oui
+MEDECIN: oui
+PATIENT: d'accord
+MEDECIN: ok
+MEDECIN: au revoir
+PATIENT: au revoir
